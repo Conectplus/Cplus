@@ -342,8 +342,46 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=55b47390cf9e4997dae6dac85e057875&key=fa39e855543c5d70f30600d59e5e4c1b",
         "icono": "https://i.ibb.co/2W84yn1/ar-fox-sports-3-m.png"
       },
-    
-  
+    {
+        "name": "ESPN PREMIUM",
+        "uri": "https://edge-live11-sl.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257",
+		"icono": "https://i.postimg.cc/02BdYRZz/ver-espn-premium-en-vivo.jpg"
+      },
+      {
+        "name": "ESPN PREMIUM 2",
+        "uri": "https://ixp-nqn.cdn.rcs.net.ar/mnp/espnpremium/output.mpd",
+		"icono": "https://i.postimg.cc/02BdYRZz/ver-espn-premium-en-vivo.jpg"
+      },
+      {
+        "name": "ESPN",
+        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_2A/ESPN2HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/espn1.json",
+		"icono": "https://i.postimg.cc/fT4HQq5q/ESPN.png"
+      },
+      {
+        "name": "ESPN 2",
+        "uri": "https://edge-live15-hr.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://mute.mariabareiro.repl.co/HELLOWORL/espn2.json",
+		"icono": "https://i.postimg.cc/SQVGKzM7/ver-espn-2-en-vivo.jpg"
+      },
+      {
+        "name": "ESPN 3",
+        "uri": "https://edge-live13-sl.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc_2A/ESPN3.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://mute.mariabareiro.repl.co/HELLOWORL/espn3.json",
+		"icono": "https://i.postimg.cc/vTP72psS/ver-espn-3-en-vivo.jpg"
+      },
+      {
+        "name": "ESPN XTRA",
+        "uri": "https://edge-live17-hr.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://mute.mariabareiro.repl.co/HELLOWORL/espnx.json",
+		"icono": "https://i.postimg.cc/cHScvRhT/ver-espn-extra-en-vivo.jpg"
+      },
       
       {
         "name": "ESPN MEXICO",
