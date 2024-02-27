@@ -19,7 +19,18 @@
         "icono": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8e/4f/7c/8e4f7ce7-727e-d147-3a61-abe7c8fd6192/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/460x0w.png"
       },
       
-    
+    {
+        "name": "ESPN PREMIUM",
+        "uri": "https://edge-live11-sl.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257",
+		"icono": "https://i.postimg.cc/02BdYRZz/ver-espn-premium-en-vivo.jpg"
+      },
+      {
+        "name": "ESPN PREMIUM 2",
+        "uri": "https://ixp-nqn.cdn.rcs.net.ar/mnp/espnpremium/output.mpd",
+		"icono": "https://i.postimg.cc/02BdYRZz/ver-espn-premium-en-vivo.jpg"
+      },
 	    
       {
      
