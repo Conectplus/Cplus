@@ -1,1 +1,353 @@
+ [
+  {
+    "name": "🎥PELICULAS",
+    "samples": [
+       {
+        "name": "CUANDO ACECHA LA MALDAD",
+        "uri": "https://cdnst57.tokyvideo.com/videos/488/488266/mp4/89c50717774a18ba3ded5766c0ca6aa2316f25fe99fbacc61c62bf8b1a6ba812.mp4?secure=sML1PN8B3mvkCAeEABgyJQ%3D%3D%2C1708480598",
+        "icono": "http://imgfz.com/i/q7Q49TK.jpeg"
+      },
+     {
+        "name": "BLUE BEETLE",
+        "uri": "https://server09.peliscdn.online/newhls/ff2a97300310a75dd7b7b4083afe3008/EP.0.0.v1.1695148841.720.m3u8",
+        "icono": "https://pelisimg.online/cover/blue-beetle-1692423798.png"
+      },
+	               {
+        "name": "SAW X",
+        "uri": "https://server12.peliscdn.online/newhls/3150bfd60e2c425d856c30d34ba8bc23/EP.0.0.v1.1697891753.720.m3u8",
+        "icono": "https://pelisimg.online/cover/saw-x-1695976461.png"
+      },
+	               {
+        "name": "CHUCKY EL MUÑECO DIABOLICO 3",
+        "uri": "https://server01.peliscdn.online/newhls/e5e1d47877a4fc3d68c5935837454c9a/EP.0.1.v0.1677512994.720.m3u8",
+        "icono": "https://pelisimg.online/cover/chucky-el-muneco-diabolico-3.jpg"
+      },
+	               {
+        "name": "CHUCKY EL MUÑECO DIABOLICO 2",
+        "uri": "https://server33.peliscdn.online/newhls/ec78dd62cb5baf99d8b771ba6791cda1/EP.0.1.v0.1677278356.720.m3u8",
+        "icono": "https://pelisimg.online/cover/chucky-el-muneco-diabolico-2.jpg"
+      },
+	               {
+        "name": "CHUCKY EL MUÑECO DIABOLICO",
+        "uri": "https://server45.peliscdn.online/newhls/a40d3a58400fd447b75a033570d05762/EP.0.1.v2.1678740092.720.m3u8",
+        "icono": "https://pelisimg.online/cover/chucky-el-muneco-diabolico.jpg"
+      },
+	            {
+        "name": "LA MALDICION DE CHUCKY",
+        "uri": "https://server41.peliscdn.online/newhls/c42e5f3fe5118e99c668affc3ff0494e/EP.0.1.v0.1677296984.720.m3u8",
+        "icono": "https://pelisimg.online/cover/la-maldicion-de-chucky.jpg"
+      },
+	           {
+        "name": "RAPIDOS Y FURIOSOS X",
+        "uri": "https://server14.peliscdn.online/newhls/9ddec690edc5c849f099297e3801b473/EP.0.1.v2.1689699195.720.m3u8",
+        "icono": "https://pelisimg.online/cover/fast-x-2-1684533003.jpg"
+      },
+	           {
+        "name": "RAPIDOS Y FURIOSOS 8",
+        "uri": "https://server06.peliscdn.online/newhls/723518c4c9ea8c50f02b46f620508312/EP.0.1.v0.1677869955.720.m3u8",
+        "icono": "https://pelisimg.online/cover/rapidos-y-furiosos-8.jpg"
+      },
+	           {
+        "name": "RAPIDOS Y FURIOSOS 7",
+        "uri": "https://server15.peliscdn.online/newhls/f3bd5676e5f1c69d6c960375f952feb1/EP.0.1.v1.1679639837.720.m3u8",
+        "icono": "https://pelisimg.online/cover/rapidos-y-furiosos-7.jpg"
+      },
+	           {
+        "name": "RAPIDOS Y FURIOSOS 6",
+        "uri": "https://server30.peliscdn.online/newhls/0387473d12fb13d6e8e0dfbbe455aee7/EP.0.1.v1.1677348865.720.m3u8",
+        "icono": "https://pelisimg.online/cover/rapidos-y-furiosos-6.jpg"
+      },
+	            {
+        "name": "RAPIDOS Y FURIOSOS 5",
+        "uri": "https://server34.peliscdn.online/newhls/7db36887441993e78364479c8f25374e/EP.0.1.v2.1677436352.720.m3u8",
+        "icono": "https://pelisimg.online/cover/rapidos-y-furiosos-5in-control.jpg"
+      },
+	            {
+        "name": "RAPIDOS Y FURIOSOS 4",
+        "uri": "https://server20.peliscdn.online/newhls/ce7122d449910f8a50f293e84f6dd7bd/EP.0.1.v1.1677330693.720.m3u8",
+        "icono": "https://pelisimg.online/cover/rapidos-y-furiosos-4.jpg"
+      },
+	            {
+        "name": "RAPIDOS Y FURIOSOS RETO TOKIO",
+        "uri": "https://server45.peliscdn.online/newhls/4d5e743392ece3f4a1322bcceaac9790/EP.0.1.v0.1678454990.720.m3u8",
+        "icono": "https://pelisimg.online/cover/rapido-y-furioso-reto-tokio.jpg"
+      },
+	           {
+        "name": "LOS ASESINOS DE LA LUNA",
+        "uri": "https://server18.peliscdn.online/newhls/2a46c378fb658ea0ea338f5227f02fda/EP.0.2.v0.1697894102.720.m3u8",
+        "icono": "https://pelisimg.online/cover/los-asesinos-de-la-luna-1697887814.png"
+      },
+	         {
+        "name": "AGENTE STONE",
+        "uri": "https://server22.peliscdn.online/newhls/c369ee462e750fe42c54f4d391c9573b/EP.0.1.v1.1691984474.720.m3u8",
+        "icono": "https://pelisimg.online/cover/agente-stone-1691821027.png"
+      },
+	         {
+        "name": "UN SUEÑO POSIBLE",
+        "uri": "https://server17.peliscdn.online/newhls/e610900dc0fdecbac30c782cfb0ca3f6/EP.0.1.v0.1677409601.720.m3u8",
+        "icono": "https://pelisimg.online/cover/un-sueno-posible.jpg"
+      },
+	     {
+        "name": "EL REY MONO",
+        "uri": "https://server15.peliscdn.online/newhls/1c73ea851515ee2f6b2fd3c267b24fe2/EP.0.1.v2.1692441953.720.m3u8",
+        "icono": "https://pelisimg.online/cover/el-rey-mono-1692434974.png"
+      },
+	     {
+        "name": "LA NOCHE DEL DEMONIO: LA PUERTA ROJA",
+        "uri": "https://server16.peliscdn.online/newhls/8257db0707d255537d202943ab7497a2/EP.0.1.v2.1692806772.720.m3u8",
+        "icono": "https://i.ibb.co/3zxVhR7/v-R2qo6f-Asr-Iyh-J3cbe-Vdv8-Yqw-Wk.png"
+      },
+	     {
+        "name": "MEGALODON 2023",
+        "uri": "https://server17.peliscdn.online/newhls/dfa661663a68f40a05d15e13df45fa0f/EP.0.1.v3.1693193467.720.m3u8",
+        "icono": "https://pelisimg.online/cover/megalodon-2-el-gran-abismo-1691205314.png"
+      },
+	     {
+        "name": "HABLAME",
+        "uri": "https://server16.peliscdn.online/newhls/2f2601249c1d9e727ab7a2c0905e0eb9/EP.0.0.v3.1696769031.720.m3u8",
+        "icono": "https://pelisimg.online/cover/hablame-1691750975.png"
+      },
+	    {
+        "name": "SCREAM 4",
+        "uri": "https://server11.peliscdn.online/newhls/6199c61ff303317754546068dbf1a670/EP.0.1.v6.1691900455.720.m3u8",
+        "icono": "https://pelisimg.online/cover/scream-vi-2-1678406167.jpg"
+      }, 
+       {
+        "name": "EFECTO MARIPOSA",
+        "uri": "https://server22.peliscdn.online/newhls/2fdc8c1647d6b1f5d7d2c80a4b3f517b/EP.0.1.v0.1681811138.720.m3u8",
+        "icono": "https://pelisimg.online/cover/el-efecto-mariposa.jpg"
+      },
+	      {
+        "name": "SPIDERMAN-CRUZANDO EL MULTIVERSO",
+        "uri": "https://server27.peliscdn.online/newhls/6e4881625492f54b80abc121174a95f0/EP.0.1.v1.1691821571.720.m3u8",
+        "icono": "https://pelisimg.online/cover/spider-man-across-the-spider-se-2-1685731801.jpg"
+      },
+	      {
+        "name": "AFTER PARA SIEMPRE",
+        "uri": "https://server19.peliscdn.online/newhls/2549498c51b7fb0afeb4c91cd943d655/EP.0.0.v1.1696500831.720.m3u8",
+        "icono": "https://pelisimg.online/cover/after-para-siempre-1695013132.png"
+      },
+	      {
+        "name": "EL GATO CON BOTAS EL ULTIMO DESEO",
+        "uri": "https://server14.peliscdn.online/newhls/903f2e45085950d6d0f6d2b5ec8d0109/EP.0.0.v12.1679241844.720.m3u8",
+        "icono": "https://pelisimg.online/cover/puss-in-boots-the-last-wish-2-1670905204.jpg"
+      },
+	      {
+        "name": "UN ESPIA Y MEDIO",
+        "uri": "https://server39.peliscdn.online/newhls/8fbbc7ab39e49414dc572bbf45b9acea/EP.0.1.v0.1677341686.1080.m3u8",
+        "icono": "https://pelisimg.online/cover/un-espia-y-medio.jpg"
+      },
+      {
+        "name": "JOHN WICK 4",
+        "uri": "https://server08.peliscdn.online/newhls/b8e3f820d138b64a1873d1be8f1e0bfa/EP.0.1.v8.1689699109.720.m3u8",
+        "icono": "https://pelisimg.online/cover/john-wick-chapter-4-2-1679733602.jpg"
+      },
+     {
+        "name": "LOS MENOSPRECIADOS",
+        "uri": "https://z8dpsptc.sw-cdnstream.com/hls2/01/02916/rs6jgdctyxot_,n,h,.urlset/index-f2-v1-a1.m3u8?t=A8xhDd-ZvRrQUEP1eGT98l21ouli71LmU0nFP35wiMs&s=1706494529&e=129600&f=14584595&srv=vUVabH8vnOTA&i=0.4&sp=500&p1=vUVabH8vnOTA&p2=vUVabH8vnOTA&asn=27895",
+        "icono": "https://pelisimg.online/cover/los-menospreciados.jpg"
+      },
+     {
+        "name": "CULPA MIA",
+        "uri": "https://server12.peliscdn.online/newhls/b815bfb0ce5de8f0f4be374580ef103a/EP.0.1.v0.1687241848.720.m3u8",
+        "icono": "http://imgfz.com/i/ro9LYpD.jpeg"
+      },
+     {
+        "name": "MATAR O MORIR",
+        "uri": "https://server03.peliscdn.online/newhls/bd43b8bb499db4af18b6456a88d61958/EP.0.1.v0.1677478744.720.m3u8",
+        "icono": "https://pelisimg.online/cover/matar-o-morir.jpg"
+      },
 
+     {
+        "name": "SANGRE DE MI SANGRE",
+        "uri": "https://server12.peliscdn.online/newhls/e901f94ed646503e220784db33fceaab/EP.0.1.v0.1677458906.720.m3u8",
+        "icono": "https://pelisimg.online/cover/sangre-de-mi-sangre.jpg"
+      },
+
+      {
+        "name": "LA SOCIEDAD DE LA NIEVE",
+        "uri": "https://fast1.next-stream.xyz/movie/1704416400/177291_2.m3u8",
+        "icono": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR59HPNhrMNp92mpZlWvDu8J2FathJV7gKl2bONOqG2ZOigkkGR"
+      },
+
+      {
+        "name": "LA MONJA 2023",
+        "uri": "https://server26.peliscdn.online/newhls/2dcf71c725f003d389c0ea23b27a0af4/EP.0.1.v2.1696414503.720.m3u8",
+        "icono": "https://www.ecartelera.com/carteles/17900/17978/001_m.jpg"
+      },
+      {
+        "name": "HUYE",
+        "uri": "https://cdn.cvattv.com.ar/vod/c5eds/vod/MMMM0010000015274803-_Huye_/_/vod_dash/MMMM0010000015274803-_Huye_.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3a92fa1abee6bb233112ec9a38653de8&key=cd5dfbddda84d9f59f2fefd39a247600",
+        "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQgOmr7Ejs1GxF03FbLOtsDSh1j561fvcPRSncnDd1cllNj2f9g"
+      },
+      {
+        "name": "Adipurush (2023)SUST",
+        "uri": "https://tvinnov.online/PELICULAS%202023/Adipurush.2023/Adipurush.2023.1080p.WEBRip.mp4",
+        "icono": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT-fL4pRt_p-Us2geey7nFsZpPfvhYhm6v-Dj7lwX-TWTT6gqLV"
+      },
+      {
+        "name": "Alguien que cuide de mí (2023) SUST",
+        "uri": "https://tvinnov.online/PELICULAS%202023/Alguien%20que%20cuide%20de%20mI(2023)/Alguien.que.cuide.de.mi.2023.1080p.WEBRip.mp4",
+        "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQlH3Iah5aZhlt_MbeV99zjvDd05XAmMBKcPbTLV-EcRBNdojbG"
+      },
+      {
+        "name": "Alien.Invasion (2023) SUST",
+        "uri": "https://tvinnov.online/PELICULAS%202023/Alien.Invasion.2023.720p.AMZN.WEBRip/Alien.Invasion.2023.720pSUB.mp4",
+        "icono": "https://resizing.flixster.com/hs1lDzWjKkLQSC54JnCO1wBXDg0=/206x305/v2/https://flxt.tmsimg.com/assets/p24233020_v_v13_aa.jpg"
+      },
+      {
+        "name": "Asfixiados (2023)",
+        "uri": "https://tvinnov.online/PELICULAS%202023/Asfixiados%20(2023)/Asfixiados.2023.720p.WEBRip.mp4",
+        "icono": "https://www.parati.com.ar/wp-content/uploads/2023/03/Asf-033-740x1112.jpg.webp"
+      },
+      {
+        "name": "BOB ESPONJA PRESENTA LA MAREA DESCONOCIDA (2023)",
+        "uri": "https://tvinnov.online/PELICULAS%202023/BOB%20ESPONJA%20PRESENTA%20LA%20MAREA%20DESCONOCIDA%20(2023)/Bob%20Esponja%20presenta%20La%20Marea%20Desconocida%20(2023)%201080p%20WEB-DL%20Latino.mp4",
+        "icono": "https://www.compucalitv.com/wp-content/uploads/2023/09/SpongeBob-SquarePants-the-Tidal-Zoe-2023-hd-1080p-latino-dual-portadas.jpg"
+      },
+      {
+        "name": "Bloody Daddy (2023)SUST",
+        "uri": "https://tvinnov.online/PELICULAS%202023/Bloody%20Daddy%202023/Bloody.Daddy.2023.1080p..mp4",
+        "icono": "https://upload.wikimedia.org/wikipedia/en/8/8a/Bloody_Daddy.jpg"
+      },
+      {
+        "name": "Coyote(2023)SUST",
+        "uri": "https://tvinnov.online/PELICULAS%202023/Coyote%202023/Coyote.2023.720p.AMZN.WEBRip.800MB%20sub.mp4",
+        "icono": "https://pics.filmaffinity.com/coyote-717057766-large.jpg"
+      },
+      {
+        "name": "200 Pounds Beauty (2023)",
+        "uri": "https://tvinnov.online/PELICULAS%202023/200%20Pounds%20Beauty.2023/200.Pounds.Beauty.2023.720pSUB.mp4",
+        "icono": "https://i.ytimg.com/vi/F_VTqjZUGfI/maxresdefault.jpg"
+      },
+      {
+        "name": "85 South: Ghetto Legends",
+        "uri": "https://tvinnov.online/PELICULAS%202023/85%20South%20Ghetto%20Legends%202023/85.South.Ghetto.Legends.2023.720p.WEBRip.mp4",
+        "icono": "https://images.martincid.com/wp-content/uploads/2023/05/AAAABRP0tM7f-GvG2QvuSq_npcqqJnjZcswJsMGhQwqh_38So6dELwkxQPsM0SvD6Nxlx50Z-RTDSQdxX6byizjG-kv-TV4EzRRCuppBzQ7pTpgjdyvyxkqcEwSvyvculods2nxtfw.jpg"
+      },
+      {
+        "name": "65: Al borde de la extinción",
+        "uri": "https://tvinnov.online/PELICULAS%2060%20FPS/65%20AL%20BORDE%20DE%20LA%20EXTINCI%c3%93N/65Al%20borde%20de%20la%20extinci%c3%b3n%20(2023)%201080p%2060FPS%20WEB-DL%20Latino.mp4",
+        "icono": "https://www.sonypictures.com.ar/sites/argentina/files/2023-05/Key-Art_1400x2100_65.jpg"
+      },
+      {
+        "name": "Jung E 2023",
+        "uri": "http://15.235.119.170/Mix/Movies/Jung_E%20(2023)%20%5B720p%5D/Jung_E.2023.mkv",
+        "icono": "https://es.web.img2.acsta.net/c_310_420/pictures/23/01/20/12/19/2283426.jpg"
+      },
+      {
+        "name": "Super Mario Bros. La película (2023)",
+        "uri": "https://tvinnov.online/PELICULAS%2060%20FPS/Super%20Mario%20Bros.%20La%20pel%c3%adcula%20(2023)%201080p%2060FPS/Super%20Mario%20Bros.%20La%20pel%c3%adcula%20(2023)%201080p%2060FPS%20WEB-DL%20Latino.mp4",
+        "icono": "https://pics.filmaffinity.com/the_super_mario_bros_movie-521125124-large.jpg"
+      },
+      {
+        "name": "Zom 100: Zombie",
+        "uri": "https://tvinnov.online/PELICULAS%202023/Zom%20100%20Zombie%20ni%20Naru%20Made%20ni%20Shitai%20100%20no%20Koto/Zom%20100%20Cien%20cosas%20que%20quiero%20hacer%20antes%20de%20convertirme%20en%20zombi.2023.WEB-DL.1080p.Latino.mp4",
+        "icono": "https://static.wikia.nocookie.net/doblaje/images/0/08/Zom_100_%28Pel%C3%ADcula%29_-_Poster.jpg/revision/latest?cb=20230702231656&path-prefix=es"
+      },
+      {
+        "name": "Guardianes De La Galaxia Vol.3 (2023)",
+        "uri": "https://player.odycdn.com/api/v4/streams/free/ivotv2023gdlg/389a5629ce5c094000c2b4078812e42ecfcd2fba/b93e52",
+        "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpXFwQfZYleMjfgtgRKvsT0MrV7ObnxQgV1FpPbt91Gbe-0EYQBbA0BEbbbJH6Er_l6l3pan2JfvuqbUfCWMCVG4dV24FT_zikBXghGaM0QKTNMO7quwCf2cSLww88t54RftOYvFj2pMUGi7afj-IfdagmRU56PnX3V6TvTkiHXPbsBbMVrUnl4jWrnQ/s1600/41817-671406-20230503114933.jpg"
+      },
+      {
+        "name": "BARBIE LA PELICULA 2023",
+        "uri": "https://onedrive.live.com/download?resid=74C203FB085DB740%21107&authkey=!ADU6Hm80nUIIFgw",
+        "icono": "https://image.tmdb.org/t/p/original/ctMserH8g2SeOAnCw5gFjdQF8mo.jpg"
+      },
+      {
+        "name": "BARBIE LA PELICULA 2023 OPC 2",
+        "uri": "https://archive.org/download/bvi_20230806/b%40vi.mp4",
+        "icono": "https://image.tmdb.org/t/p/original/ctMserH8g2SeOAnCw5gFjdQF8mo.jpg"
+      },
+      {
+        "name": "Invitacion a la muerte (2023)",
+        "uri": "https://pc-13.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/20a26ca08f69285780e8a10cde4871e1/EP.0.1.v0.1685959515.720.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/en/8/8b/Invitation_to_Murder_poster.jpg"
+      },
+      {
+        "name": "Megalodon 2 (2023)",
+        "uri": "https://od.lk/s/MzFfNTQ0MDA2MDZf/Meg.2.The.Trench.2023.mkv",
+        "icono": "http://185.192.124.243/images/517ed471e65f103b331471a7799cb6d6.jpg"
+      },
+      {
+        "name": "Los Tres Mosqueteros: D'Artagnan (2023)",
+        "uri": "https://onedrive.live.com/download?resid=74C203FB085DB740%21110&authkey=!AF_gUrFhXxS6Vgs",
+        "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEjxpfbjuOCwwHvJ3mIVDxfth5NU2y59GHKqAX2tJxFfc7qCtpHB5czX9RvyjrNILwCFAJhSUcR0gvoFfYrPKteW9OUaiD01FgxtKMRqvSTUFWXaeEBsxRL0Dcdd9hSd2zVbpIZmXX94n0m4NjnU1PzLWPdN31KpLvAG0Hm9kTmkTrpEWFSQ9px1ig-Q7X/s1600/images%20-%202023-07-14T005647.097.jpegg"
+      },
+      {
+        "name": "Indiana Jones 5",
+        "uri": "https://onedrive.live.com/download?resid=F5B8BEF483E98AED%212013&authkey=!AK7ODi3UgHStZ5k",
+        "icono": "http://185.192.124.243/images/45474e9d83bcb662a8fa8390a862ed3d.jpg"
+      },
+      {
+        "name": "Indiana Jones 6",
+        "uri": "https://tvinnov.online/4KL/Indiana%20Jones%20and%20the%20Dial%20of%20Destiny%204k/Indiana%20Jones%20y%20el%20dial%20del%20destino%20(2023)%201080p%20WEB-DL%20sub%204k.mp4",
+        "icono": "http://185.192.124.243/images/45474e9d83bcb662a8fa8390a862ed3d.jpg"
+      },
+      {
+        "name": "The Flash 2023",
+        "uri": "https://tvinnov.online/4KL/The%20Flash%204k/Flash%20(2023)%20Web-Dl%204K%20DV%20HDR%20L.mkv",
+        "icono": "https://pics.filmaffinity.com/the_flash-205686824-large.jpg"
+      },
+      {
+        "name": "Avatar: El sentido del agua",
+        "uri": "https://tvinnov.online/PELICULAS%2060%20FPS/Avatar%20The%20Way%20of%20Water%2060%20fps/Avatar-%20El%20camino%20del%20agua%20(2022)%201080p%2060FPS%20WEB-DL%20Latino.mp4",
+        "icono": "https://pics.filmaffinity.com/avatar_the_way_of_water-722646748-large.jpg"
+      },
+      {
+        "name": "La exorcista",
+        "uri": "https://tvinnov.online/PELICULAS%2060%20FPS/LA%20EXORCISTA%2060fps/LA%20EXORCISTA.mp4",
+        "icono": "https://i.ibb.co/XWgg1BJ/images-q-tbn-ANd9-Gc-SKJTPEMRDmr7-Xf-Hmx-Ye-YNNs-RCg34qk-Jf-S-f-Njj-R3-OGG-SEg-BIZ.jpg"
+      },
+      {
+        "name": "Los caballeros del zodiaco",
+        "uri": "https://github.com/Gumberiito/Deves-Argentina.github.io/releases/download/loscaballeros/LOSCABALLEROS.ts",
+        "icono": "https://pics.filmaffinity.com/saint_seiya_knights_of_the_zodiac-147845077-large.jpg"
+      },
+      {
+        "name": "LA GUERRA DE LOS MUNDO EL TANQUE",
+        "uri": "https://github.com/ijaq/num/releases/download/lagde2mnd2/lguedelos2mun.ts",
+        "icono": "https://pics.filmaffinity.com/war_of_the_worlds_the_attack-702014720-mmed.jpg"
+      },
+      {
+        "name": "Project X-Traction (2023) Proyecto Extra",
+        "uri": "https://onedrive.live.com/download?resid=74C203FB085DB740%21108&authkey=!ACQojv_o13bWRWM",
+        "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHmNYTR1ULPAKYj3-alk7sLuGtf_Z3BS-Wf6ezr2IWDivy-W7NHstTAikuUl-50ddFFRraXn1I5KjDWB9Lp_XU05Dwtk9zJ8iwioaSDHy9O2XKrvG6tNRNnV3vXacKmTzE_NzIBlzBkmqcVX_dPTzGJ9wZfaikXsDkSeTCDjKRWooULBo6Qj0laVWEOKGg/s1600/MV5BYzM0YjcwM2QtN2FmMC00YjU2LWI3YzctNDZhOTJiN2VhYjQxXkEyXkFqcGdeQXVyMTU0NjA4Njk3._V1_.jpg"
+      },
+      {
+        "name": "Oppenheimer 2023",
+        "uri": "https://onedrive.live.com/download?resid=FA49A618CD405961%21109&authkey=!AJ9nHQ8d9SKdhhs",
+        "icono": "https://pics.filmaffinity.com/oppenheimer-828933592-large.jpg"
+      },
+      {
+        "name": "Hazme El Favor (2023)",
+        "uri": "https://onedrive.live.com/download?resid=FA49A618CD405961%21108&authkey=!ANh8f5F5LAt6o_Q",
+        "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilhZqlczJe8OBQmu_TLZlfTvKj_LaANuo8lJyJdTQiSla0LKiXBIe2lZo5TQFI0vX0ZL8WKNfyeQbFkANKURcZOj2RI4u-N587pbfan1gWrLaQAULXosp7we19-vL69FY0Cqe4w9eaAmXuLj5pTxmU8YkW4ub8bfoWFQQTHvLADdPcVv3NPJmOXuZft46e/s1600/images%20-%202023-07-25T052805.077.jpeg"
+      },
+      {
+        "name": "Abandoned (2022)",
+        "uri": "https://onedrive.live.com/download?resid=E757674A11B9D55F%21107&authkey=!ADnGM626XmSXFcg",
+        "icono": "https://images.justwatch.com/poster/302189238/s592/abandoned.webp,%20https:/images.justwatch.com/poster/302189238/s592/abandoned.webp"
+      },
+      {
+        "name": "TRANSFORMERS LA SOCIEDAD DE LA BESTIA",
+        "uri": "https://cdnst37.tokyvideo.com/videos/376/376162/mp4/e4410160836521f396d0ee251759ed281e739046ccb3282fb7201203d9ab6149.mp4?secure=SYUMTmaPExrpy-WbndZGTw%3D%3D%2C1706588789",
+        "icono": "https://dl.dropbox.com/scl/fi/dvd3f220af191dan48m1s/FPAVWDUGWBC4HCLQ5QFFPA6VKE.png?rlkey=7shkc20ev1a2vjqwntmbrn2pv&dl=0"
+      },
+      {
+        "name": "Romeo + Julieta",
+        "uri": "https://tvinnov.online/PELICULAS%2060%20FPS/Romeo%20y%20Juliet/ROMEO%20Y%20JULIET.mp4",
+        "icono": "https://i.ibb.co/d54rymQ/images-q-tbn-ANd9-Gc-TJYDGy-Hi4g6-Nl-He-O-6-Kv-Xjl-PYyxro-TDEjs-XB-MOST-Mkp-XK2g-E.jpg"
+      },
+      {
+        "name": "Army of the Dead + ejército de los muertos",
+        "uri": "https://cdnst18.tokyvideo.com/videos/292/292784/mp4/2f36f464525ddb859aacac8afdae28848a29da898f0114784036df1cb9ae6a0e.mp4?secure=26ypEnj2FvHfytaE-GqMjQ%3D%3D%2C1706588480",
+        "icono": "https://i.ibb.co/C9CFckr/images-q-tbn-ANd9-Gc-RZ2pd4l-XXOHJ2feik-FPo02u-H5ne-9m-RU288-SMXOB9t5gt-PKEx-T.jpg"
+  }
+        ]
+    }
+]
+            
