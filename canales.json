@@ -2162,6 +2162,55 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=dabefaac89742589778fcfab78f08354&key=896dd914683b01c8044ffd34d7b6416b",
         "icono": "https://static.tvar.io/imagenes/canal4uy.png"
       },
+ {
+        "name": "CANAL 10",
+        "uri" : "https://edge-vod03-hr.cvattv.com.ar/live/c4eds/Canal10_URU/SA_Live_dash_enc_2A/Canal10_URU.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8dd34782d754f8fcb1e8b38da9ffad0b&key=6fb97467c0f0ea13f86d41a70e029c51",
+		"icono": "https://static.tvar.io/imagenes/canal10uy.png"  
+      },
+      {
+        "name": "CANAL 4",
+        "uri" : "https://edge-live11-sl.cvattv.com.ar/live/c4eds/Canal4_URU/SA_Live_dash_enc_2A/Canal4_URU.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=dabefaac89742589778fcfab78f08354&key=896dd914683b01c8044ffd34d7b6416b",
+		"icono": "https://static.tvar.io/imagenes/canal4uy.png"   
+      },
+      {
+        "name": "TELEDOCE",
+        "uri" : "https://dtvott-abc.akamaized.net/dash_live_1215/manifest.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f4c55ed8f82e5924b22d00ce154ae849&key=fdea8ee702bd5262cb6a2901dc37e7b0",
+		"icono": "https://www.foromedios.com/uploads/monthly_2022_06/large.Teledoce20042.0.png.79eefaf8d6f439fd4d1892a2125fd272.png"
+      },
+      {
+        "name": "CANAL 5",
+        "uri" : "https://cdn.cvattv.com.ar/live/c3eds/TV_Nacional_Uy/SA_Live_dash_enc_2A/TV_Nacional_Uy.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/jriqfp4idvj0fsx2dbtc4/KEY.CANAL.5URU.json?rlkey=bygm0fh9h8aahgedd2s5bhzzg&dl=0",
+		"icono": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Canal_5_Uruguay.png" 
+      },
+      {
+        "name": "TV CIUDAD",
+        "uri" : "https://cdn.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_Live_dash_enc_2A/Teve_Ciudad.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/cziyu668mtfapuesewiy1/KEY.TV.CIUDAD.UY.json?rlkey=ykc8wf50cdlokjwxru81gxt6y&dl=0",
+		"icono": "https://montevideo.gub.uy/sites/default/files/styles/galeriaslideshowcontenido/public/biblioteca/tvciudad.png?itok=jUiNrl5Q" 
+      },
+      {
+        "name": "VTV",
+        "uri" : "http://edge-live12-sl.cvattv.com.ar/live/c3eds/VTV_HD/SA_Live_dash_enc_2A/VTV_HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/bm9oj825x3ytqet12klxo/KEY.VTV.UY.json?rlkey=q5f0gm21nci0lwjrhuzfvfi0f&dl=0",
+		"icono": "https://upload.wikimedia.org/wikipedia/commons/1/16/Logo_VTV_nuevo.png"
+      },
+      {
+        "name": "VTV PLUS",
+        "uri" : "https://edge-live16-sl.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_Live_dash_enc/VTV_Plus_HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/yvc5zu272t2cuywlum8o7/KEY.VTV.plus.json?rlkey=wujilhzd95e1xybe0xgamriw7&dl=0",
+		"icono": "https://static.tvar.io/imagenes/vtvplus.png?"
+      },
       {
         "name": "LA RED",
         "uri": "https://stm1.rootuy.xyz:19360/sdredtv/sdredtv.m3u8",
