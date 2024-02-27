@@ -31,7 +31,69 @@
         "uri": "https://ixp-nqn.cdn.rcs.net.ar/mnp/espnpremium/output.mpd",
 		"icono": "https://i.postimg.cc/02BdYRZz/ver-espn-premium-en-vivo.jpg"
       },
-	    
+	       {
+        "name": "SPORTV 1",
+        "uri": "https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=0068",
+        "icono": "https://th.bing.com/th/id/OIP.67LyxXZUbdBDQ5iXEfnNAgHaEK?w=258&h=180&c=7&r=0&o=5&pid=1.7",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4f62db627bd93b718154cc8629e92976&key=09e37739a090140734904513ee2f4ce3"
+    },
+      {
+        "name": "SPORTV 2",
+        "uri": "https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=0069",
+        "icono": "https://th.bing.com/th/id/OIP.67LyxXZUbdBDQ5iXEfnNAgHaEK?w=258&h=180&c=7&r=0&o=5&pid=1.7",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f2d6a8c7c95b376db64b06896d730a2f&key=66e956cb531a00d163da476535b90339"
+       },
+      {
+        "name": "SPORTV 3",
+        "uri": "https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=0070",
+        "icono": "https://th.bing.com/th/id/OIP.67LyxXZUbdBDQ5iXEfnNAgHaEK?w=258&h=180&c=7&r=0&o=5&pid=1.7",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=08a4277424073a15badafef701a42b8b&key=030601e605c2896a442c73d575a323a8"
+      },
+      {
+        "name": "PREMIERE",
+        "uri": "https://dtvott-jbc.akamaized.net/dash_live_0079/manifest.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://mute.mariabareiro.repl.co/HELLOWORL/premiere.json",
+		"icono": "https://i.postimg.cc/BZzs0315/premiere.jpg"
+      },
+      {
+        "name": "PREMIERE 2",
+        "uri": "https://dtvott-jbc.akamaized.net/dash_live_0080/manifest.mpd?da=0&country=UY&accountType=OTT",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://mute.mariabareiro.repl.co/HELLOWORL/pre2.json",
+		"icono": "https://i.postimg.cc/RZhcytD5/45857537421cf0f7c7b1aab9b2ea6f9b.jpg"
+      },
+      {
+    "name": "Premiere 3",
+    "icono": "https://d18o29lhcg4kda.cloudfront.net/fit-in/3200x2400/Y2gwMTAwMDAwMDAwMDM2X2xpbmVhcl9jaGFubmVsX2Jy_11002_LOGO_3200x2400.png?timestamp=1685587106024",
+    "uri": "https://dtvott-jbc.akamaized.net/dash_live_0113/manifest.mpd?da=0&country=UY&accountType=OTT",
+	"drm_scheme": "clearkey",
+    "drm_license_uri": "https://mute.mariabareiro.repl.co/HELLOWORL/pre8.json"
+  },
+  {
+    "name": "Premiere 7",
+    "icono": "https://d18o29lhcg4kda.cloudfront.net/fit-in/3200x2400/Y2gwMTAwMDAwMDAwMDM2X2xpbmVhcl9jaGFubmVsX2Jy_11002_LOGO_3200x2400.png?timestamp=1685587106024",
+    "uri": "https://dtvott-jbc.akamaized.net/dash_live_0112/manifest.mpd?da=0&country=UY&accountType=OTT",
+	"drm_scheme": "clearkey",
+    "drm_license_uri": "https://mute.mariabareiro.repl.co/HELLOWORL/pre3.json"
+  },
+  {
+    "name": "Premiere 8",
+    "icono": "https://d18o29lhcg4kda.cloudfront.net/fit-in/3200x2400/Y2gwMTAwMDAwMDAwMDM2X2xpbmVhcl9jaGFubmVsX2Jy_11002_LOGO_3200x2400.png?timestamp=1685587106024",
+    "uri": "https://dtvott-jbc.akamaized.net/dash_live_0113/manifest.mpd?da=0&country=UY&accountType=OTT",
+	"drm_scheme": "clearkey",
+    "drm_license_uri": "https://mute.mariabareiro.repl.co/HELLOWORL/prem8.json"
+  },
+      {
+    "name": "Premiere Clubes",
+    "icono": "https://d18o29lhcg4kda.cloudfront.net/fit-in/3200x2400/Y2gwMTAwMDAwMDAwMDM2X2xpbmVhcl9jaGFubmVsX2Jy_11002_LOGO_3200x2400.png?timestamp=1685587106024",
+    "uri": "https://dtvott-jbc.akamaized.net/dash_live_0079/manifest.mpd?da=0&country=UY&accountType=OTT",
+	"drm_scheme": "clearkey",
+    "drm_license_uri": "https://mute.mariabareiro.repl.co/HELLOWORL/premc.json"
+  },   
       {
      
         "name": "SPORT TV 2",
