@@ -8,33 +8,33 @@
         "uri": "https://edge-live11-sl.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257",
-		"icono": "https://i.postimg.cc/02BdYRZz/ver-espn-premium-en-vivo.jpg"
+		"icono": "https://i.ibb.co/T8Pj8Qs/ESPN-Premium-Dark.jpg"
       },
  {
         "name": "ESPN PREMIUM",
         "uri": "https://edge-mix03-mus.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/Fox_Sports_Premiun_HD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257",
-        "icono": "https://i.ibb.co/9V3PgZ5/espn-premium-by-jpfr1906-df43pcs-375w-2x.jpg"
+        "icono": "https://i.ibb.co/T8Pj8Qs/ESPN-Premium-Dark.jpg"
       },
 {
         "name": "TNT SPORT HD",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a",
-		"icono": "https://i.postimg.cc/x12ZDjn4/images.png"
+		"icono": "https://i.ibb.co/bHzCG5w/unnamed.png"
       },
       {
         "name": "TNT SPORT HD",
         "uri": "https://ixp-nqn.cdn.rcs.net.ar/mnp/tntsports/output.mpd",
-		"icono": "https://i.postimg.cc/x12ZDjn4/images.png"
+		"icono": "https://i.ibb.co/bHzCG5w/unnamed.png"
       },
 {
         "name": "TNT SPORT HD",
         "uri": "https://edge-live15-sl.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd",
 	 "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a",
-        "icono": "https://i.ibb.co/dLJd4bz/TNT-Sports-logo-2021.png"
+        "icono": "https://i.ibb.co/bHzCG5w/unnamed.png"
          }
     ]
   },     {
