@@ -128,9 +128,9 @@
       },
       {
         "name": "VTV PLUS",
-        "uri": "https://chromecast.cvattv.com.ar/c3eds/VTV_Plus_HD/SA_Live_dash_enc/VTV_Plus_HD.mpd",
+        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_Live_dash_enc/VTV_Plus_HD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=da8a49a594160cc0059f07b9f71cd39a&key=37ca91dd799b351a02445151c7f61070",
+        "drm_license_uri": ""https://dl.dropbox.com/scl/fi/yvc5zu272t2cuywlum8o7/KEY.VTV.plus.json?rlkey=wujilhzd95e1xybe0xgamriw7&dl=0",
         "icono": "https://static.tvar.io/imagenes/vtvplus.png?"
         }, 
       {
@@ -2512,6 +2512,7 @@
         "icono": "https://static.tvar.io/imagenes/vtvplus.png?"
         }
     ]
+	  
   },
 	 {
     "name": "🇸🇦CANALES DE ARABIA SAUDITA",
