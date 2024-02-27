@@ -2201,17 +2201,7 @@
     {
         "name": "⭐⚽CAMPEONATO URUGUAY",
         "samples": [
-            {
-                "name": "01 | RADIO SPORT 890AM ",
-                "uri": "https://d1papmlf5f7myx.cloudfront.net/sport890-18.ts",
-                "icono": "https://www.radiosdeluruguay.net/wp-content/uploads/2023/02/sport_890.jpg"
-            },
-			{
-                "name": "01 |Oriental 770 AM",
-                "uri": "http://radiolatina.live/7906/stream",
-                "icono": "https://oriental.com.uy/inicio/wp-content/uploads/2020/08/cropped-logo-1-1.png"
-            },
-{
+           {
                 "name": "01 | VTV PLUS",
                 "uri": "http://dnslivetv.online/TVplay25/WUXrYhAsgb/591493",
                 "icono": "https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png"
