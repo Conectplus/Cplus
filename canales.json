@@ -1901,7 +1901,7 @@
             {
                 "name": "REDE TV",
                 "uri": "http://zoomplay.online/Teleplay2025/Cplus335780/1107716",
-                "icono": "http://trenduhd.xyz/images/NOTICIAS/NHK.png"
+                "icono": "https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2017_12/small.5a2ac7927befd_RedeTV2017.png.abd3c80118ca98871a789df870aaab57.png"
             },
             {
                 "name": "JOVEN PAN",
@@ -1931,7 +1931,7 @@
             {
                 "name": "DOGTV FHD",
                 "uri": "http://zoomplay.online/Teleplay2025/Cplus335780/446618",
-                "icono": "https://i.imgur.com/sfpVDnt.png"
+                "icono": "https://image.roku.com/developer_channels/prod/cd8f91959045147c475857c84a825d34bed139e6f33a70809ce2a1c95c378e1a.png"
             },
             {
                 "name": "MODO VIAGEM FHD",
@@ -1941,7 +1941,7 @@
             {
                 "name": "DISCOVERY H&H",
                 "uri": "http://zoomplay.online/Teleplay2025/Cplus335780/113223",
-                "icono": "https://imgur.com/l0XxwfB.jpeg"
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1200px-Discovery_Home_%26_Health_logo.svg.png"
             },
             {
                 "name": "ANIMAL PLANET",
@@ -1991,17 +1991,17 @@
             {
                 "name": "BAND TV NEWS",
                 "uri": "http://zoomplay.online/Teleplay2025/Cplus335780/1108589",
-                "icono": "https://imgur.com/JVDJ4I0.png"
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/6/61/Band_News_TV_2021.png"
             },
             {
                 "name": "BAND TV RJ",
                 "uri": "http://zoomplay.online/Teleplay2025/Cplus335780/1108582",
-                "icono": "https://imgur.com/JVDJ4I0.png"
+                "icono": "https://seeklogo.com/images/B/band-tv-logo-3F56FE323A-seeklogo.com.png"
             },
             {
                 "name": "BAND TV SP",
                 "uri": "http://zoomplay.online/Teleplay2025/Cplus335780/1108580",
-                "icono": "https://imgur.com/JVDJ4I0.png"
+                "icono": "https://seeklogo.com/images/B/band-tv-logo-3F56FE323A-seeklogo.com.png"
             },
             {
                 "name": "FUTURA FHD",
@@ -2021,7 +2021,7 @@
             {
                 "name": "GALINHA PINTADINHA",
                 "uri": "http://zoomplay.online/Teleplay2025/Cplus335780/1786437",
-                "icono": "https://i.ibb.co/Syt0WSz/BRMS-GP02-br.jpg"
+                "icono": "https://upload.wikimedia.org/wikipedia/pt/e/e7/Galinha_Pintadinha.png"
             },
             {
                 "name": "PICA-PAU",
@@ -2046,7 +2046,7 @@
 	        {
         "name": "BIG BROTHER",
         "uri": "http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/81?join.the.Billybob.fan.club",
-        "icono": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Big_Brother_14.webp/421px-Big_Brother_14.webp.png"
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Logo_Big_Brother_Brasil.png/1200px-Logo_Big_Brother_Brasil.png"
        }
     ]
   },
