@@ -1719,6 +1719,236 @@
         "uri": "https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8",
         "icono": "https://play-lh.googleusercontent.com/_z8L3qUly2i3Flg-aaI8M2VvHLifKp5Fo_qTMM4ICeDTqsnwcfEy_QYvt8OHt7kRL00"
       },
+ {
+                "name": "BAND SPORTS",
+                "uri": "http://loadbl2.online:80/PousadaARG/Cplus335780/17604.m3u8",
+                "icono": "https://imgur.com/LdKmx1j.jpeg"
+            },
+            {
+                "name": "BAND SPORTS FHD",
+                "uri": "https://cdn2.connectbr.com.br/Band-Sports/tracks-v1a1/mono.m3u8",
+                "icono": "https://logowik.com/content/uploads/images/bandsports-tv7819.logowik.com.webp"
+            },
+            {
+                "name": "CAZÉ TV",
+                "uri": "http://loadbl2.online:80/PousadaARG/Cplus335780/1114732.m3u8",
+                "icono": "https://i.imgur.com/mQC6j1N.jpeg"
+            },
+            {
+                "name": "RECORD RJ FHD",
+                "uri": "http://loadbl2.online:80/PousadaARG/Cplus335780/1108529.ts",
+                "icono": "https://i.ibb.co/nktXP36/Record-Rio.png"
+            },
+            {
+                "name": "RECORD RJ HD",
+                "uri": "http://http://loadbl2.online:80/PousadaARG/Cplus335780/1108520.ts",
+                "icono": "https://i.ibb.co/nktXP36/Record-Rio.png"
+            },
+            {
+                "name": "RECORD SP FHD",
+                "uri": "http://loadbl2.online:80/PousadaARG/Cplus335780/1108530.ts",
+                "icono": "https://i.ibb.co/TrRYjW9/post315.webp"
+            },
+            {
+                "name": "RECORD SP HD",
+                "uri": "http://loadbl2.online:80/PousadaARG/Cplus335780/1108521.ts",
+                "icono": "https://i.ibb.co/TrRYjW9/post315.webp"
+            },
+            {
+                "name": "RECORD MG HD",
+                "uri": "http://http://loadbl2.online:80/PousadaARG/Cplus335780/1108520.ts",
+                "icono": "https://img.r7.com/images/record-minas-24112023115417196"
+            },
+            {
+                "name": "NATGEO FHD",
+                "uri": "http://loadbl2.online:80/PousadaARG/Cplus335780/1107731.ts",
+                "icono": "https://1000logos.net/wp-content/uploads/2017/04/National-Geographic-Logo-1997.jpg"
+            },
+            {
+                "name": "TV NOVAPLAY",
+                "uri": "https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8",
+                "icono": "https://i0.wp.com/girotvonline.com/wp-content/uploads/2022/11/tv-nova-play.png?fit=1024%2C768&ssl=1"
+            },
+            {
+                "name": "CONECTV",
+                "uri": "https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8",
+                "icono": "https://play-lh.googleusercontent.com/_z8L3qUly2i3Flg-aaI8M2VvHLifKp5Fo_qTMM4ICeDTqsnwcfEy_QYvt8OHt7kRL00"
+            },
+            {
+                "name": "RECORD NEWS",
+                "uri": "http://loadbl2.online:80/PousadaARG/Cplus335780/113208.m3u8",
+                "icono": "https://imgur.com/7gyWZD2.jpeg"
+            },
+            {
+                "name": "Record NEWS FHD",
+                "uri": "https://cdn2.connectbr.com.br/Record-News-HD/tracks-v1a1/mono.m3u8",
+                "icono": "https://aovivohd.net/tv/ao-vivo/record-tv-ao-vivo-online.webp"
+            },
+            {
+                "name": "GLOBO RJ HD",
+                "uri": "http://loadbl2.online:80/PousadaARG/Cplus335780/38945.m3u8",
+                "icono": "https://gkpb.com.br/wp-content/uploads/2021/12/novo-logo-da-globo-png.png"
+            },
+            {
+                "name": " GLOBO RJ FHD",
+                "uri": "http://loadbl2.online:80/PousadaARG/Cplus335780/451660.m3u8",
+                "icono": "https://gkpb.com.br/wp-content/uploads/2021/12/novo-logo-da-globo-png.png"
+            },
+            {
+                "name": "GLOBO SP",
+                "uri": "http://loadbl2.online:80/PousadaARG/Cplus335780/38839.m3u8",
+                "icono": "https://gkpb.com.br/wp-content/uploads/2021/12/novo-logo-da-globo-png.png"
+            },
+            {
+                "name": " GLOBO BAHIA",
+                "uri": "http://loadbl2.online:80/PousadaARG/Cplus335780/38938.m3u8",
+                "icono": "https://gkpb.com.br/wp-content/uploads/2021/12/novo-logo-da-globo-png.png"
+            },
+            {
+                "name": " GLOBO RBS PORTO ALEGRE",
+                "uri": "http://loadbl2.online:80/PousadaARG/Cplus335780/451650.m3u8",
+                "icono": "https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png"
+            },
+            {
+                "name": "GLOBO NEWS",
+                "uri": "http://loadbl2.online:80/PousadaARG/Cplus335780/113205.m3u8",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/8/89/Logotipo_da_GloboNews.png"
+            },
+            {
+                "name": "REDE TV",
+                "uri": "http://loadbl2.online:80/PousadaARG/Cplus335780/1107716.m3u8",
+                "icono": "http://trenduhd.xyz/images/NOTICIAS/NHK.png"
+            },
+            {
+                "name": "JOVEN PAN",
+                "uri": "http://loadbl2.online:80/PousadaARG/Cplus335780/438850.m3u8",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Logotipo_da_TV_Jovem_Pan_News.png/800px-Logotipo_da_TV_Jovem_Pan_News.png"
+            },
+            {
+                "name": "SBT RJ",
+                "uri": "http://loadbl2.online:80/PousadaARG/Cplus335780/1108545.m3u8",
+                "icono": "https://static.wikia.nocookie.net/logopedia/images/e/e3/Logo_SBT_1996.png/revision/latest?cb=20190719181408"
+            },
+            {
+                "name": "SBT SP",
+                "uri": "http://loadbl2.online:80/PousadaARG/Cplus335780/1108544.m3u8",
+                "icono": "https://static.wikia.nocookie.net/logopedia/images/e/e3/Logo_SBT_1996.png/revision/latest?cb=20190719181408"
+            },
+            {
+                "name": "MULTISHOW FHD",
+                "uri": "http://loadbl2.online:80/PousadaARG/Cplus335780/18016.m3u8",
+                "icono": "https://imgur.com/flSKGuB.jpeg"
+            },
+            {
+                "name": "VIVA FHD",
+                "uri": "http://loadbl2.online:80/PousadaARG/Cplus335780/18025.m3u8",
+                "icono": "https://imgur.com/1h7qB78.jpeg"
+            },
+            {
+                "name": "DOGTV FHD",
+                "uri": "http://loadbl2.online:80/PousadaARG/Cplus335780/446618.m3u8",
+                "icono": "https://i.imgur.com/sfpVDnt.png"
+            },
+            {
+                "name": "MODO VIAGEM FHD",
+                "uri": "http://loadbl2.online:80/PousadaARG/Cplus335780/1113538.m3u8",
+                "icono": "https://lh3.googleusercontent.com/-156xqW-BlXM/YB2LVcPyC2I/AAAAAAAAJ8g/A3bYkrKjqi09DknAXLGchXNkyH-SmMmSACLcBGAsYHQ/Mais%2BGlobosat.png"
+            },
+            {
+                "name": "DISCOVERY H&H",
+                "uri": "http://loadbl2.online:80/PousadaARG/Cplus335780/17645.m3u8",
+                "icono": "https://imgur.com/l0XxwfB.jpeg"
+            },
+            {
+                "name": "ANIMAL PLANET",
+                "uri": "http://loadbl2.online:80/PousadaARG/Cplus335780/113177.m3u8",
+                "icono": "https://imgur.com/gO2rMMT.jpeg"
+            },
+            {
+                "name": "NATIONAL GEOGRAPHICS",
+                "uri": "http://loadbl2.online:80/PousadaARG/Cplus335780/113178.m3u8",
+                "icono": "https://imgur.com/354OaL2.jpeg"
+            },
+            {
+                "name": "CNN 4K",
+                "uri": "http://loadbl2.online:80/PousadaARG/Cplus335780/113207.m3u8",
+                "icono": "https://imgur.com/mQpuTGf.jpeg"
+            },
+            {
+                "name": "NAT GEO WILD",
+                "uri": "http://loadbl2.online:80/PousadaARG/Cplus335780/17818.m3u8",
+                "icono": "https://imgur.com/354OaL2.jpeg"
+            },
+            {
+                "name": "GLOOBINHO HD",
+                "uri": "http://loadbl2.online:80/PousadaARG/Cplus335780/442396.m3u8",
+                "icono": "https://www.fontedoscanais.xyz/logos/canais/gloob.png"
+            },
+            {
+                "name": "DISCOVERY KIDS",
+                "uri": "http://loadbl2.online:80/PousadaARG/Cplus335780/113215.m3u8",
+                "icono": "https://www.fontedoscanais.xyz/logos/canais/discoverykids.png"
+            },
+            {
+                "name": "CARTOONITO FHD",
+                "uri": "http://loadbl2.online:80/PousadaARG/Cplus335780/18252.m3u8",
+                "icono": "https://s2.glbimg.com/9BNgLXbdgDtR2_tBYTnkJoibfjo=/e.glbimg.com/og/ed/f/original/2021/11/30/cartoonito.jpg"
+            },
+            {
+                "name": "REDE SUPER",
+                "uri": "http://loadbl2.online:80/PousadaARG/Cplus335780/454346.m3u8",
+                "icono": "https://cdn.mitvstatic.com/channels/br_rede-super-hd_m.png"
+            },
+            {
+                "name": "REDE GOSPEL",
+                "uri": "http://loadbl2.online:80/PousadaARG/Cplus335780/113236.m3u8",
+                "icono": "https://upload.wikimedia.org/wikipedia/pt/b/ba/LGT_Rede_Gospel.png"
+            },
+            {
+                "name": "BAND TV NEWS",
+                "uri": "http://loadbl2.online:80/PousadaARG/Cplus335780/113206.m3u8",
+                "icono": "https://imgur.com/JVDJ4I0.png"
+            },
+            {
+                "name": "BAND TV RJ",
+                "uri": "http://loadbl2.online:80/PousadaARG/Cplus335780/1108572.m3u8",
+                "icono": "https://imgur.com/JVDJ4I0.png"
+            },
+            {
+                "name": "BAND TV SP",
+                "uri": "http://loadbl2.online:80/PousadaARG/Cplus335780/1108571.m3u8",
+                "icono": "https://imgur.com/JVDJ4I0.png"
+            },
+            {
+                "name": "FUTURA FHD",
+                "uri": "http://loadbl2.online:80/PousadaARG/Cplus335780/1783968.m3u8",
+                "icono": "https://d3un0zjblgkxzb.cloudfront.net/drupal/public/styles/imagem_paragraph_foto/public/media/image/2022-07/Futura%20logo%20nova.jpg.jpeg?VersionId=8Mgo6315Gr_OKG6rgM9zsEZFQxpX_MfW&itok=p8tcAFep"
+            },
+            {
+                "name": "TV CULTURA FHD",
+                "uri": "http://loadbl2.online:80/PousadaARG/Cplhttpsus335780/1783961.m3u8",
+                "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/200px-Cultura_logo_2013.svg.png"
+            },
+            {
+                "name": "DESENHOS BÍBLICOS",
+                "uri": "http://loadbl2.online:80/PousadaARG/Cplus335780/1784102.ts",
+                "icono": "https://png.pngtree.com/png-vector/20231017/ourlarge/pngtree-cartoon-bible-character-andrew-png-image_10201475.png"
+            },
+            {
+                "name": "GALINHA PINTADINHA",
+                "uri": "http://loadbl2.online:80/PousadaARG/Cplus335780/1784195.ts",
+                "icono": "https://i.ibb.co/Syt0WSz/BRMS-GP02-br.jpg"
+            },
+            {
+                "name": "PICA-PAU",
+                "uri": "http://loadbl2.online:80/PousadaARG/Cplus335780/1784874.ts",
+                "icono": "https://www.pinclipart.com/picdir/big/450-4501796_pica-pau-render-by-mastria-desenho-pica-pau.png"
+            },
+            {
+                "name": "MTV FHD",
+                "uri": "http://loadbl2.online:80/PousadaARG/Cplus335780/1378736.m3u8",
+                "icono": "https://seeklogo.com/images/M/mtv-hd-logo-0CFFA28044-seeklogo.com.png"
+            },
       {
         "name": "RECORD TV",
         "uri": "http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/8?join.the.Billybob.fan.club",
