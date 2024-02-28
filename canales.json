@@ -2202,33 +2202,12 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=dabefaac89742589778fcfab78f08354&key=896dd914683b01c8044ffd34d7b6416b",
 		"icono": "https://static.tvar.io/imagenes/canal4uy.png"   
       },
-      {
-        "name": "TELEDOCE",
-        "uri" : "https://dtvott-abc.akamaized.net/dash_live_1215/manifest.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f4c55ed8f82e5924b22d00ce154ae849&key=fdea8ee702bd5262cb6a2901dc37e7b0",
-		"icono": "https://www.foromedios.com/uploads/monthly_2022_06/large.Teledoce20042.0.png.79eefaf8d6f439fd4d1892a2125fd272.png"
-      },
-{
-        "name": "TELEDOCE",
-        "uri" : "https://dtvott-abc.akamaized.net/dash_live_1215/manifest.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f4c55ed8f82e5924b22d00ce154ae849&key=fdea8ee702bd5262cb6a2901dc37e7b0",
-		"icono": "https://www.foromedios.com/uploads/monthly_2022_06/large.Teledoce20042.0.png.79eefaf8d6f439fd4d1892a2125fd272.png"
-      },
-{
+     {
         "name": "TELEDOCE",
         "uri" : "http://multiextrem.xyz/TeleplayApp2025/UC78JTBpGB4/32691",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f4c55ed8f82e5924b22d00ce154ae849&key=fdea8ee702bd5262cb6a2901dc37e7b0",
-		"icono": "https://www.foromedios.com/uploads/monthly_2022_06/large.Teledoce20042.0.png.79eefaf8d6f439fd4d1892a2125fd272.png"
-      },
-{
-        "name": "TELEDOCE",
-        "uri" : "http://multiextrem.xyz/TeleplayApp2025/UC78JTBpGB4/63181",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f4c55ed8f82e5924b22d00ce154ae849&key=fdea8ee702bd5262cb6a2901dc37e7b0",
-		"icono": "https://www.foromedios.com/uploads/monthly_2022_06/large.Teledoce20042.0.png.79eefaf8d6f439fd4d1892a2125fd272.png"
+		"icono": "https://static.wikia.nocookie.net/la-logoteca-oriental/images/b/b7/Canal12_26.png/revision/latest?cb=20220609003231"
       },
       {
         "name": "CANAL 5",
