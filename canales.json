@@ -2120,10 +2120,15 @@
         "uri": "https://content.uplynk.com/channel/585ab4fbd865426abd6fbd48fc631b6e.m3u8?rays=fbcde",
         "icono": "https://i.ibb.co/3kwD39S/descarga-4.jpg"
       },
-      {
+ {
         "name": "TEATRIX TV OPC 2",
         "uri": "http://mundialtvdigital.com/xd/teatrix.m3u8",
         "icono": "https://i.ibb.co/3kwD39S/descarga-4.jpg"
+      },
+      {
+        "name": "TELESUR",
+        "uri": " https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8",
+        "icono": "https://www.prensario.net/Multimedios/imgs/5984_750.jpg?v=7"
       },
       {
         "name": "TEATRIX TV OPC 3",
