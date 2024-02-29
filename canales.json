@@ -49,7 +49,12 @@
 {
               "name": "⚽LIBERTADORES Y SUDAMERICANA",
               "samples": [
-                  {
+                   {
+        "name": "TV PUBLICA",
+        "uri": "https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_720p.m3u8",
+        "icono": "https://i.ibb.co/xsBgRLG/tvpublica-logo.jpg"
+      },
+		      {
                       "name": "EVENTOS TELEPLAY",
                       "uri": "https://edge-live11-sl.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
                       "drm_scheme": "clearkey",
