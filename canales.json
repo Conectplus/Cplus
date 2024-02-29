@@ -1,6 +1,176 @@
 [
-  
-  {
+   {
+    "name": "🇦🇷CANALES DE ARGENTINA",
+    "samples": [
+      {
+        "name": "TELEFE",
+        "uri": "http://edge-live16-sl.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_2A/TelefeHD.mpd",
+	"drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3cec1b1ea9799dda5596e64f37e5ed20&key=c69f3afde2085dcaaaddbf55246a0323",
+        "icono": "https://i.ibb.co/JHHx4HH/e1dc8733904ec35e5d081ebbf0eb2d64-750x400.gif"
+      },
+	    {
+        "name": "TELEFE",
+        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3cec1b1ea9799dda5596e64f37e5ed20&key=c69f3afde2085dcaaaddbf55246a0323",
+		"icono": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png"
+      },
+      {
+        "name": "EL TRECE ",
+         "uri": "https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8", 
+        "icono": "https://i.ibb.co/Tv2dWPq/descarga-8.jpg"
+      },
+ {
+        "name": "EL TRECE OPCION 2",
+        "uri": "https://router.cdn.rcs.net.ar/mnp/el13/output.mpd",
+		"icono": "https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_de_eltrece_lanzado_en_2016.png"
+      },
+      {
+        "name": "CANAL 9 ",
+        "uri": "http://edge-live17-hr.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc_2A/Canal9.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=24f4ff211136ae6512a1b552200db405&key=602122f8426c5c942b8c18d299cc6020",
+        "icono": "https://i.ibb.co/cvLm0JB/canal9.jpg"
+      },
+      {
+        "name": "AMERICA TV ",
+        "uri": "https://chromecast.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
+        "icono": "https://i.ibb.co/BrzJD0D/Logotipo-de-America.jpg"      
+      },
+     
+      {
+        "name": "TV PUBLICA",
+        "uri": "https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_720p.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png/481px-Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png"
+      },
+      {
+        "name": "C5N",
+        "uri": "http://edge-live11-hr.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc_2A/C5N.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=050df5c6e78c774e78c3e99eef8a1b29&key=0e4141d6ab21a36cbc4da777ab3096d4",
+        "icono": "https://i.ibb.co/WsDVtKJ/AATXAJxna-EZa9-Kmw-LXr-Yq-Dc-MZTf88wo-Sug34-Gkqy5u-E-5-Q-s900-c-k-c0xffffffff-no-rj-mo.jpg"
+      },
+      {
+        "name": "TN NOTICIAS",
+        "uri": "https://chromecast.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc_wl/TodoNoticias.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7ceb1cd0622cd7e88fcdc99fe3a55de6&key=951637093d41c7388a1ef3f620cfea21",
+        "icono": "https://i.ibb.co/Ws0Z97Y/AGF-l7-ij-GDo3i-LYPot57-Ah1z-N-c-Giz-SL0f-Ju5-A31w-s900-mo-c-c0xffffffff-rj-k-no.jpg"
+      },
+      {
+        "name": "LN+ - LA NACION",
+        "uri": "http://edge-live17-hr.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc_2A/La_Nacion.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f4eade7bbc39b25402acfa301bbad04a&key=a74d1df4235a74878327aa8d53ff283c",
+        "icono": "https://www.conclusion.com.ar/wp-content/uploads/2016/11/la-nacion-m%C3%A1s.jpg"
+      },
+      {
+        "name": "CRONICA TV",
+        "uri": "https://chromecast.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc/CronicaTV.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=745e7abcc90d41ab706b2ac2f4371da3&key=50acd9d19d1361cb4a8a13a867bdc352",
+        "icono": "https://i.ibb.co/vvptksh/maxresdefault.jpg"
+      },
+      {
+        "name": "A24",
+        "uri": "http://edge-live11-hr.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc/America24.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3b1b027dd011af20fd9956c16dc084fb&key=45f75aacf06593c9b693fe427c67e5b8",
+        "icono": "https://i.ibb.co/8DNHFsL/a24.webp"
+      },
+      {
+        "name": "CANAL 26",
+        "uri": "https://edge-live11-hr.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc/26_TV_HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e32aaa4b67430b3b51be1efce5a74ac5&key=ad60c5e1d378a97271bf8688f094d092",
+        "icono": "https://i.ibb.co/ScjYgWj/Logo-Canal26.jpg"
+      },
+      {
+        "name": "CANAL IP",
+        "uri": "https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/Cs4FQu_6fJbNa9bk93rFidyZN8mBIWizPx0n2QhjWyfxYwTZ_D7nUyTKrqlYos0ccR64-5-VbqYQELvHRIWA6iH6XAtLfX5ew78FtD8IUfp24l5vROC_utHozLQwNYAjKiXGzihN5nGpkNdozs06O1BFpoeTWnrW2rqvuMFoZDh1CWzgjnuuORGTGvAZl8hLUd3asbZRwlo9wHBqzTLYYoTMT4kMR0Wa35LvhbHwLD7fzfdGNb0zVwdxhcqfLkXQBm_U2KFtX-KXV8V40ZJMWntkbL7KEffx8Brk2zsQLqkhOTq8MTyKtV9ZqVGIGStFKNPnUHF6WStQGPe4fYmgff7a-O2zvYU6GcQo5E21DJj-W2mrQbzRV5HajB-dpQ5v-y4e6l5pN9VJYTQrOUpHQ5zN4f8AzKdNbHddMHFPh1MeJNUeaQs8tOLUFgbBwxwQGNmju0bmOH2aq8McJL552urQ2xly3h7SMYYv8mPfSOHBSKKr8P9NNDAhT84PVMLEn_YqkTEA142DklStIoRrsvE3Ivcihm9W_p6KLehWehdtUNR_gum42m1cY3w6W4m0uTWR4wSLZs_NSFOzu2pmwtPf9ytebNxYi_Oh7lrNSwpuaq-RWLmN9KjHxrcbuKbc8qFpLQYJUggkiVULcgB90L_irj5sdv4XQY1RPuWyHccz47AvYEQjReFDWrx8s9lLRSbhsMEODpYHu4E6jQi3wrmVOrJ3y488bXh8uLR1PSdMwYwXurLd3eltHWiBXxCudFsla-hZ2A6aMDKFQ9Zeklx1fcyakd68-doHSSKX66rl5rBnmFkqcwfN3Du8eG_FIIMWriSaHIo5izgb5vVwWiSePxXuocWl6QAODZ_wi2GN34QafQKIotSf9pfp2-s8jwADdCN-ugcYtR5soW-C8AWR8d2z7YHuAGVgdNWPjx4jbK5FtnkSQvq9Gw7k4mAQDRoMfGoIwONP3KcS3fdoIAEqCXVzLWVhc3QtMTCWBw.m3u8",
+        "icono": "https://i.ibb.co/GQ6LCnV/share.png"
+      },
+      {
+        "name": "BRAVO TV",
+        "uri": "https://edge-live11-hr.cvattv.com.ar/live/c7eds/BravoTV/SA_Live_dash_enc/BravoTV.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ad7fbbec39cea4a5a63ac13d94da48d4&key=f71087b4dc211db079237c0fb783eb93",
+        "icono": "https://i.ibb.co/5nJff9s/cronica-Bravo-TV.jpg"
+      },
+      {
+        "name": "ARGENTINISIMA SATELITAL",
+        "uri": "https://edge-live11-hr.cvattv.com.ar/live/c6eds/Argentinisima/SA_Live_dash_enc/Argentinisima.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e32aaa4b67430b3b51be1efce5a74ac5&key=ad60c5e1d378a97271bf8688f094d092",
+        "icono": "https://i.ibb.co/G0zCDL0/descarga-1.png"
+      },
+      {
+        "name": "BRAGADO TV",
+        "uri": "http://54.39.21.129/hls/222_.m3u8",
+        "icono": "https://www.bragadotv.com.ar/images/custom/logo-social.jpg"
+      },
+     [
+	    {
+        "name": "CANAL 12 CORDOBA",
+        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc_2A/Canal_12_CBA.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/a97iw0i52tkmqchsfm1ml/KEY.CANAL-12-CORDOBA.json?rlkey=p5ctuf2ahfnbs0kj3by5ituih&dl=0",
+		"icono": "https://i.ibb.co/60sFBfY/og-image.jpg"
+      },
+{
+        "name": "CANAL 10 CORDOBA",
+        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc_2A/Canal_12_CBA.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/a97iw0i52tkmqchsfm1ml/KEY.CANAL-12-CORDOBA.json?rlkey=p5ctuf2ahfnbs0kj3by5ituih&dl=0",
+		"icono": "https://i.ibb.co/60sFBfY/og-image.jpg"
+      },
+      {
+        "name": "VOLVER",
+        "uri": "https://edge-vod03-hr.cvattv.com.ar/live/c6eds/Volver/SA_Live_dash_enc/Volver.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=194e53184a424ce6989ad82c5f28fbc5&key=65d60c5cc4de031172be0a6a51edbdfe",
+        "icono": "https://i.ibb.co/ZNRV2BF/descarga-3.jpg"
+      },
+      {
+        "name": "CIUDAD MAGAZINE",
+        "uri": "https://edge-live17-hr.cvattv.com.ar/live/c3eds/Magazine/SA_Live_dash_enc_2A/Magazine.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4f1235069d34c22cb73d9b78bae15587&key=55e068ff6b152e34c66dc639b38e8692",
+        "icono": "https://i.ibb.co/1Tnfy2J/5909cf1f851d6-838x390.jpg"
+      },
+      {
+        "name": "ENCUENTRO TV",
+        "uri": "https://edge-live31-hr.cvattv.com.ar/live/c6eds/Encuentro/SA_Live_dash_enc_2A/Encuentro.mpd",
+	"drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ac3ae78beb64478ab390b4ad70e3e0c9&key=c7d669761c3516d852a0edf9e07c9198",
+        "icono": "https://i.ibb.co/WVrgyCt/unnamed-2.jpg"
+      },
+   
+      {
+        "name": "TEATRIX TV",
+        "uri": "https://content.uplynk.com/channel/585ab4fbd865426abd6fbd48fc631b6e.m3u8?rays=fbcde",
+        "icono": "https://i.ibb.co/3kwD39S/descarga-4.jpg"
+      },
+ {
+        "name": "TEATRIX TV OPC 2",
+        "uri": "http://mundialtvdigital.com/xd/teatrix.m3u8",
+        "icono": "https://i.ibb.co/3kwD39S/descarga-4.jpg"
+      },
+      {
+        "name": "TELESUR",
+        "uri": " https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8",
+        "icono": "https://www.prensario.net/Multimedios/imgs/5984_750.jpg?v=7"
+      },
+      {
+        "name": "TEATRIX TV OPC 3",
+        "uri": "http://content-asae1-up-2.uplynk.com/399cf69cc18842dea9046c9f7ed07dbf/e.m3u8",
+        "icono": "https://i.ibb.co/3kwD39S/descarga-4.jpg"
+       }
+    ]
+    {
     "name": "⚽🇦🇷SUPERLIGA Y COPA ARGENTINA",
     "samples": [
       {
@@ -2230,7 +2400,7 @@
         "icono": "https://i.ibb.co/3kwD39S/descarga-4.jpg"
        }
     ]
-  },
+  }
  {
   "name": "📺🇦🇷CANALES DE PROVINCIAS",
   "samples": [
