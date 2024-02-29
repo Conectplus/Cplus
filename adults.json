@@ -4,46 +4,34 @@
     "name": "⚽🇦🇷SUPERLIGA Y COPA ARGENTINA",
     "samples": [
       {
-        "name": "ESPN PREMIUM",
-        "uri": "https://edge-live11-sl.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257",
-		"icono": "https://i.ibb.co/T8Pj8Qs/ESPN-Premium-Dark.jpg"
+        "name": "Redlight - XXX",
+        "uri": "http://multiextrem.xyz/TeleplayApp2025/24SiNoaquIyallA/64601",
+	"icono": "https://luxplayer.norago.tv/img/resize/235x332/d50146c5-c3d8-48bd-93c6-0b94cbd04236.jpg"
       },
  {
-       "name": "ESPN PREMIUM",
-        "uri": "https://edge-live11-sl.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257",
-		"icono": "https://i.ibb.co/T8Pj8Qs/ESPN-Premium-Dark.jpg"
+       "name": "Venus TV",
+        "uri": "http://multiextrem.xyz/TeleplayApp2025/24SiNoaquIyallA/64618",
+	"icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/2560px-Canal_Venus_logo.svg.png"
       },
 {
-        "name": "TNT SPORT HD",
-        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a",
-		"icono": "https://i.ibb.co/bHzCG5w/unnamed.png"
+        "name": "Penthouse Gold HD",
+        "uri": "http://multiextrem.xyz/TeleplayApp2025/24SiNoaquIyallA/64616",
+	"icono": "https://epgx.site/p/penthouse-gold.png"
       },
       {
-        "name": "TNT SPORT HD",
-        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a",
-		"icono": "https://i.ibb.co/bHzCG5w/unnamed.png"
+        "name": "Jasmin TV",
+        "uri": "http://multiextrem.xyz/TeleplayApp2025/24SiNoaquIyallA/64594",
+	"icono": "https://luxplayer.norago.tv/img/resize/235x332/107b9d9e-1edf-4073-958c-2e7180580a3f.jpg"
       },
 {
-        "name": "TYC SPORTS",
-        "uri": "https://chromecast.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2b21c8fa9a329cce311a4c4a4aa996a1&key=cc23ea1fb32629f9e1f48c8deeae3e5b",
-        "icono": "https://i.ibb.co/DQVCfDv/channels4-profile-2.jpg"
+        "name": "Blazzers HD",
+        "uri": "http://multiextrem.xyz/TeleplayApp2025/24SiNoaquIyallA/64622",
+        "icono": "https://pbs.twimg.com/media/Coyg2rsVYAA73so.jpg"
          },
 {
-        "name": "TYC SPORTS",
-        "uri": "https://chromecast.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2b21c8fa9a329cce311a4c4a4aa996a1&key=cc23ea1fb32629f9e1f48c8deeae3e5b",
-        "icono": "https://i.ibb.co/DQVCfDv/channels4-profile-2.jpg"
+        "name": "PlayBoy TV HD",
+        "uri": "http://multiextrem.xyz/TeleplayApp2025/24SiNoaquIyallA/64617",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Play_Boy_TV_logo_2016.svg/846px-Play_Boy_TV_logo_2016.svg.png"
          }
     ]
   },  
