@@ -2172,11 +2172,7 @@
         "uri": "http://54.39.21.129/hls/222_.m3u8",
         "icono": "https://www.bragadotv.com.ar/images/custom/logo-social.jpg"
       },
-      {
-        "name": "CANAL 12 CORDOBA",
-        "uri": "https://www.youtube.com/embed/sFZe_RPnNSo",
-        "icono": "https://i.ibb.co/60sFBfY/og-image.jpg"
-      },
+     [
 	    {
         "name": "CANAL 12 CORDOBA",
         "uri": "https://edge-live16-sl.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc_2A/Canal_12_CBA.mpd",
@@ -2185,7 +2181,7 @@
 		"icono": "https://i.ibb.co/60sFBfY/og-image.jpg"
       },
 {
-        "name": "CANAL 12 CORDOBA",
+        "name": "CANAL 10 CORDOBA",
         "uri": "https://edge-live16-sl.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc_2A/Canal_12_CBA.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/a97iw0i52tkmqchsfm1ml/KEY.CANAL-12-CORDOBA.json?rlkey=p5ctuf2ahfnbs0kj3by5ituih&dl=0",
