@@ -50,15 +50,13 @@
               "name": "⚽LIBERTADORES Y SUDAMERICANA",
               "samples": [
                    {
-        "name": "TV PUBLICA",
-        "uri": "https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_720p.m3u8",
+        "name": "⚽LIBERTADORES Y SUDAMERICANA",
+        "uri": "http://multiextrem.xyz:80/play/viSlkg8uRdtJEPIWS_668QgBXr6_saFBTCwqYEIMGOQ2L4bePmh2JjhDKhJOpPeo",
         "icono": "https://i.ibb.co/xsBgRLG/tvpublica-logo.jpg"
       },
 		      {
-                      "name": "EVENTOS TELEPLAY",
-                      "uri": "https://edge-live11-sl.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
-                      "drm_scheme": "clearkey",
-                      "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257",
+                      "name": "⚽LIBERTADORES Y SUDAMERICANA",
+                      "uri": "http://multiextrem.xyz:80/play/viSlkg8uRdtJEPIWS_668QgBXr6_saFBTCwqYEIMGOTCQSTJ9rbHAk-zW0YqFgbn",
                       "icono": "https://i.ibb.co/5K6GD6W/Conmebol-Sudamericana.jpg"
                   },
                   {
