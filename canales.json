@@ -2989,23 +2989,21 @@
       },
       {
         "name": "TELESUR",
-        "uri": "http://multiextrem.xyz/TeleplayApp2025/24SiNoaquIyallA/63185",
+        "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/63185.m3u8",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1200px-TeleSUR-Logo.svg.png"
       },
       {
         "name": "TELEDOCE",
-        "uri": "http://multiextrem.xyz/TeleplayApp2025/24SiNoaquIyallA/32691",
+        "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/32691.m3u8",
         "icono": "https://i.ibb.co/PQzQvQH/Canal12-26.webp"
       },
+                 {
+                      "name": "TELEDOCE",
+                      "uri": "http://dnslivetv.online/live/TVplay25/WUXrYhAsgb/591486.m3u8",
+                      "icono": "ttps://i.ibb.co/PQzQvQH/Canal12-26.webp"
+                  },
    
-      {
-        "name": "TV CIUDAD",
-        "uri": "https://chromecast.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_Live_dash_enc_2A/Teve_Ciudad.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9b536cd1716647ee94c45fa4836d29d6&key=d691c88a95440666742d1d8183182347",
-        "icono": "https://i.ibb.co/VLsGnQS/TV-Ciudad-Logo-Nuevo.jpg"
-      },
-{
+   {
                       "name": "CANAL 4",
                       "uri": "https://chromecast.cvattv.com.ar/live/c4eds/Canal4_URU/SA_Live_dash_enc_2A/Canal4_URU.mpd",
                       "drm_scheme": "clearkey",
@@ -3021,9 +3019,7 @@
                   },
                   {
                       "name": "TELEDOCE",
-                      "uri": "http://multiextrem.xyz:80/play/viSlkg8uRdtJEPIWS_668QgBXr6_saFBTCwqYEIMGOT7inDNQzhM4Bm4R-PA6pbu",
-                      "drm_scheme": "clearkey",
-                      "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f4c55ed8f82e5924b22d00ce154ae849&key=fdea8ee702bd5262cb6a2901dc37e7b0",
+                      "uri": "http://dnslivetv.online/live/TVplay25/WUXrYhAsgb/591486.m3u8",
                       "icono": "https://static.wikia.nocookie.net/la-logoteca-oriental/images/b/b7/Canal12_26.png/revision/latest?cb=20220609003231"
                   },
                   {
@@ -3062,6 +3058,13 @@
                       "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9b536cd1716647ee94c45fa4836d29d6&key=d691c88a95440666742d1d8183182347",
                       "icono": "https://i.ibb.co/VLsGnQS/TV-Ciudad-Logo-Nuevo.jpg"
                   },
+   {
+        "name": "TV CIUDAD",
+        "uri": "https://chromecast.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_Live_dash_enc_2A/Teve_Ciudad.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9b536cd1716647ee94c45fa4836d29d6&key=d691c88a95440666742d1d8183182347",
+        "icono": "https://i.ibb.co/VLsGnQS/TV-Ciudad-Logo-Nuevo.jpg"
+      },
                   {
                       "name": "VTV",
                       "uri": "https://chromecast.cvattv.com.ar/live/c3eds/VTV_HD/SA_Live_dash_enc_2A/VTV_HD.mpd",
@@ -3076,6 +3079,13 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b96960aa715a4e51b7e952e81c99ac8e&key=5bbffc680764dbd63d90b774b3aa0c0a",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/1/16/Logo_VTV_nuevo.png"
+      },
+{
+        "name": "VTV PLUS",
+        "uri" : "https://edge-live16-sl.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_Live_dash_enc/VTV_Plus_HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/yvc5zu272t2cuywlum8o7/KEY.VTV.plus.json?rlkey=wujilhzd95e1xybe0xgamriw7&dl=0",
+		"icono": "https://static.tvar.io/imagenes/vtvplus.png?"
       }
      
     ]
