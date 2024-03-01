@@ -2999,6 +2999,13 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f4c55ed8f82e5924b22d00ce154ae849&key=fdea8ee702bd5262cb6a2901dc37e7b0",
         "icono": "https://www.foromedios.com/uploads/monthly_2022_06/large.Teledoce20042.0.png.79eefaf8d6f439fd4d1892a2125fd272.png"
       },
+{
+        "name": "TELEDOCE",
+        "uri" : "https://dtvott-abc.akamaized.net/dash_live_1215/manifest.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f4c55ed8f82e5924b22d00ce154ae849&key=fdea8ee702bd5262cb6a2901dc37e7b0",
+		"icono": "https://www.foromedios.com/uploads/monthly_2022_06/large.Teledoce20042.0.png.79eefaf8d6f439fd4d1892a2125fd272.png"
+      },
      
       {
         "name": "TV CIUDAD",
@@ -3037,26 +3044,26 @@
                   },
                   {
                       "name": "TELEDOCE",
-                      "uri": "http://multiextrem.xyz/TeleplayApp2025/UC78JTBpGB4/32691",
+                      "uri": "http://multiextrem.xyz:80/play/viSlkg8uRdtJEPIWS_668QgBXr6_saFBTCwqYEIMGOT7inDNQzhM4Bm4R-PA6pbu",
                       "drm_scheme": "clearkey",
                       "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f4c55ed8f82e5924b22d00ce154ae849&key=fdea8ee702bd5262cb6a2901dc37e7b0",
                       "icono": "https://static.wikia.nocookie.net/la-logoteca-oriental/images/b/b7/Canal12_26.png/revision/latest?cb=20220609003231"
                   },
                   {
                       "name": "CANAL 5",
-                      "uri": "https://cdn.cvattv.com.ar/live/c3eds/TV_Nacional_Uy/SA_Live_dash_enc_2A/TV_Nacional_Uy.mpd",
+                      "uri": "http://multiextrem.xyz:80/play/viSlkg8uRdtJEPIWS_668QgBXr6_saFBTCwqYEIMGOScqolS1nFGkqff92NDVo6C",
                       "drm_scheme": "clearkey",
                       "drm_license_uri": "https://dl.dropbox.com/scl/fi/jriqfp4idvj0fsx2dbtc4/KEY.CANAL.5URU.json?rlkey=bygm0fh9h8aahgedd2s5bhzzg&dl=0",
                       "icono": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Canal_5_Uruguay.png"
                   },
                   {
                       "name": "CANAL A+V",
-                      "uri": "http://multiextrem.xyz/TeleplayApp2025/UC78JTBpGB4/32685",
+                      "uri": "http://multiextrem.xyz:80/play/viSlkg8uRdtJEPIWS_668QgBXr6_saFBTCwqYEIMGOQQ1nryzAYfnP0mDD5l4JR7",
                       "icono": "https://i.ibb.co/28yt2BV/AV.jpg"
                   },
                   {
                       "name": "CANAL CINCO",
-                      "uri": "http://multiextrem.xyz/TeleplayApp2025/UC78JTBpGB4/32686",
+                      "uri": "http://multiextrem.xyz:80/play/viSlkg8uRdtJEPIWS_668QgBXr6_saFBTCwqYEIMGOScqolS1nFGkqff92NDVo6C",
                       "icono": "https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_07/large.1218322618_914sinttulo_20210722203530.png.e1efc86319dff0ec9fe669469d80e152.png"
                   },
                   {
