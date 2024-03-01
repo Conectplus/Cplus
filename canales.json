@@ -3034,24 +3034,10 @@
                   },
                   {
                       "name": "CANAL A+V",
-                      "uri": "http://multiextrem.xyz:80/play/viSlkg8uRdtJEPIWS_668QgBXr6_saFBTCwqYEIMGOQQ1nryzAYfnP0mDD5l4JR7",
+                      "uri": "http://dnslivetv.online/live/TVplay25/WUXrYhAsgb/591499.m3u8",
                       "icono": "https://i.ibb.co/28yt2BV/AV.jpg"
                   },
-                  {
-                      "name": "VTV",
-                      "uri": "http://edge-live12-sl.cvattv.com.ar/live/c3eds/VTV_HD/SA_Live_dash_enc_2A/VTV_HD.mpd",
-                      "drm_scheme": "clearkey",
-                      "drm_license_uri": "https://dl.dropbox.com/scl/fi/bm9oj825x3ytqet12klxo/KEY.VTV.UY.json?rlkey=q5f0gm21nci0lwjrhuzfvfi0f&dl=0",
-                      "icono": "https://upload.wikimedia.org/wikipedia/commons/1/16/Logo_VTV_nuevo.png"
-                  },
-                  {
-                      "name": "VTV PLUS",
-                      "uri": "https://edge-live16-sl.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_Live_dash_enc/VTV_Plus_HD.mpd",
-                      "drm_scheme": "clearkey",
-                      "drm_license_uri": "https://dl.dropbox.com/scl/fi/yvc5zu272t2cuywlum8o7/KEY.VTV.plus.json?rlkey=wujilhzd95e1xybe0xgamriw7&dl=0",
-                      "icono": "https://static.tvar.io/imagenes/vtvplus.png?"
-                  },
-                  {
+                                    {
                       "name": "TV CIUDAD",
                       "uri": "https://chromecast.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_Live_dash_enc_2A/Teve_Ciudad.mpd",
                       "drm_scheme": "clearkey",
@@ -3095,22 +3081,34 @@
         "samples": [
             {
                 "name": "01 | VTV PLUS",
-                "uri": "http://dnslivetv.online/TVplay25/WUXrYhAsgb/591493",
+                "uri": "http://dnslivetv.online/live/TVplay25/WUXrYhAsgb/591496.m3u8",
                 "icono": "https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png"
             },
+{
+                      "name": "VTV PLUS",
+                      "uri": "http://dnslivetv.online/live/TVplay30/NYEnXqw37E/591496.m3u8",
+                      "icono": "https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png"
+                  },
+                  {
+                      "name": "VTV PLUS",
+                      "uri": "http://dnslivetv.online/live/TVplay30/NYEnXqw37E/591496.m3u8",
+                      "drm_scheme": "clearkey",
+                      "drm_license_uri": "https://dl.dropbox.com/scl/fi/yvc5zu272t2cuywlum8o7/KEY.VTV.plus.json?rlkey=wujilhzd95e1xybe0xgamriw7&dl=0",
+                      "icono": "https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png"
+                  },
              {
                 "name": "02 | VTV PLUS",
-                "uri": "http://multiextrem.xyz:80/play/viSlkg8uRdtJEPIWS_668QgBXr6_saFBTCwqYEIMGOTuS7Wb7r5wkIUzwVbR9_V8",
+                "uri": "http://dnslivetv.online/live/TVplay25/WUXrYhAsgb/591497.m3u8",
                 "icono": "https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png"
             },
 {
                 "name": "03 | VTV PLUS",
-                "uri": "http://multiextrem.xyz/TeleplayApp2025/24SiNoaquIyallA/63199",
+                "uri": "http://dnslivetv.online/live/TVplay30/NYEnXqw37E/591497.m3u8",
                 "icono": "https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png"
             },
              {
                 "name": "04 | VTV PLUS",
-                "uri": "http://multiextrem.xyz:80/play/viSlkg8uRdtJEPIWS_668QgBXr6_saFBTCwqYEIMGOQRmX3NzOrW3p6cQMn8ld75",
+                "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/32693.m3u8",
                 "icono": "https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png"
             },
 			{
@@ -3135,7 +3133,7 @@
             },
 			{
                 "name": "09| VTV PLUS",
-                "uri": "http://dnslivetv.online/TVplay30/NYEnXqw37E/591494",
+                "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/63200.m3u8",
                 "icono": "https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png"
             },
 {
@@ -3150,17 +3148,17 @@
             },
  {
                 "name": "12 | VTV PLUS",
-                "uri": "http://dnslivetv.online/TVplay25/WUXrYhAsgb/591496",
+                "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/63199.m3u8",
                 "icono": "https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png"
             },
 		 {
                 "name": "13| VTV PLUS",
-                "uri": "http://multiextrem.xyz/TeleplayApp2025/UC78JTBpGB4/63197",
+                "uri": "http://zoomplay.online/live/Teleplay2025/Cplus335780/1583856.m3u8",
                 "icono": "https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png"
             },
 			{
                 "name": "14| VTV PLUS",
-                "uri": "http://dnslivetv.online/TVplay30/NYEnXqw37E/591497",
+                "uri": "http://zoomplay.online/live/Teleplay2025/Cplus335780/1583856.m3u8",
                 "icono": "https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png"
               } 
             ]
