@@ -126,18 +126,19 @@
               "name": "⚽EVENTOS TELEPLAY",
               "samples": [
                   {
-                      "name": "EVENTOS TELEPLAY",
-                      "uri": "https://edge-live11-sl.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
-                      "drm_scheme": "clearkey",
-                      "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257",
-                      "icono": "https://i.ibb.co/Z2c3Mg8/Teleplay-1-1.png"
+                      "name": "MLS EVENTOS",
+                      "uri": "http://multiextrem.xyz/TeleplayApp2025/24SiNoaquIyallA/65187",
+                      "icono": "https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/mls-mia-prd/mf2ocwk3psfeygyg9hnt.png"
+                  },
+{
+                      "name": "MLS EVENTOS",
+                      "uri": "http://multiextrem.xyz/TeleplayApp2025/24SiNoaquIyallA/66163",
+                      "icono": "https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/mls-mia-prd/mf2ocwk3psfeygyg9hnt.png"
                   },
                   {
-                      "name": "EVENTOS TELEPLAY",
-                      "uri": "https://edge-live11-sl.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
-                      "drm_scheme": "clearkey",
-                      "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257",
-                      "icono": "https://i.ibb.co/Z2c3Mg8/Teleplay-1-1.png"
+                      "name": "MLS EVENTOS",
+                      "uri": "http://multiextrem.xyz/TeleplayApp2025/24SiNoaquIyallA/66164",
+                      "icono": "https://logo.iptveditor.com/mlslogo.png"
                   },
                   {
                       "name": "EVENTOS TELEPLAY",
