@@ -2789,17 +2789,17 @@
         "samples": [
             {
                 "name": "01 | VTV PLUS",
-                "uri": "http://dnslivetv.online/live/TVplay25/WUXrYhAsgb/591496.m3u8",
+                "uri": "http://dnslivetv.online/live/TVplay25/WUXrYhAsgb/591496.ts",
                 "icono": "https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png"
             },
 {
                       "name": "VTV PLUS",
-                      "uri": "http://dnslivetv.online/live/TVplay30/NYEnXqw37E/591496.m3u8",
+                      "uri": "http://dnslivetv.online/live/TVplay30/NYEnXqw37E/591496.ts",
                       "icono": "https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png"
                   },
                   {
                       "name": "VTV PLUS",
-                      "uri": "http://dnslivetv.online/live/TVplay30/NYEnXqw37E/591496.m3u8",
+                      "uri": "http://dnslivetv.online/live/TVplay30/NYEnXqw37E/591496.ts",
                       "drm_scheme": "clearkey",
                       "drm_license_uri": "https://dl.dropbox.com/scl/fi/yvc5zu272t2cuywlum8o7/KEY.VTV.plus.json?rlkey=wujilhzd95e1xybe0xgamriw7&dl=0",
                       "icono": "https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png"
