@@ -142,9 +142,7 @@
                   },
                   {
                       "name": "EVENTOS TELEPLAY",
-                      "uri": "https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd",
-                      "drm_scheme": "clearkey",
-                      "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a",
+                      "uri": "https://futbollibre.nu/tv2/star-plus/",
                       "icono": "https://i.ibb.co/Z2c3Mg8/Teleplay-1-1.png"
                   },
                   {
@@ -2805,7 +2803,7 @@
                   },
                   {
                       "name": "VTV PLUS M",
-                      "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/32693.m3u8",
+                      "uri": "https://live-ftc-na-south-2.media.starott.com/clt2/va01/starplus/event/2024/03/02/Danubio_vs_River_Plate_Ur_20240302_1709403323015/ctr-all-complete.m3u8",
                       "icono": "https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png"
                   },
              {
@@ -2815,7 +2813,7 @@
             },
 {
                 "name": "03 | VTV PLUS M",
-                "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/63200.m3u8",
+                "uri": "",
                 "icono": "https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png"
             },
              {
