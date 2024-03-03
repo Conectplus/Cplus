@@ -400,6 +400,27 @@
         "uri": "https://stream-04.nyc.dailymotion.com/sec(mOyh5XasEoxB2izGnZ4Ls7SgiXu0NUDpnpRMCMY9VfiuKNmFFBjHHooWYh6IAXsr)/dm/3/x8aobf1/s/stream-0-1709440631.m3u8",
         "icono": "https://i.ibb.co/VtK5R3B/Whats-App-Image-2023-08-09-at-8-41-47-PM.jpg"
       },
+ {
+        "name": "CANAL 3 ROSARIO",
+        "uri": "https://chromecast.cvattv.com.ar/live/c3eds/Canal_3_Rosario/SA_Live_dash_enc/Canal_3_Rosario.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=662447df521fb590b72b1a11671c2afd&key=81c204c443987d7b176587d626a124a0"
+      },
+     {
+        "name": "TELEFE ROSARIO",
+        "uri": "http://edge-live13-sl.cvattv.com.ar/live/c4eds/Canal_5_Rosario/SA_Live_dash_enc_2A/Canal_5_Rosario.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/3e8oywvgpo6wj48y88owe/KEY.telefe.rosario.json?rlkey=5mdzysk3iis67bjgvf9hc4k9u&dl=0",
+		"icono": "https://static.tvar.io/imagenes/teleferosario.png"
+
+      },
+      {
+        "name": "CANAL 3 ROSARIO",
+        "uri": "http://edge-live16-sl.cvattv.com.ar/live/c3eds/Canal_3_Rosario/SA_Live_dash_enc_2A/Canal_3_Rosario.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/b4p2pkcgrtb0clsx30hvc/KEYcanal.3.rosario.json?rlkey=2r74dkb51x4g4vh9xts5nhm5w&dl=0",
+		"icono": "https://static.tvar.io/imagenes/canal3rosario.png"
+      },
 {
         "name": "CANAL 5 TELEFE ROSARIO",
         "uri": "https://prd.jwpltx.com/v1/error/ping.gif?h=-532635609&e=err&n=1649147237992326&abc=0&aid=8_a2aKkYEeK2JSIACpYGxA&at=1&c=1&ccp=0&cp=0&d=0&eb=0&ed=6&emi=rms214n0y2sh&gfb=0&gifr=0&gios=0&i=0&lid=co0e8614b3jc&lsa=read&mt=0&pbd=1&pbr=1&pgi=692t9n1yx2p9&ph=0&pii=0&pl=225&plc=1&pli=16zwbp8losyh&pp=hlsjs&ppm=LIVE&prc=1&ps=4&pss=1&pt=Vivo%20-%20Telefe%20Rosario&pu=https%3A%2F%2Frosario.mitelefe.com%2Fvivo&pv=8.5.3&pyc=1&s=1&sdk=0&stc=2&stpe=0&tv=3.13.0&vb=1&vi=1&vl=90&wd=400&cme=0&erc=230000&pogt=Vivo&sa=1709481109655",
