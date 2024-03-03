@@ -161,6 +161,11 @@
                       "icono": "https://pbs.twimg.com/media/Fw2O0IOWcAQdHf9?format=jpg&name=large"
                   },
 {
+                      "name": "EVENTOS STAR+",
+                      "uri": "https://live-akc-sa-east-2.media.starott.com/gru1/qb01/starplus/event/2024/03/03/Brasil_vs_Argentina_Cuart_20240303_1709429458025/cmaf-cenc-ctr-450K/063/04/54/55_049.mp4",
+                      "icono": "https://pbs.twimg.com/media/Fw2O0IOWcAQdHf9?format=jpg&name=large"
+                  },
+{
         "name": "EVENTOS TELEPLAY",
         "uri": "https://edge-live01-cte.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
         "drm_scheme": "clearkey",
