@@ -430,6 +430,179 @@
         "uri": "https://videostream.shockmedia.com.ar:19360/elpringlense/elpringlense.m3u8",
         "icono": "https://i.ibb.co/VtK5R3B/Whats-App-Image-2023-08-09-at-8-41-47-PM.jpg"
       },
+  {
+        "name": "CANAL 8 TUKUMAN",
+        "uri": "https://chromecast.cvattv.com.ar/live/c7eds/Canal_8_Tucuman/SA_Live_dash_enc/Canal_8_Tucuman.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7760caa058b51b7cce151c0539fa4a8f&key=edd086c1011ed2c54cbe869d0e8d9289",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Elocho_TV_nuevo_logo.png"
+      },
+      {
+        "name": "CANAL 10 TUKUMAN",
+        "uri": "https://chromecast.cvattv.com.ar/live/c7eds/Ch10_Tucuman/SA_Live_dash_enc/Ch10_Tucuman.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7a53740aa52d8b50ccb218aab5e9d50e&key=e772fa4a4997b50a0ff04e2ef286a864",
+        "icono": "https://4.bp.blogspot.com/-OUx3MrU8EFk/WDyKrgWT7xI/AAAAAAAABPI/GMsSZyCV_HYjqZaCrlKU13d82a3mI45mgCLcB/s1600/c10-tucuman.png"
+      },
+      {
+        "name": "CANAL 3 ROSARIO",
+        "uri": "https://chromecast.cvattv.com.ar/live/c3eds/Canal_3_Rosario/SA_Live_dash_enc/Canal_3_Rosario.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=662447df521fb590b72b1a11671c2afd&key=81c204c443987d7b176587d626a124a0"
+      },
+      {
+        "name": "CANAL 13 LA RIOJA",
+        "uri": "http://arcast.net:1935/mp/mp/playlist.m3u8"
+      },
+      {
+        "name": "CANAL 6 POSADAS",
+        "uri": "https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8"
+      },
+      {
+        "name": "CANAL COOP JESUS ​​MARIA",
+        "uri": "https://panel.dattalive.com/8138/8138/chunklist_w1027290367.m3u8"
+      },
+      {
+        "name": "LITUS TV",
+        "uri": "http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8"
+      },
+      {
+        "name": "TELE NORT CORRIENTES",
+        "uri": "http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8"
+      },
+      {
+        "name": "CANAL 6 POSADAS",
+        "uri" : "https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8",
+		"icono": "https://upload.wikimedia.org/wikipedia/commons/e/e2/C6Digital.png"
+      },
+      {
+        "name": "SILVER CHANNEL",
+        "uri": "https://panel.dattalive.com/8158/8158/chunklist_w747032926.m3u8",
+		"icono": "https://iot.org.ar/wp-content/uploads/2020/12/logo-silver-channel.jpg"
+      },
+      {
+        "name": "Telesol San Juan",
+        "uri": "https://cnnsanjuan.com:9999/live/telesol/woplay/telesoludp2_720p/chunks.m3u8",
+		"icono": "https://static.tvar.io/imagenes/telesol.png"
+      },
+      {
+        "name": "ARGENTINISIMA SATELITAL",
+        "uri": "https://edge-live11-hr.cvattv.com.ar/live/c6eds/Argentinisima/SA_Live_dash_enc/Argentinisima.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/s/44p1aws6j2n0qbe/keyargentinisima.json",
+		"icono": "https://i.ibb.co/G0zCDL0/descarga-1.png"
+      },
+      {
+        "name": "CANAL 12 CORDOBA",
+        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc_2A/Canal_12_CBA.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/a97iw0i52tkmqchsfm1ml/KEY.CANAL-12-CORDOBA.json?rlkey=p5ctuf2ahfnbs0kj3by5ituih&dl=0",
+		"icono": "https://i.ibb.co/60sFBfY/og-image.jpg"
+      },
+      {
+        "name": "Canal 8 San Juan",
+        "uri" : "https://mtd.llc/canal8sanjuan.m3u8",
+		"icono": "https://static.tvar.io/imagenes/canalochosanjuan.png"
+      },
+      {
+        "name": "Canal 4 San Juan",
+        "uri" : "https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8",
+		"icono": "https://static.tvar.io/imagenes/canal4sanjuan.png"
+      },
+      {
+        "name": "Canal 30 San juan",
+        "uri" : "https://y.tvar.io/iptv-query.m3u8?streaming-ip=https://www.youtube.com/@canal30sanjuantv",
+		"icono": "https://static.tvar.io/imagenes/canal30sanjuan.png"
+      },
+      {
+        "name": "Canal 34 San juan",
+        "uri": "http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8",
+		"icono": "https://static.tvar.io/imagenes/34sanjuan.png"
+      },
+      {
+        "name": "Albardon TV",
+        "uri": "https://vd01.streaminghd.net.ar:3451/stream/play.m3u8",
+		"icono": "https://static.tvar.io/imagenes/albardontv.png"
+      },
+      {
+        "name": "TELEFE CORDOBA",
+        "uri": "http://edge-live16-sl.cvattv.com.ar/live/c6eds/Canal_8_CBA/SA_Live_dash_enc_2A/Canal_8_CBA.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/z21uds8janr6tb9jvvs8w/KEY.telefe.cordoba.json?rlkey=qynf51jetwjqjryw67tuyrpf5&dl=0",
+		"icono": "https://static.tvar.io/imagenes/telefecba.png"
+      },
+      {
+        "name": "CANAL 12 CORDOBA",
+        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc_2A/Canal_12_CBA.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/a97iw0i52tkmqchsfm1ml/KEY.CANAL-12-CORDOBA.json?rlkey=p5ctuf2ahfnbs0kj3by5ituih&dl=0",
+		"icono": "https://i.ibb.co/60sFBfY/og-image.jpg"
+      },
+      {
+        "name": "CANAL 10 CORDOBA",
+        "uri": "https://stream.arcast.live/canal10/ngrp:canal10_all/playlist.m3u8",
+		"icono": "https://static.tvar.io/imagenes/canal10cba.jpg"
+      },
+      {
+        "name": "CANAL 13 RIO CUARTO",
+        "uri": "http://stmvideo2.livecastv.com/telediario/telediario/playlist.m3u8",
+		"icono": "https://static.tvar.io/imagenes/canal13riocuarto.jpg"
+
+      },
+      {
+        "name": "TELEFE SANTA FE",
+        "uri": "http://edge-live13-sl.cvattv.com.ar/live/c6eds/Canal_13_SFE/SA_Live_dash_enc_2A/Canal_13_SFE.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/t7pxt5clheq2kgonc40jb/KEY.telefe.santa.fe.json?rlkey=qfm4iap0vn5m0h1zjh2mqfk1e&dl=0",
+		"icono": "https://static.tvar.io/imagenes/telefesfe.png"
+      },
+      {
+        "name": "Canal 9 Litoral",
+        "uri": "http://edge-live13-sl.cvattv.com.ar/live/c6eds/Canal_9_Parana/SA_Live_dash_enc_2A/Canal_9_Parana.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/jhfg3zst0pcudtz65nuj4/KEY.canqal.9.litoral.json?rlkey=tsl6f8mtd2ybk93idsa7soocu&dl=0",
+		"icono": "https://static.tvar.io/imagenes/canal9litoral.png"
+      },
+      {
+        "name": "TELEFE ROSARIO",
+        "uri": "http://edge-live13-sl.cvattv.com.ar/live/c4eds/Canal_5_Rosario/SA_Live_dash_enc_2A/Canal_5_Rosario.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/3e8oywvgpo6wj48y88owe/KEY.telefe.rosario.json?rlkey=5mdzysk3iis67bjgvf9hc4k9u&dl=0",
+		"icono": "https://static.tvar.io/imagenes/teleferosario.png"
+
+      },
+      {
+        "name": "CANAL 3 ROSARIO",
+        "uri": "http://edge-live16-sl.cvattv.com.ar/live/c3eds/Canal_3_Rosario/SA_Live_dash_enc_2A/Canal_3_Rosario.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/b4p2pkcgrtb0clsx30hvc/KEYcanal.3.rosario.json?rlkey=2r74dkb51x4g4vh9xts5nhm5w&dl=0",
+		"icono": "https://static.tvar.io/imagenes/canal3rosario.png"
+      },
+      {
+        "name": "TELEFE NEUQUEN",
+        "uri": "http://edge-live17-hr.cvattv.com.ar/live/c4eds/Telefe_Neuquen/SA_Live_dash_enc_2A/Telefe_Neuquen.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/q8llw64f79ma1snak176h/KEY.telefe.neuquen.json?rlkey=x44os1tsl3ews1potwi2infoe&dl=0",
+		"icono": "https://static.tvar.io/imagenes/telefeneuquen.png"
+      },
+      {
+        "name": "13 Max Televisión",
+        "uri": "http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/chunklist_w247540946.m3u8",
+		"icono": "https://static.tvar.io/imagenes/13maxdigital.png"
+      },
+      {
+        "name": "TELEFE BAHIA BLANCA",
+        "uri": "http://edge-live11-hr.cvattv.com.ar/live/c3eds/Canal9_Bahia_Blanca/SA_Live_dash_enc_2A/Canal9_Bahia_Blanca.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/rbgs7hsxairw06c2h75j0/KEY.TELEFE-BAHIA-BLANCA.json?rlkey=i713hwikxol6h3baync9e9dtd&dl=0",
+		"icono": "https://static.tvar.io/imagenes/telefebahia.png"
+      },
+      {
+        "name": "Canal Siete Bahía Blanca",
+        "uri": "http://edge-live12-sl.cvattv.com.ar/live/c3eds/Canal7_Bahia_Blanca/SA_Live_dash_enc_2A/Canal7_Bahia_Blanca.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/kpqizi69fltwkik469ozu/KEY.Canal-Siete-Bah-a-Blanca.json?rlkey=fx4dkwg083c3iitmlc08rsjuw&dl=0",
+		"icono": "https://static.tvar.io/imagenes/canal7bahia.png"
       {
         "name": "Multivision Cable",
         "uri": "https://videostream.shockmedia.com.ar:19360/multivisioncable/multivisioncable.m3u8",
