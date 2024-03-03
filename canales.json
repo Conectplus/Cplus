@@ -2820,8 +2820,8 @@
         "icono": "https://upload.wikimedia.org/wikipedia/commons/1/16/Logo_VTV_nuevo.png"
       },
 {
-        "name": "VTV PLUS",
-        "uri" : "https://edge-live16-sl.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_Live_dash_enc/VTV_Plus_HD.mpd",
+        "name": "VTV PLUS Prueba",
+        "uri" : "hhttps://edge-live01-mun.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_Live_dash_enc/VTV_Plus_HD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/yvc5zu272t2cuywlum8o7/KEY.VTV.plus.json?rlkey=wujilhzd95e1xybe0xgamriw7&dl=0",
 		"icono": "https://static.tvar.io/imagenes/vtvplus.png?"
