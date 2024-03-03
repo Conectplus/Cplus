@@ -160,6 +160,13 @@
                       "uri": "https://futbollibre.nu/tv2/star-plus/",
                       "icono": "https://i.ibb.co/Z2c3Mg8/Teleplay-1-1.png"
                   },
+{
+        "name": "EVENTOS TELEPLAY",
+        "uri": "https://edge-live01-cte.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257",
+		"icono": "https://i.ibb.co/Z2c3Mg8/Teleplay-1-1.png"
+      },
                   {
                       "name": "EVENTOS TELEPLAY",
                       "uri": "https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd",
