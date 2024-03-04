@@ -2787,6 +2787,14 @@
                       "uri": "http://dnslivetv.online/live/TVplay25/WUXrYhAsgb/591486.m3u8",
                       "icono": "ttps://i.ibb.co/PQzQvQH/Canal12-26.webp"
                   },
+    {
+        "name": "CANAL TELEDOCE",
+        "uri": "https://edge-mix01-coe.cvattv.com.ar/live/c4eds/Canal12URU/SA_Live_dash_enc/Canal12URU.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f4c55ed8f82e5924b22d00ce154ae849&key=fdea8ee702bd5262cb6a2901dc37e7b0",
+        "icono": "https://www.foromedios.com/uploads/monthly_2022_06/large.Teledoce20042.0.png.79eefaf8d6f439fd4d1892a2125fd272.png"
+      },
+
 {
                       "name": "LATINA TV PAYSANDU",
                       "uri": "https://vxlive.cdn.antel.net.uy/auth_V_Latina_Tv,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfTGF0aW5hX1R2JTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE3MDk2MDI2NzQmcmFuZG9tPWI3eFRtMWFMMVUmYy1pcD0xODYuNTcuMTM5LjE1MCZpZF9yZWZlcmVuY2lhPSZpZF9kaXNwb3NpdGl2bz0wJmlkX2Zyb250ZW5kPTExOTYmcHVibGljX2lkPTJzNnJkLDUxZDljYjQ2ZjNjNjg4YjFhNjY4MzAyY2MwZTViZjE0NGYxMDc4NTk3ZmE4YzFlYWNkZmE0MTE4ZjM3OTE0Nzc=/vxfmt=hls/h_6fe564270334da7f7f2a1d6c5eec008e/var3950000/playlist.m3u8",
