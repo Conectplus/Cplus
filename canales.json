@@ -426,13 +426,31 @@
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/b4p2pkcgrtb0clsx30hvc/KEYcanal.3.rosario.json?rlkey=2r74dkb51x4g4vh9xts5nhm5w&dl=0",
 		"icono": "https://static.tvar.io/imagenes/canal3rosario.png"
       },
+
+     {
+        "name": "CANAL NUEVE TELEVIDA - MENDOZA",
+        "uri": "https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/televidaar/livestream2/chunks.m3u8",
+        "icono": "https://www.elnueve.com/images/logo-canal-9-televida-mendoza.png"
+      }, 
+	  
+	  {
+        "name": "EL SIETE TV - MENDOZA ",
+        "uri": "https://m.mtd.llc/iptv-query.m3u8?url=http://www.youtube.com/c/CanalSieteMendoza1/live",
+        "icono": "https://www.elsietetv.com.ar/wp-content/uploads/2017/08/canal-7-vivo.jpg"
+      },
+      {
+        "name": "CANAL 2 JUJUY",
+        "uri": "https://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8",
+        "icono": "https://i.ibb.co/XLJ5cc3/descarga-1.png"
+      },
+    
 {
         "name": "EL PRINGLENSE",
         "uri": "https://videostream.shockmedia.com.ar:19360/elpringlense/elpringlense.m3u8",
         "icono": "https://i.ibb.co/VtK5R3B/Whats-App-Image-2023-08-09-at-8-41-47-PM.jpg"
       },
   {
-        "name": "CANAL 8 TUKUMAN",
+        "name": "CANAL 8 TUCUMAN",
         "uri": "https://chromecast.cvattv.com.ar/live/c7eds/Canal_8_Tucuman/SA_Live_dash_enc/Canal_8_Tucuman.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7760caa058b51b7cce151c0539fa4a8f&key=edd086c1011ed2c54cbe869d0e8d9289",
