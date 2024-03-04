@@ -2787,6 +2787,12 @@
                       "uri": "http://dnslivetv.online/live/TVplay25/WUXrYhAsgb/591486.m3u8",
                       "icono": "ttps://i.ibb.co/PQzQvQH/Canal12-26.webp"
                   },
+  {
+                      "name": "CANAL 8 DURAZNO",
+                      "uri": "https://vxlive.cdn.antel.net.uy/auth_V_Canal8_Durazno,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfQ2FuYWw4X0R1cmF6bm8lMkZ2eGZtdCUzRGhscyUyRiUyQSZleHBpcnk9MTcwOTYwMTExNSZyYW5kb209bU03OElJNklmZSZjLWlwPTE4Ni41Ny4xMzkuMTUwJmlkX3JlZmVyZW5jaWE9JmlkX2Rpc3Bvc2l0aXZvPTAmaWRfZnJvbnRlbmQ9MTE5NiZwdWJsaWNfaWQ9MnM2cGYsOTQ1ZjZjOGQ0MTJkNWEyNjc1YTU4MzcyM2U0YTZkNDIzNTc2YzE5YTczMTQ3NmQ4MTExOTE1ZmNjZGM2MGY2MQ==/vxfmt=hls/h_43e1fd490a8947a68b99329edcdb3bfc/var3950000/playlist.m3u8",
+                      "icono": "https://tudurazno.net/canal8/wp-content/uploads/2023/01/canal-8.jpg"
+                  },
+
    
    {
                       "name": "CANAL 4",
@@ -2820,6 +2826,11 @@
                   {
                       "name": "CANAL A+V",
                       "uri": "http://dnslivetv.online/live/TVplay25/WUXrYhAsgb/591499.m3u8",
+                      "icono": "https://i.ibb.co/28yt2BV/AV.jpg"
+                  },
+   {
+                      "name": "CANAL MAROÑAS",
+                      "uri": "https://vxlive.cdn.antel.net.uy/auth_V_Canal8_Durazno,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfQ2FuYWw4X0R1cmF6bm8lMkZ2eGZtdCUzRGhscyUyRiUyQSZleHBpcnk9MTcwOTYwMTExNSZyYW5kb209bU03OElJNklmZSZjLWlwPTE4Ni41Ny4xMzkuMTUwJmlkX3JlZmVyZW5jaWE9JmlkX2Rpc3Bvc2l0aXZvPTAmaWRfZnJvbnRlbmQ9MTE5NiZwdWJsaWNfaWQ9MnM2cGYsOTQ1ZjZjOGQ0MTJkNWEyNjc1YTU4MzcyM2U0YTZkNDIzNTc2YzE5YTczMTQ3NmQ4MTExOTE1ZmNjZGM2MGY2MQ==/vxfmt=hls/h_43e1fd490a8947a68b99329edcdb3bfc/var3950000/playlist.m3u8",
                       "icono": "https://i.ibb.co/28yt2BV/AV.jpg"
                   },
                                     {
