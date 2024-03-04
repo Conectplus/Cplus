@@ -277,16 +277,10 @@
       },
       {
         "name": "CANAL IP",
-        "uri": "
-	https://ipnoticias.ar/_next/image?url=https%3A%2F%2Fimg.ipnoticias.ar%2Fsites%2Fdefault%2Ffiles%2Fstyles%2F16_9_max_520px%2Fpublic%2F2023-07%2Fipnoticiasvivo.png%3Fh%3Da4576a36%26itok%3DQ8GwpJwp&w=828&q=75",
+        "uri": "https://ipnoticias.ar/_next/image?url=https%3A%2F%2Fimg.ipnoticias.ar%2Fsites%2Fdefault%2Ffiles%2Fstyles%2F16_9_max_520px%2Fpublic%2F2023-07%2Fipnoticiasvivo.png%3Fh%3Da4576a36%26itok%3DQ8GwpJwp&w=828&q=75",
          "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e32aaa4b67430b3b51be1efce5a74ac5&key=ad60c5e1d378a97271bf8688f094d092",
 	"icono": "https://i.ibb.co/GQ6LCnV/share.png"
-      },
-   {
-        "name": "CANAL IP",
-        "uri": "https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/Cs4FQu_6fJbNa9bk93rFidyZN8mBIWizPx0n2QhjWyfxYwTZ_D7nUyTKrqlYos0ccR64-5-VbqYQELvHRIWA6iH6XAtLfX5ew78FtD8IUfp24l5vROC_utHozLQwNYAjKiXGzihN5nGpkNdozs06O1BFpoeTWnrW2rqvuMFoZDh1CWzgjnuuORGTGvAZl8hLUd3asbZRwlo9wHBqzTLYYoTMT4kMR0Wa35LvhbHwLD7fzfdGNb0zVwdxhcqfLkXQBm_U2KFtX-KXV8V40ZJMWntkbL7KEffx8Brk2zsQLqkhOTq8MTyKtV9ZqVGIGStFKNPnUHF6WStQGPe4fYmgff7a-O2zvYU6GcQo5E21DJj-W2mrQbzRV5HajB-dpQ5v-y4e6l5pN9VJYTQrOUpHQ5zN4f8AzKdNbHddMHFPh1MeJNUeaQs8tOLUFgbBwxwQGNmju0bmOH2aq8McJL552urQ2xly3h7SMYYv8mPfSOHBSKKr8P9NNDAhT84PVMLEn_YqkTEA142DklStIoRrsvE3Ivcihm9W_p6KLehWehdtUNR_gum42m1cY3w6W4m0uTWR4wSLZs_NSFOzu2pmwtPf9ytebNxYi_Oh7lrNSwpuaq-RWLmN9KjHxrcbuKbc8qFpLQYJUggkiVULcgB90L_irj5sdv4XQY1RPuWyHccz47AvYEQjReFDWrx8s9lLRSbhsMEODpYHu4E6jQi3wrmVOrJ3y488bXh8uLR1PSdMwYwXurLd3eltHWiBXxCudFsla-hZ2A6aMDKFQ9Zeklx1fcyakd68-doHSSKX66rl5rBnmFkqcwfN3Du8eG_FIIMWriSaHIo5izgb5vVwWiSePxXuocWl6QAODZ_wi2GN34QafQKIotSf9pfp2-s8jwADdCN-ugcYtR5soW-C8AWR8d2z7YHuAGVgdNWPjx4jbK5FtnkSQvq9Gw7k4mAQDRoMfGoIwONP3KcS3fdoIAEqCXVzLWVhc3QtMTCWBw.m3u8",
-        "icono": "https://i.ibb.co/GQ6LCnV/share.png"
       },
       {
         "name": "BRAVO TV",
@@ -295,14 +289,7 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ad7fbbec39cea4a5a63ac13d94da48d4&key=f71087b4dc211db079237c0fb783eb93",
         "icono": "https://i.ibb.co/5nJff9s/cronica-Bravo-TV.jpg"
       },
-      {
-        "name": "ARGENTINISIMA SATELITAL",
-        "uri": "https://edge-live11-hr.cvattv.com.ar/live/c6eds/Argentinisima/SA_Live_dash_enc/Argentinisima.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e32aaa4b67430b3b51be1efce5a74ac5&key=ad60c5e1d378a97271bf8688f094d092",
-        "icono": "https://i.ibb.co/G0zCDL0/descarga-1.png"
-      },
-{
+  {
         "name": "ARGENTINISIMA SATELITAL",
         "uri": "https://stream1.sersat.com/hls/argentinisima.m3u8",
         "icono": "https://i.ibb.co/G0zCDL0/descarga-1.png"
