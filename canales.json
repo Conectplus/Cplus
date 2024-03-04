@@ -270,9 +270,14 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e32aaa4b67430b3b51be1efce5a74ac5&key=ad60c5e1d378a97271bf8688f094d092",
         "icono": "https://i.ibb.co/ScjYgWj/Logo-Canal26.jpg"
       },
+{
+        "name": "CANAL LUZ",
+        "uri": "https://g5.mc-hor.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_1080p/index.m3u8",
+        "icono": "https://canalluz.org/assets/images/logo-2020-250x79.png"
+      },
       {
         "name": "CANAL IP",
-        "uri": "https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CsgFO69RvsWbvEP7Y9HsGF0o96EsKUqqULq6TVKl20y6mrp58W_rw24cJH2zGssBZc-0MvbDrM707fuUlbNdNh8LD1tLR28p_MYKU9hShDxJ_P9O_6d4zw1iCcYRZTI2P92RiJyg_gSCzBZuZWXkxg_lp2m2AodlDU1px-R5Kow4VsljrFrtQ5gBAdwWADn4d0GR1k-J0MBjtEyEd5Z57e9Cb3koEmBWl8UIFuvFDNhrvSRU9fCdre86v2cXuQ70Vz0CG6Z3s5j9zjUYjulH2zuErFFXzxHzVuRjMsG4dTC8EYuLo0INWlj9je2fk3Cn9gaE3KYbvTf2DMBpltEHegI4dF3YvL2-a6Yi7F9xlxHsLHU58UInKetzQX46VsGPk43EJO7BpXkUuVuDdIQg2GHY14icWviMkhiPaJhdx8swsWEvasBeMqHMyYNXHzGsi5krjjBHvNTqUy7nGU6DFzFpyA2OzYyNeuyFSST-T3PYSV2WKSGzSFVFFC7f79CXQnETTebGyyG8skUUtPS1WJivlsFMO6FEsGXeKxXj91maim92pJlI7XeOasQvAHketwaJiC23BwZyLAmlfbNi4BBydRaD9YvMx5nAbQENS4slhou90xkX-l8ckGnOvQRA6U2-w5XIsEYj3seVb-vZsKSlxgxaaKXMD-Ow4FHwQMDFbKhPJ0qahOOsLmAHhl3gTeWz8AEauJ5GLAggM86_UUJudjq8hZuSb8KkmiONh0F3cY5JUcq46f1fOvteq_XRfjkhc0wI7oaLpLqVrxDdvEf_BKiAv4VrVjZyA2-rQZxVlRckagMYeTpn--pP06CzpqHXXFlQdfl6teoFOyzMIB3dSBVfmFEK7nJJDNG2IhzGuOi-y5hR3smmKieF9RadLgMh4X9DuSxdOAXhfPlPGlyss1IVad3gAXYEUJ-QpU4cx9Pgdr4wxda_zBoMbfJrUGEmBWyhOJ6VIAEqCXVzLWVhc3QtMTCiBw.m3u8",
+        "uri": "https://videos-cloudfront-usp.jwpsrv.com/65e5cf52_7fe8d55d647b80290b20bed2636c265518b2e0b8/site/cGrZvfZj/media/HSYqb81Z/version/HSYqb81Z/manifest.ism/manifest-audio_eng=112002-video_eng=304576.m3u8",
         "icono": "https://i.ibb.co/GQ6LCnV/share.png"
       },
       {
