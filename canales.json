@@ -272,13 +272,16 @@
       },
 {
         "name": "CANAL LUZ",
-        "uri": "https://g5.mc-hor.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_1080p/index.m3u8",
+        "uri": "https://g5.mc-hor.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_360p/1709517497790.ts",
         "icono": "https://canalluz.org/assets/images/logo-2020-250x79.png"
       },
       {
         "name": "CANAL IP",
-        "uri": "https://videos-cloudfront-usp.jwpsrv.com/65e5cf52_7fe8d55d647b80290b20bed2636c265518b2e0b8/site/cGrZvfZj/media/HSYqb81Z/version/HSYqb81Z/manifest.ism/manifest-audio_eng=112002-video_eng=304576.m3u8",
-        "icono": "https://i.ibb.co/GQ6LCnV/share.png"
+        "uri": "
+	https://ipnoticias.ar/_next/image?url=https%3A%2F%2Fimg.ipnoticias.ar%2Fsites%2Fdefault%2Ffiles%2Fstyles%2F16_9_max_520px%2Fpublic%2F2023-07%2Fipnoticiasvivo.png%3Fh%3Da4576a36%26itok%3DQ8GwpJwp&w=828&q=75",
+         "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e32aaa4b67430b3b51be1efce5a74ac5&key=ad60c5e1d378a97271bf8688f094d092",
+	"icono": "https://i.ibb.co/GQ6LCnV/share.png"
       },
       {
         "name": "BRAVO TV",
