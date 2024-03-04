@@ -2838,6 +2838,11 @@
                       "uri": "https://livedelta2.cdn.antel.net.uy/out,vxttoken=cGF0aFVSST0lMkZvdXQlMkZ1JTJGYXV0aF9EMl9NYXJvbmlhc19FbnRlcnRhaW5tZW50JTJGaGxzJTJGJTJBJmV4cGlyeT0xNzA5NjAxNDI0JnJhbmRvbT03SkNMYkYydjFaJmMtaXA9MTg2LjU3LjEzOS4xNTAmaWRfcmVmZXJlbmNpYT0maWRfZGlzcG9zaXRpdm89MCZpZF9mcm9udGVuZD0xMTk2JnB1YmxpY19pZD0yczY4cyxiYjFmNWQwNTc1M2I3M2VmYTM4ZDNiYjBkZDJiZGU5YjA3MWZhNGFhNmIwZGMzMDIwY2YyMzQyYzdmMTlmYWI3/u/auth_D2_Maronias_Entertainment/hls/auth_D2_Maronias_Entertainment_HLSDEF13697_3.m3u8?m=1649440813",
                       "icono": "https://www.maronas.com.uy/data/f/c/blog/33485/1280-1280/logo-maronas-color.jpg"
                   },
+	    {
+                      "name": "CANAL TVL PANDO",
+                      "uri": "https://vxlive.cdn.antel.net.uy/auth_V_TVL_Pando,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfVFZMX1BhbmRvJTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE3MDk2MDIyOTUmcmFuZG9tPXRPeTB0WkJPU1YmYy1pcD0xODYuNTcuMTM5LjE1MCZpZF9yZWZlcmVuY2lhPSZpZF9kaXNwb3NpdGl2bz0wJmlkX2Zyb250ZW5kPTExOTYmcHVibGljX2lkPTJzNnJzLGIzZjcxY2VkODM3YjhlOWY0NWY3MTdjY2NiNGRlMzE0MjZmNzMzMTk4ZmI1NzkyZWI4MWYzYmJjMzZiODllN2U=/vxfmt=hls/h_0b0a22990c5e0fc04afa84aef224eddf/var3950000/playlist.m3u8",
+                      "icono": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/TVL-Pando-Uruguay-en-vivo-Online.png?resize=696%2C392&ssl=1"
+                  },
                                     {
                       "name": "TV CIUDAD",
                       "uri": "https://chromecast.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_Live_dash_enc_2A/Teve_Ciudad.mpd",
