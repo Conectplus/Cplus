@@ -1005,6 +1005,11 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f4c9f97e2a36feab0e5077f2b44cbc4e&key=1743cd03dfe3736b2c95da91a783af38",
         "icono": "https://i.ibb.co/NTHfMGT/ESPN3-CLR-Pos-642x405.jpg"
       },
+{
+        "name": "ESPN 4 ",
+        "uri": "https://edge6-hr.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD-mp4a_145200_spa=20003-scale=48000-p=288951798808066-13893385443002.mp4",
+        "icono": "https://futbollibrehd.net/img/logo-canal/ESPN_4.png"
+      },
       {
         "name": "ESPN EXTRA",
         "uri": "https://chromecast.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc_2A/ESPNHD.mpd",
