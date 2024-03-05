@@ -499,11 +499,6 @@
         "name": "CANAL 6 POSADAS",
         "uri": "https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8"
       },
-{
-        "name": "CANAL 12 POSADAS",
-        "uri": "https://g4.mc-slo.transport.edge-access.net/a05/ngrp:c12_live01-100129_all/c12_live01-100129_720p.m3u8"
- 	"icono": "https://play-lh.googleusercontent.com/-PKExuOlYu5MTFNI6avFdwDyAkU58ipz2NSp3U6w7Ii1RWmahAybkwgddctHeZFk2Q=w240-h480-rw"
-      },
       {
         "name": "CANAL COOP JESUS ​​MARIA",
         "uri": "https://panel.dattalive.com/8138/8138/chunklist_w1027290367.m3u8"
