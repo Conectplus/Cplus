@@ -2769,7 +2769,7 @@
       },
                  {
                       "name": "TELEDOCE",
-                      "uri": "http://dnslivetv.online/live/TVplay25/WUXrYhAsgb/591486.m3u8",
+                      "uri": "http://dnslivetv.online/get.php?username=TVplay25&password=WUXrYhAsgb&type=m3u_plus&manifest_type=m3u8",
                       "icono": "ttps://i.ibb.co/PQzQvQH/Canal12-26.webp"
                   },
     {
