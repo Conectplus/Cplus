@@ -855,20 +855,6 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b96960aa715a4e51b7e952e81c99ac8e&key=5bbffc680764dbd63d90b774b3aa0c0a",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/1/16/Logo_VTV_nuevo.png"
       },
-{
-        "name": "VTV PLUS 24",
-        "uri": "https://edge-live01-mun.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_Live_dash_enc/VTV_Plus_HD.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=da8a49a594160cc0059f07b9f71cd39a&key=37ca91dd799b351a02445151c7f61070",
-        "icono": "https://static.tvar.io/imagenes/vtvplus.png?"
-        }, 
-      {
-        "name": "VTV PLUS",
-        "uri": "https://chromecast.cvattv.com.ar/c3eds/VTV_Plus_HD/SA_Live_dash_enc/VTV_Plus_HD.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=da8a49a594160cc0059f07b9f71cd39a&key=37ca91dd799b351a02445151c7f61070",
-        "icono": "https://static.tvar.io/imagenes/vtvplus.png?"
-        }, 
       {
         "name": "VTV PLUS",
         "uri": "http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/264752",
@@ -2930,44 +2916,39 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=da8a49a594160cc0059f07b9f71cd39a&key=37ca91dd799b351a02445151c7f61070",
         "icono": "https://static.tvar.io/imagenes/vtvplus.png?"
         },
+{
+        "name": "VTV PLUS",
+        "uri": "http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/264752",
+        "icono": "http://imgfz.com/i/dTApbyc.png"
+      },
  {
                 "name": "01 | VTV PLUS",
                 "uri": "http://multiextrem.xyz/TeleplayApp2025/24SiNoaquIyallA/63200",
                 "icono": "https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png"
             },
 {
-                      "name": "VTV PLUS",
+                      "name": "02 |VTV PLUS",
                       "uri": "http://multiextrem.xyz/TeleplayApp2025/24SiNoaquIyallA/63200.m3u8",
                       "icono": "https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png"
                   },
 {
-                      "name": "MT|VTV PLUS",
+                      "name": "03|VTV PLUS",
                       "uri": "http://multiextrem.xyz:80/play/viSlkg8uRdtJEPIWS_668QgBXr6_saFBTCwqYEIMGOT7inDNQzhM4Bm4R-PA6pbu",
                       "icono": "https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png"
                   },
                  
 		 {
-                "name": "MT|VTV PLUS",
+                "name": "04|VTV PLUS",
                 "uri": "http://multiextrem.xyz/TeleplayApp2025/24SiNoaquIyallA/32693.m3u8",
                 "icono": "https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png"
             },
 			{
-                "name": "25| VTV PLUS",
+                "name": "05| VTV PLUS",
                 "uri": "http://dnslivetv.online:80/TVplay25/WUXrYhAsgb/591496",
                 "icono": "https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png"
               },
-{
-                "name": "BR| VTV PLUS",
-                "uri": "http://zoomplay.online/live/Teleplay2025/Cplus335780/1583856.m3u8",
-                "icono": "https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png"
-              },
-{
-                "name": "30| VTV PLUS",
-                "uri": "http://zoomplay.online/live/Teleplay2025/Cplus335780/1583856.m3u8",
-                "icono": "https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png"
-              },
-			{
-                "name": "31| VTV PLUS",
+		{
+                "name": "06| VTV PLUS",
                 "uri": "http://dnslivetv.online/live/TVplay25/WUXrYhAsgb/591496.M3U8",
                 "icono": "https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png"
               } 
