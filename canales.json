@@ -66,21 +66,21 @@
           },
 
 {
-              "name": "⚽CHAMPIONS LEAGUE",
+              "name": "⚽EUROPA Y CHAMPIONS LEAGUE",
               "samples": [
                     {
         "name": "⚽CHAMPIONS LEAGUE",
         "uri": "https://chromecast.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cbc2a0c7a38df0aa3333cd71841d3b0d&key=aac61b730e2ac1df23f1e872e7541c1b",
-        "icono": "https://i.ibb.co/5K6GD6W/Conmebol-Sudamericana.jpg"
+        "icono": "https://i.ibb.co/dDQPPWt/uefa.webp"
       },
    {
         "name": "⚽CHAMPIONS LEAGUE",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc_2A/ESPN2_Arg.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=65a5bfa3c7a72dde60be9b0c7406c8fc&key=0b40ae9f78a7bac3b57ecbf72d3c081e",
-        "icono": "https://i.ibb.co/5K6GD6W/Conmebol-Sudamericana.jpg"
+        "icono": "https://i.ibb.co/dDQPPWt/uefa.webp"
       }
              
                ]
