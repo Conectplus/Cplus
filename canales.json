@@ -2755,6 +2755,18 @@
         "icono": "https://static.tvar.io/imagenes/canal4uy.png"
       },
 {
+        "name": "TELEDOCE",
+        "uri": "https://edge-live31-hr.cvattv.com.ar/live/c4eds/Canal12URU/SA_Live_dash_enc_2A/Canal12URU.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8dd34782d754f8fcb1e8b38da9ffad0b&key=6fb97467c0f0ea13f86d41a70e029c51",
+        "icono": "https://i.ibb.co/PQzQvQH/Canal12-26.webp"
+      },
+  {
+        "name": "TELEDOCE",
+        "uri": "http://multiextrem.xyz:80/play/viSlkg8uRdtJEPIWS_668QgBXr6_saFBTCwqYEIMGOT7inDNQzhM4Bm4R-PA6pbu",
+        "icono": "https://i.ibb.co/PQzQvQH/Canal12-26.webp"
+      },
+{
         "name": "TV CIUDAD",
         "uri": "https://chromecast.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_Live_dash_enc_2A/Teve_Ciudad.mpd",
         "drm_scheme": "clearkey",
@@ -2766,12 +2778,7 @@
         "uri": "http://multiextrem.xyz:80/play/viSlkg8uRdtJEPIWS_668QgBXr6_saFBTCwqYEIMGORSQkXcMi0bOr5YS_i5GhTI",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1200px-TeleSUR-Logo.svg.png"
       },
-       {
-        "name": "TELEDOCE",
-        "uri": "http://multiextrem.xyz:80/play/viSlkg8uRdtJEPIWS_668QgBXr6_saFBTCwqYEIMGOT7inDNQzhM4Bm4R-PA6pbu",
-        "icono": "https://i.ibb.co/PQzQvQH/Canal12-26.webp"
-      },
-                 {
+         {
                       "name": "TELEDOCE",
                       "uri": "http://multiextrem.xyz:80/play/viSlkg8uRdtJEPIWS_668QgBXr6_saFBTCwqYEIMGOSFRKtWNIIbDek1jhJfmUZG",
                       "icono": "https://i.ibb.co/PQzQvQH/Canal12-26.webp"
