@@ -1848,7 +1848,12 @@
  {
     "name": "🐢CULTURA",
     "samples": [
-      {
+    {
+        "name": "EL GOURMET",
+        "uri": "http://multiextrem.xyz:80/play/viSlkg8uRdtJEPIWS_668QgBXr6_saFBTCwqYEIMGOTS9nUtbyFFLa_J7cwQXFwm",
+        "icono": "https://i.imgur.com/68ztlZE.png"
+      },
+  {
         "name": "HISTORY",
         "uri": "https://chromecast.cvattv.com.ar/live/c7eds/HistoryHD/SA_Live_dash_enc_2A/HistoryHD.mpd",
         "drm_scheme": "clearkey",
