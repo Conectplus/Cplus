@@ -21,6 +21,13 @@
                   },
      {
         "name": "ESPN PREMIUM",
+        "uri": "https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257",
+        "icono": "https://i.ibb.co/7XdCF4X/512x512bb-1.jpg"
+      },
+     {
+        "name": "ESPN PREMIUM",
         "uri": "https://edge-mix02-mus.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/Fox_Sports_Premiun_HD.mpd",
 	"drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257",
@@ -185,6 +192,13 @@
                       "uri": "https://live-ftc-sa-east-2.media.starott.com/clt2/va01/starplus/event/2024/03/03/Liverpool_FC_vs_Deportivo_20240303_1709489704036/audio-1-64K/64_complete.HLS",
                       "icono": "https://pbs.twimg.com/media/Fw2O0IOWcAQdHf9?format=jpg&name=large"
                   },
+ {
+        "name": "EVENTOS TELEPLAY",
+        "uri": "https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257",
+        "icono": "https://i.ibb.co/Z2c3Mg8/Teleplay-1-1.png"
+      },
 {
         "name": "EVENTOS TELEPLAY",
         "uri": "https://edge-live01-cte.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
