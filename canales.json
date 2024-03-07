@@ -176,25 +176,13 @@
                       "icono": "https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/mls-mia-prd/mf2ocwk3psfeygyg9hnt.png"
                   },
                   {
-                      "name": "MLS EVENTOS",
-                      "uri": "http://multiextrem.xyz/TeleplayApp2025/24SiNoaquIyallA/66164",
-                      "icono": "https://logo.iptveditor.com/mlslogo.png"
+                      "name": "FÚTBOL PARAGUAY",
+                      "uri": "https://rpn3.bozztv.com/ssh101/ssh101/kaguasakitv/playlist.m3u8",
+                      "icono": "https://i.ibb.co/ChDHzh5/Copa-de-Primera.png"
                   },
-        {
-        "name": "VTV PLUS",
-        "uri": "https://edge-live17-sl.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_Live_dash_enc/VTV_Plus_HD.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=da8a49a594160cc0059f07b9f71cd39a&key=37ca91dd799b351a02445151c7f61070",
-        "icono": "https://static.tvar.io/imagenes/vtvplus.png?"
-        },
-                  {
+                   {
                       "name": "EVENTOS STAR+",
                       "uri": "https://live-ftc-sa-east-2.media.starott.com/clt2/va01/starplus/event/2024/03/03/Liverpool_FC_vs_Deportivo_20240303_1709489704036/audio-1-64K/64_complete.HLS",
-                      "icono": "https://pbs.twimg.com/media/Fw2O0IOWcAQdHf9?format=jpg&name=large"
-                  },
-{
-                      "name": "EVENTOS STAR+",
-                      "uri": "https://live-akc-sa-east-2.media.starott.com/gru1/qb01/starplus/event/2024/03/03/Brasil_vs_Argentina_Cuart_20240303_1709429458025/ctr-all-complete.m3u8",
                       "icono": "https://pbs.twimg.com/media/Fw2O0IOWcAQdHf9?format=jpg&name=large"
                   },
 {
