@@ -2777,9 +2777,9 @@
       },
 {
         "name": "TELEDOCE",
-        "uri": "https://edge-live31-hr.cvattv.com.ar/live/c4eds/Canal12URU/SA_Live_dash_enc_2A/Canal12URU.mpd",
+        "uri": "https://edge-live31-sl.cvattv.com.ar/live/c4eds/Canal12URU/SA_Live_dash_enc/Canal12URU.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8dd34782d754f8fcb1e8b38da9ffad0b&key=acb13370c03a7254e2bb9cc9d2125017",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=dfde9d35d7438bfdf61da5dfac0557c1&key=acb13370c03a7254e2bb9cc9d2125017",
         "icono": "https://i.ibb.co/PQzQvQH/Canal12-26.webp"
       },
  {
