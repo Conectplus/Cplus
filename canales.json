@@ -2826,18 +2826,6 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=dfde9d35d7438bfdf61da5dfac0557c1&key=acb13370c03a7254e2bb9cc9d2125017",
         "icono": "https://i.ibb.co/PQzQvQH/Canal12-26.webp"
       },
- {
-        "name": "TELEDOCE",
-        "uri": "https://edge-live31-sl.cvattv.com.ar/live/c4eds/Canal12URU/SA_Live_dash_enc/Canal12URU.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=dfde9d35d7438bfdf61da5dfac0557c1&key=fdea8ee702bd5262cb6a2901dc37e7b0",
-        "icono": "https://www.foromedios.com/uploads/monthly_2022_06/large.Teledoce20042.0.png.79eefaf8d6f439fd4d1892a2125fd272.png"
-      },
-  {
-        "name": "TELEDOCE",
-        "uri": "http://multiextrem.xyz:80/play/viSlkg8uRdtJEPIWS_668QgBXr6_saFBTCwqYEIMGOT7inDNQzhM4Bm4R-PA6pbu",
-        "icono": "https://i.ibb.co/PQzQvQH/Canal12-26.webp"
-      },
 {
         "name": "TV CIUDAD",
         "uri": "https://chromecast.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_Live_dash_enc_2A/Teve_Ciudad.mpd",
@@ -2850,51 +2838,20 @@
         "uri": "http://multiextrem.xyz:80/play/viSlkg8uRdtJEPIWS_668QgBXr6_saFBTCwqYEIMGORSQkXcMi0bOr5YS_i5GhTI",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1200px-TeleSUR-Logo.svg.png"
       },
-         {
-                      "name": "TELEDOCE",
-                      "uri": "http://multiextrem.xyz:80/play/viSlkg8uRdtJEPIWS_668QgBXr6_saFBTCwqYEIMGOSFRKtWNIIbDek1jhJfmUZG",
-                      "icono": "https://i.ibb.co/PQzQvQH/Canal12-26.webp"
-                  },
-
-   {
-                      "name": "CANAL 4",
-                      "uri": "https://chromecast.cvattv.com.ar/live/c4eds/Canal4_URU/SA_Live_dash_enc_2A/Canal4_URU.mpd",
-                      "drm_scheme": "clearkey",
-                      "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=dabefaac89742589778fcfab78f08354&key=896dd914683b01c8044ffd34d7b6416b",
-                      "icono": "https://static.tvar.io/imagenes/canal4uy.png"
-                  },
                   {
                       "name": "CANAL 10",
                       "uri": "https://edge-vod03-hr.cvattv.com.ar/live/c4eds/Canal10_URU/SA_Live_dash_enc_2A/Canal10_URU.mpd",
                       "drm_scheme": "clearkey",
                       "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8dd34782d754f8fcb1e8b38da9ffad0b&key=6fb97467c0f0ea13f86d41a70e029c51",
                       "icono": "https://static.tvar.io/imagenes/canal10uy.png"
-                  },
-                  {
-                      "name": "TELEDOCE",
-                      "uri": "http://dnslivetv.online/live/TVplay25/WUXrYhAsgb/591486.m3u8",
-                      "icono": "https://i.ibb.co/PQzQvQH/Canal12-26.webp"
-                  },
-                  {
-                      "name": "CANAL 5",
-                      "uri": "http://dnslivetv.online:80/TVplay25/WUXrYhAsgb/591496",
-                      "icono": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Canal_5_Uruguay.png"
-                  },
-   {
-                      "name": "CANAL CINCO",
-                      "uri": "http://multiextrem.xyz:80/play/viSlkg8uRdtJEPIWS_668QgBXr6_saFBTCwqYEIMGOScqolS1nFGkqff92NDVo6C",
-                      "icono": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Canal_5_Uruguay.png"
-                  },
+                  },                               
+                 
                   {
                       "name": "CANAL A+V",
                       "uri": "http://dnslivetv.online/live/TVplay25/WUXrYhAsgb/591499.m3u8",
                       "icono": "https://i.ibb.co/28yt2BV/AV.jpg"
                   },
-  {
-                      "name": "CANAL 2 HD SAN CARLOS",
-                      "uri": "https://vxlive.cdn.antel.net.uy/auth_V_Canal_2_San_Carlos,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfQ2FuYWxfMl9TYW5fQ2FybG9zJTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE3MDk3MDE3MDkmcmFuZG9tPVRUWnRqVjFWZXEmYy1pcD0xODYuNTcuMTM5LjE1MCZpZF9yZWZlcmVuY2lhPSZpZF9kaXNwb3NpdGl2bz0wJmlkX2Zyb250ZW5kPTExOTYmcHVibGljX2lkPTJzNm44LDZiNTcxMWQ0MjEyYjkwY2Q5ZTYwYTE0MzVjNzc4OWYxNjc1M2U4MzczZjJjNzliY2EzZDNhNWZlNGZjZTA3YmM=/vxfmt=hls/h_dd62274a5c4e277b9bb2e223d9555b49/var3950000/playlist.m3u8",
-                      "icono": "https://i.ibb.co/zJpS0DM/descarga-2.jpg"
-                  },
+  
   	           {
                       "name": "TV CIUDAD",
                       "uri": "https://chromecast.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_Live_dash_enc_2A/Teve_Ciudad.mpd",
@@ -2902,13 +2859,6 @@
                       "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9b536cd1716647ee94c45fa4836d29d6&key=d691c88a95440666742d1d8183182347",
                       "icono": "https://i.ibb.co/VLsGnQS/TV-Ciudad-Logo-Nuevo.jpg"
                   },
-   {
-        "name": "TV CIUDAD",
-        "uri": "https://chromecast.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_Live_dash_enc_2A/Teve_Ciudad.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9b536cd1716647ee94c45fa4836d29d6&key=d691c88a95440666742d1d8183182347",
-        "icono": "https://i.ibb.co/VLsGnQS/TV-Ciudad-Logo-Nuevo.jpg"
-      },
                   {
                       "name": "VTV",
                       "uri": "https://chromecast.cvattv.com.ar/live/c3eds/VTV_HD/SA_Live_dash_enc_2A/VTV_HD.mpd",
@@ -2922,15 +2872,8 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b96960aa715a4e51b7e952e81c99ac8e&key=5bbffc680764dbd63d90b774b3aa0c0a",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/1/16/Logo_VTV_nuevo.png"
-      },
-{
-        "name": "VTV PLUS",
-        "uri": "https://chromecast.cvattv.com.ar/c3eds/VTV_Plus_HD/SA_Live_dash_enc/VTV_Plus_HD.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=da8a49a594160cc0059f07b9f71cd39a&key=37ca91dd799b351a02445151c7f61070",
-        "icono": "https://static.tvar.io/imagenes/vtvplus.png?"
-}
-    
+      }
+  
     ]
   },
     {
