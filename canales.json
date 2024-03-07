@@ -736,21 +736,21 @@
                       "uri": "https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd",
                       "drm_scheme": "clearkey",
                       "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a",
-                      "icono": "https://i.ibb.co/7XdCF4X/512x512bb-1.jpg"
+                      "icono": "https://i.ibb.co/bHzCG5w/unnamed.png"
                   },
   {
         "name": "ESPN PREMIUM",
         "uri": "https://edge-mix02-mus.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/Fox_Sports_Premiun_HD.mpd",
 	"drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257",
-	"icono": "https://i.ibb.co/7XdCF4X/512x512bb-1.jpg"
+	"icono": "https://i.ibb.co/T8Pj8Qs/ESPN-Premium-Dark.jpg"
       },
                   {
                       "name": "TYC SPORTS",
                       "uri": "https://chromecast.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
                       "drm_scheme": "clearkey",
                       "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2b21c8fa9a329cce311a4c4a4aa996a1&key=cc23ea1fb32629f9e1f48c8deeae3e5b",
-                      "icono": "https://i.ibb.co/7XdCF4X/512x512bb-1.jpg"
+                      "icono": "https://i.ibb.co/ygFV6hM/2023-12-08-18-35-45.png"
                   },
 
 
@@ -776,48 +776,20 @@
      
         "name": "SPORT TV 2",
         "uri": "http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/9?join.the.Billybob.fan.club",
-        "icono": "https://afftvvolei.com.br/wp-content/uploads/2023/01/SporTV2.jpg"
+        "icono": "https://i.ibb.co/J2sJJT1/Sportv-Logo-1024x576.jpg"
       },
        {
         "name": "SPORT TV 1",
         "uri": "https://vivo.lamtv.tv:8081/a/0190/chunks.m3u8?http-user-agent=CCCCC",
-        "icono": "https://thumbs.web.sapo.io/?W=800&H=800&png=1&delay_optim=1&png=1&epic=NjQ4Dn34p+G0ULmvdnYiBrTNPqq1TgwnsxhzhK8QSTBNRegz3GcGL48YRAuKOt2vBgMUZ3ysmGS0vMpOXvVgOJ9pFA177AMVV9TSAY7k8onHxN8="
+        "icono": "https://i.ibb.co/J2sJJT1/Sportv-Logo-1024x576.jpg"
       },
       {
      
         "name": "SPORT TV 4",
         "uri": "https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTVLive_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Sport_TV4_%282023%29.svg"
+        "icono": "https://i.ibb.co/J2sJJT1/Sportv-Logo-1024x576.jpg"
       },
-	   {
-        "name": "EVENTOS MLS",
-        "uri": "https://cdn2.luisr.shop/live5/live5_bye.m3u8",
-         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/1938px-MLS_crest_logo_RGB_gradient.svg.png"
-      },
-       {
-        "name": "EVENTOS STAR 1",
-       "uri": "https://cdhdne.benjaminkickz.live/live43/live43_soccer1.m3u8",
-       
-	"icono": "http://imgfz.com/i/z1wOX9T.png"
-      },
-       {
-        "name": "EVENTOS STAR 2",
-        "uri": "https://jactvpro.xyz/s0l32line/RRzkDRt6w8/10211.m3u8",
-        "icono": "http://imgfz.com/i/z1wOX9T.png"
-      },
-       {
-        "name": "EVENTOS STAR 3",
-        "uri": "https://beesporthd.com/live-sport/inter-miami-vs-real-salt-lake-202402220045?q=eyJpdiI6ImVIcFdvRXBUUnU0VGRSZTloNkpEM1E9PSIsInZhbHVlIjoib2J6QUY0cU1XSnhSOUFhdGFDQTV0Y3MvUHpJUitiZGFOM0dPVmpFeGtEMjFHODBPbGZ3QjlLTzZ4MlpCTG93UCtrSzU2S0M2WmhsQUNsV1hld2JGV2V2ZXphS2UzZVdrZ0FBaEZxdllVR3FXb0NuczFLQVR0cDJXTWtwQXdsc28iLCJtYWMiOiJkYTI5ZWQyOGRlMWM2NjVlM2M1MGI3NDMyN2ZhYjQwMzBjY2FmYTg1Mzk4ZjFkZWRjZWMzNmYwMzNmMWRkNmZjIiwidGFnIjoiIn0%3D&rlz=1C1CHBF_esBR1092BR1092&oq=eyJpdiI6ImVIcFdvRXBUUnU0VGRSZTloNkpEM1E9PSIsInZhbHVlIjoib2J6QUY0cU1XSnhSOUFhdGFDQTV0Y3MvUHpJUitiZGFOM0dPVmpFeGtEMjFHODBPbGZ3QjlLTzZ4MlpCTG93UCtrSzU2S0M2WmhsQUNsV1hld2JGV2V2ZXphS2UzZVdrZ0FBaEZxdllVR3FXb0NuczFLQVR0cDJXTWtwQXdsc28iLCJtYWMiOiJkYTI5ZWQyOGRlMWM2NjVlM2M1MGI3NDMyN2ZhYjQwMzBjY2FmYTg1Mzk4ZjFkZWRjZWMzNmYwMzNmMWRkNmZjIiwidGFnIjoiIn0%3D&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDExMzNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8",
-        "icono": "http://imgfz.com/i/z1wOX9T.png"
-      },
-  
-     {
-        "name": "FIFA TV",
-        "uri": "https://d23czrc7iq8aqf.cloudfront.net/out/v1/a38e44c316c34ee8a961972ab2bee290/index.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bb056abf9fda4869918326367e097cb3&key=7d8c7f4dc701d267c0db2ff77fa8fbbe",
-        "icono": "https://ibb.co/Rg4Sz7p"
-      },
+	 
      {
         "name": "DIRECTV MOTORS MPD",
         "uri": "https://proxy.sintv.cl/py.php/https://1279-abc-da-bpk.dtvott.com/dash_live_1279/manifest.mpd",
@@ -901,12 +873,7 @@
         "drm_license_uri": "https://silverplaytv.store/koey/g0lfch.json",
         "icono": "https://i.ibb.co/0cMCWjG/unnamed-4.jpg"
       },
-  
-       {
-        "name": "EVENTO PAULISTA",
-        "uri": "http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/33?join.the.Billybob.fan.club",
-        "icono": "https://i.postimg.cc/Vsxy1yNF/descarga-58.jpg"
-      },
+       
       {
         "name": "PREMIERE CLUB",
         "uri": "http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/492",
@@ -1083,27 +1050,7 @@
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cc8d44406ed6bf1898ad9f7a2d64f29e&key=fb85d059687ab0fc67805806204edbdf",
                 "icono": "https://static.flow.com.ar/images/279/CH_LOGO/60/40/0/0/43362732071132.png"
             },
-      {
-        "name": "ESPN EXTRA",
-        "uri": "https://chromecast.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc_2A/ESPNHD.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=55b47390cf9e4997dae6dac85e057875&key=fa39e855543c5d70f30600d59e5e4c1b",
-        "icono": "https://i.ibb.co/27M5YFg/espn-extra.jpg"
-      },
-         {
-        "name": "ESPN PREMIUM",
-        "uri": "https://edge-mix03-mus.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/Fox_Sports_Premiun_HD.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257",
-        "icono": "https://i.ibb.co/9V3PgZ5/espn-premium-by-jpfr1906-df43pcs-375w-2x.jpg"
-      },
-     {
-        "name": "ESPN DEPORTES",
-        "uri": "https://chromecast.cvattv.com.ar/1166/dash/cenc/ESPNDHD_13667/manifest.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1acb5ff7b0dbfdf19c4dca1aabfaaa11&key=be65e5985fa04a49af310f0a92a0260a",
-        "icono": "http://imgfz.com/i/5VtU0sy.png"
-      },
+     
 {
                 "name": "ESPN 5",
                 "uri": "https://chromecast.cvattv.com.ar/live/c7eds/ESPN4/SA_Live_dash_enc/ESPN4.mpd",
