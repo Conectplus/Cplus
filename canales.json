@@ -177,36 +177,13 @@
                       "uri": "http://multiextrem.xyz:80/play/viSlkg8uRdtJEPIWS_668QgBXr6_saFBTCwqYEIMGOSTSoFm_rsH7Yuv5ICbrDvw",
                       "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/1938px-MLS_crest_logo_RGB_gradient.svg.png"
                   },
-{
-                      "name": "MLS EVENTOS - Nashville SC vs Inter Miami",
-                      "uri": "http://multiextrem.xyz:80/play/viSlkg8uRdtJEPIWS_668QgBXr6_saFBTCwqYEIMGOQGTuyJOw5ptXDkxd6Wn4gA",
-                      "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/1938px-MLS_crest_logo_RGB_gradient.svg.png"
-                  },
-{
-                      "name": "MLS EVENTOS - Nashville SC vs Inter Miami",
-                      "uri": "http://multiextrem.xyz:80/play/viSlkg8uRdtJEPIWS_668QgBXr6_saFBTCwqYEIMGOQ3YPfXJS45e1tG9JprqFOU",
-                      "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/1938px-MLS_crest_logo_RGB_gradient.svg.png"
-                  },
-{
-                      "name": "MLS EVENTOS - Nashville SC vs Inter Miami",
-                      "uri": "http://multiextrem.xyz:80/play/viSlkg8uRdtJEPIWS_668QgBXr6_saFBTCwqYEIMGOSTF8_ichCETicNfHR1hrt9",
-                      "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/1938px-MLS_crest_logo_RGB_gradient.svg.png"
-                  },
-{
-                      "name": "MLS EVENTOS - Nashville SC vs Inter Miami",
-                      "uri": "http://multiextrem.xyz:80/play/viSlkg8uRdtJEPIWS_668QgBXr6_saFBTCwqYEIMGOQ3YPfXJS45e1tG9JprqFOU",
-                      "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/1938px-MLS_crest_logo_RGB_gradient.svg.png"
-                  },
+
                   {
                       "name": "FÚTBOL PARAGUAY",
                       "uri": "https://rpn3.bozztv.com/ssh101/ssh101/kaguasakitv/playlist.m3u8",
                       "icono": "https://i.ibb.co/ChDHzh5/Copa-de-Primera.png"
                   },
-                   {
-                      "name": "EVENTOS STAR+",
-                      "uri": "https://live-ftc-sa-east-2.media.starott.com/clt2/va01/starplus/event/2024/03/03/Liverpool_FC_vs_Deportivo_20240303_1709489704036/audio-1-64K/64_complete.HLS",
-                      "icono": "https://pbs.twimg.com/media/Fw2O0IOWcAQdHf9?format=jpg&name=large"
-                  },
+                   
  {
         "name": "EVENTOS TELEPLAY",
         "uri": "https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
