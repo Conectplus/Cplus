@@ -1625,6 +1625,81 @@
       }
     ]
   },
+  {
+    "name": "INTERNACIONALES",
+    "samples": [
+      {
+        "name": "TELEMUNDO INTERNACIONAL",
+        "uri": "http://edge-live11-hr.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_Live_dash_enc/Telemundo_HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=53d752e4649dadd808d913985f86ee77&key=d1fd24db1b61d634cabfc44538ce9b0e",
+		"icono": "https://i.postimg.cc/SKT2Pm92/telemundo-logo-0-F9-A314635-seeklogo-com.png"
+      },
+	  {
+        "name": "BBC_World_News",
+        "uri": "https://edge03-fdo-py.cvattv.com.ar/live/c6eds/BBC_World_News/SA_Live_dash_enc_2A/BBC_World_News.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=019f72f2091d4cbea59ff8c85b117f86&key=a4eac51195506752f9f63ad24def9c37",
+		"icono": "https://i.postimg.cc/t4fdPFvB/1200px-BBC-World-News-2022-Boxed-svg.png"
+      },
+	  {
+        "name": "Bloomberg",
+        "uri": "https://edge03-fdo-py.cvattv.com.ar/live/c3eds/Bloomberg/SA_Live_dash_enc_2A/Bloomberg.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1e50891cdc64452aae20d049727f2f3f&key=551871ba1dc6a95597ec0cb82eb3b2a4",
+		"icono": "https://i.postimg.cc/5thZPYy3/Bloomberg-symbol.jpg"
+      },
+	  {
+        "name": "RAI",
+        "uri": "https://edge02-fdo-py.cvattv.com.ar/live/c6eds/RAI/SA_Live_dash_enc_2A/RAI.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d214547d7d9a4011a39a899ce6e70071&key=16c2ed0617cf1e123f3af6ea8875a82d",
+		"icono": "https://i.postimg.cc/QCFKXdcH/768px-Logo-of-RAI-2016-svg.png"
+      },
+	  {
+        "name": "Telesur",
+        "uri": "https://edge03-cde-py.cvattv.com.ar/live/c6eds/Telesur/SA_Live_dash_enc_2A/Telesur.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5235d8ee29f14ce6b26ea5d828aee77a&key=6bf6bd339e3098babc2ab0b984cd2376",
+		"icono": "https://i.postimg.cc/qB1WSMm2/af33c8f76638e797-400x400ar.jpg"
+      },
+	  {
+        "name": "Tv_Chile",
+        "uri": "https://edge03-cde-py.cvattv.com.ar/live/c6eds/Tv_Chile/SA_Live_dash_enc_2A/Tv_Chile.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c5d0d76e24844235988f9265619e5fec&key=446b71a6deb806c6f129e25de999d07c",
+		"icono": "https://i.postimg.cc/bwZGkJ5g/tv-chile-2010-20168903-logowik-com.webp"
+      },
+	  {
+        "name": "Antena_3",
+        "uri": "https://edge02-cde-py.cvattv.com.ar/live/c6eds/Antena_3/SA_Live_dash_enc_2A/Antena_3.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1e1ad422a6714482b66fa702c16e50c6&key=4fdf28a0ab91356ca55a75f4e9bf8c92",
+		"icono": "https://i.postimg.cc/D0sSHYqN/antena3-logo-nuevo.jpg"
+      },
+	  {
+        "name": "TV5_Monde",
+        "uri": "https://edge03-cde-py.cvattv.com.ar/live/c6eds/TV5_Monde/SA_Live_dash_enc_2A/TV5_Monde.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=62034ff5988b4787b17cdf6f751a3142&key=b3938f0af28b4c0c082b0d4210e389a0",
+		"icono": "https://i.postimg.cc/ryQyFTp9/image.png"
+      },
+	  {
+        "name": "DW",
+        "uri": "http://edge-live13-sl.cvattv.com.ar/live/c6eds/DW/SA_Live_dash_enc/DW.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e21fc12c6ee185fbc90a052b05026be9&key=0f96fd52903707aac0b42853a043ffd0",
+		"icono": "https://i.postimg.cc/rmvHqgHW/1280px-Deutsche-Welle-symbol-2012-svg.png"
+      },
+	  {
+        "name": "Euronews",
+        "uri": "https://edge02-cde-py.cvattv.com.ar/live/c6eds/Euronews/SA_Live_dash_enc_2A/Euronews.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d86b0f56d32f45adb0a6b4e488c8f0c2&key=e4f180b0e61be3e80ab602df5e56ff3f",
+		"icono": "https://i.postimg.cc/LXTqp05Q/600px-Euronews-2016-alternative-logo.png"
+      }
+    ]
+  },
 	{
     "name": "📺PLUTO TV",
     "samples": [
