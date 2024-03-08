@@ -467,7 +467,7 @@
     ]
   },
  {
-    "name": "SERIES",
+    "name": "INFANTILES",
     "samples": [
      
       {
@@ -809,7 +809,9 @@
         "name": "Top Gun: Maverick",
         "uri": "https://corsproxy.io/?url=http://exoplay.epizy.com/google/google.php?video=VAiJvnsyeET_layFarr3f4NclmC24KJEyqfmviQCgQpn2v_t4O42_u_uEdYvw8K_.HAi.W2CeW_Vj88PyhrD5pPmhhM2cOLnUhxi5NhYTRQXv2yOnisrJmXTy4LMYGQn",
 		"icono": "https://www.cinecalidad.men/wp-content/webp-express/webp-images/uploads/2022/08/Top.gun_.4k.jpg.webp"
-      },
+     } 
+    ]
+  },
   {
     "name": "SERIES TELEPLAY HD",
     "samples": [
