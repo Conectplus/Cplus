@@ -2170,6 +2170,21 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=682f36b5736f4560951ca14b80d29524&key=3accb729067a39b3b8143f1b447b9d25",
         "icono": "https://1.bp.blogspot.com/-_tE8VO8HMnA/X0_XRjluTAI/AAAAAAAA6Ts/-pyWu9d-VyAKrBlIG1S84e2hVSWEfoHagCLcBGAsYHQ/s0/cm-elcanaldelamusica.png"
       },
+   {
+        "name": "RETRO PLUS",
+        "uri": "https://video06.logicahost.com.br/retroplustv/retroplustv/chunklist_w1520793708.m3u8",
+        "icono": "https://www.retroplustv.com/gallery/LOGO%20RETRO%20PLUS%20582X198-ts1680109231.jpg"
+      },
+ {
+        "name": "RETRO PLUS 2",
+        "uri": "https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/chunklist_w368958542.m3u8",
+        "icono": "https://www.retroplustv.com/gallery/LOGO%20RETRO%20PLUS%20582X198-ts1680109231.jpg"
+      },
+ {
+        "name": "RETRO PLUS 3",
+        "uri": "https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/chunklist_w1424277690.m3u8",
+        "icono": "https://www.retroplustv.com/gallery/LOGO%20RETRO%20PLUS%20582X198-ts1680109231.jpg"
+      },
       {
         "name": "CM MUSIC",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/CM/SA_Live_dash_enc_2A/CM.mpd",
