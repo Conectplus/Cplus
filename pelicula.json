@@ -58,27 +58,94 @@
         "name": "MONSTER",
         "uri": "http://multiextrem.xyz/movie/TeleplayApp2025/24SiNoaquIyallA/56043.mkv",
 		"icono": "https://d2iltjk184xms5.cloudfront.net/uploads/photo/file/475531/small_02760d463a2f991b9526b0980a3e1ff7-6dffd67aa43d2cb9434f1cc53c3aaa0b.jpg"
-      }      
+      },
+	    {
+        "name": "UNA VEZ MÁS",
+        "uri": "http://multiextrem.xyz/movie/TeleplayApp2025/24SiNoaquIyallA/56044.mkv",
+		"icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJ8mTt2L9PtpEniMJ9dzpQ9avLK.jpg"
+      },
+	     {
+        "name": "ELIJO CREER",
+        "uri": "http://multiextrem.xyz/movie/TeleplayApp2025/24SiNoaquIyallA/56045.mkv",
+		"icono": "https://cloudfront-us-east-1.images.arcpublishing.com/lanacionpy/5SIZAI6KQREEVAPIBVRUJQEVDQ.jpg"
+      },
+	     {
+        "name": "KINGDOM 3",
+        "uri": "http://multiextrem.xyz/movie/TeleplayApp2025/24SiNoaquIyallA/56244.mkv",
+		"icono": "https://m.media-amazon.com/images/M/MV5BMGIwYzE1MGYtNzUwMy00Y2I1LWJhMDMtNDNkMTQ1YmRhZjI0XkEyXkFqcGdeQXVyNDAzNDkxNTU@._V1_QL75_UY281_CR5,0,190,281_.jpg"
+      },
+	     {
+        "name": "LIFT: UN ROBO DE PRIMERA CLASE",
+        "uri": "http://multiextrem.xyz/movie/TeleplayApp2025/24SiNoaquIyallA/56373.mkv",
+		"icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/veUHao6XPxcb5MeRDdhokevxiz5.jpg
+	     {
+        "name": "LIMBO",
+        "uri": "http://multiextrem.xyz/movie/TeleplayApp2025/24SiNoaquIyallA/56374.mkv",
+		"icono": "https://gamatotv.info/wp-content/uploads/2023/07/limbo-2023-140x210.jpg"
+      },
+	     {
+        "name": "ATRAPADOS EN LO PROFUNDO",
+        "uri": "http://multiextrem.xyz/movie/TeleplayApp2025/24SiNoaquIyallA/66083.mkv",
+		"icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fSY6BYUZMObTIzPfRBlhuAb5lsd.jpg"
+      },
+	     {
+        "name": "RED RIGHT HAND",
+        "uri": "http://multiextrem.xyz/movie/TeleplayApp2025/24SiNoaquIyallA/66108.mkv",
+		"icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vfEG79SQIg3p6B8rBLVeIo2BBhb.jpg"
+      },
+ {
+        "name": "CAZADORES EN TIERRA INHÓSPITA",
+        "uri": "http://multiextrem.xyz/movie/TeleplayApp2025/24SiNoaquIyallA/60439.mkv",
+		"icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jPGbcbMlzGUECukPhkEMVt1Kvs5.jpg"
+      },
+	     {
+        "name": "CHICAS MALAS",
+        "uri": "http://multiextrem.xyz/movie/TeleplayApp2025/24SiNoaquIyallA/65569.mkv",
+		"icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/OcZPwR89CM8ay8asq3J4XFeKII.jpg"
+      },
+ {
+        "name": "LA PISCINA",
+        "uri": "http://multiextrem.xyz/movie/TeleplayApp2025/24SiNoaquIyallA/60224.mkv",
+		"icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fSKwHw7gEzFOEjBQLxUJra8CDHx.jpg"
+      },
+	     {
+        "name": "DIOSES DE LA PROFUNDIDAD",
+        "uri": "http://multiextrem.xyz/movie/TeleplayApp2025/24SiNoaquIyallA/61870.mkv",
+		"icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ea8609DKrceNJocKEUpDom6mHzx.jpg"
+      },
+	     {
+        "name": "CINCO CITAS A CIEGAS",
+        "uri": "http://multiextrem.xyz/movie/TeleplayApp2025/24SiNoaquIyallA/61869.mkv",
+		"icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iIaxCfXYPeYzWGHDaBZ8oiMtHoJ.jpg"
+      },
+	     {
+        "name": "LA CONTADORA DE PELICULAS",
+        "uri": "http://multiextrem.xyz/movie/TeleplayApp2025/24SiNoaquIyallA/64814.mkv",
+		"icono": "https://i.postimg.cc/1zmx4b67/lacontadoradepel-culas.jpg"
+      },
+	
     ]
   },    
 
   {
     "name": "INFANTILES",
     "samples": [
-{
-        "name": "TIGO 1",
-        "uri" : "http://pedorro.duckdns.org/goti1/3z0a2bhbsygOhJ3csHjxcn.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "http://pedorro.duckdns.org/goti1/widevine.php",
-  "icono": "https://i.postimg.cc/QxXn43pS/ver-tigo-sports-en-vivo.jpg"  
+    
+	     {
+        "name": "El ángel en el reloj",
+        "uri": "http://dnslivetv.online/movie/TVplay25/WUXrYhAsgb/1048028.mp4",
+		"icono": "https://image.tmdb.org/t/p/w780/hsOIbxeBdoSC3BrpIqbukHMQx6A.jpg"
       },
-      {
-        "name": "TIGO 2",
-        "uri" : "http://pedorro.duckdns.org/goti2/6ky60xwxZmSsxRndFNMSk7.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "http://pedorro.duckdns.org/goti2/widevine.php",
-  "icono": "https://i.postimg.cc/QxXn43pS/ver-tigo-sports-en-vivo.jpg"  
-      }
+	     {
+        "name": "Capitán Sharky",
+        "uri": "http://dnslivetv.online/movie/TVplay25/WUXrYhAsgb/1047935.mp4",
+		"icono": "http://dnslivetv.online/movie/TVplay25/WUXrYhAsgb/1047935.mp4"
+      },
+	     {
+        "name": "Don Gato y su pandilla",
+        "uri": "http://dnslivetv.online/movie/TVplay25/WUXrYhAsgb/1047029.mkv",
+		"icono": "https://image.tmdb.org/t/p/w780/wl3psQd3EkZJYq2DhdPII45GXS3.jpg"
+      },
       
     ]
   },
