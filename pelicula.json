@@ -77,7 +77,7 @@
 	     {
         "name": "LIFT: UN ROBO DE PRIMERA CLASE",
         "uri": "http://multiextrem.xyz/movie/TeleplayApp2025/24SiNoaquIyallA/56373.mkv",
-		"icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/veUHao6XPxcb5MeRDdhokevxiz5.jpg
+		"icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/veUHao6XPxcb5MeRDdhokevxiz5.jpg"
 	     {
         "name": "LIMBO",
         "uri": "http://multiextrem.xyz/movie/TeleplayApp2025/24SiNoaquIyallA/56374.mkv",
@@ -139,12 +139,27 @@
 	     {
         "name": "Capitán Sharky",
         "uri": "http://dnslivetv.online/movie/TVplay25/WUXrYhAsgb/1047935.mp4",
-		"icono": "http://dnslivetv.online/movie/TVplay25/WUXrYhAsgb/1047935.mp4"
+		"icono": "https://pics.filmaffinity.com/kapt_n_sharky-210153746-large.jpg"
       },
 	     {
         "name": "Don Gato y su pandilla",
         "uri": "http://dnslivetv.online/movie/TVplay25/WUXrYhAsgb/1047029.mkv",
 		"icono": "https://image.tmdb.org/t/p/w780/wl3psQd3EkZJYq2DhdPII45GXS3.jpg"
+      },
+	     {
+        "name": "La peli del fútbol",
+        "uri": "http://dnslivetv.online/movie/TVplay25/WUXrYhAsgb/880548.mkv",
+		"icono": "https://image.tmdb.org/t/p/w780/sZ7Xgj2xeKP7rJhDtTB0h0MtDyh.jpg"
+      },
+	     {
+        "name": "El Autobús Mágico Vuelve a Despegar: Clase Espacial",
+        "uri": "http://dnslivetv.online/movie/TVplay25/WUXrYhAsgb/881965.mkv",
+		"icono": "https://image.tmdb.org/t/p/w780/rsJPglbe9OKUY0osys8ZdXYJmwg.jpg"
+      },
+	     {
+        "name": "Vera - La cosecha de manzanaramas",
+        "uri": "http://dnslivetv.online/movie/TVplay25/WUXrYhAsgb/927988.mkv",
+		"icono": "https://www.themoviedb.org/t/p/w500/vnYwt2U6QFeNZy44GkceXtI4hox.jpg"
       },
       
     ]
@@ -153,18 +168,14 @@
     "name": "CINE ARGENTINO",
     "samples": [
       {
-        "name": "TCM",
-        "uri" : "https://edge-live15-sl.cvattv.com.ar/live/c6eds/TCM/SA_Live_dash_enc/TCM.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a5f44a5e30714cf3bcee7c7f15a08b4e&key=c3c141ae941ab9750339c3af45a65ce2",
-		"icono": "https://i.postimg.cc/JtVXTcGY/tcm.png"  
+        "name": "Vendrán lluvias suaves
+        "uri" : "http://dnslivetv.online/movie/TVplay25/WUXrYhAsgb/927339.mkv",
+	"icono": "https://pbs.twimg.com/media/DtvXm5TX4AANfWg?format=jpg&name=large"  
       },
       {
-        "name": "EUROPA EUROPA",
-        "uri" : "https://edge-live31-sl.cvattv.com.ar/live/c6eds/Europa_Europa/SA_Live_dash_enc/Europa_Europa.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b47f257df0314d09a7f8355c3abe1dc6&key=bdc9f1696a82ee7398dd3a7fa82300e2",
-		"icono": "https://static.flow.com.ar/images/689/CH_LOGO/350/500/0/0/25635809073478.png"  
+        "name": "Argentina 1985",
+        "uri" : "http://multiextrem.xyz/movie/TeleplayApp2025/24SiNoaquIyallA/52345.mkv",
+	"icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/isLWtcB9TK3wLlTzEny2dPH6beh.jpg"  
       }
     ]
   },
@@ -193,44 +204,44 @@
     "samples": [
      
 	  {
-        "name": "MTV HITS",
-        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/MTV_Hits/SA_Live_dash_enc_2A/MTV_Hits.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=61008dfc867544cd872de99b1f2b82cf&key=716449756316b91c54803aaa22a2fbf0",
-		"icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/2560px-MTV_Logo_2010.svg.png"
+        "name": "Camp Terror",
+        "uri": "http://dnslivetv.online/movie/TVplay30/NYEnXqw37E/1047790.mp4",
+        "icono": "https://image.tmdb.org/t/p/w780/63cccnj4ye8L927UgMKwTC8Pyar.jpg"
       },
-      {
-        "name": "ESENCIALES VORTERIX",
-        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Vorterix/SA_Live_dash_enc/Vorterix.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=eabe2c22350c26c7f0ad84b34932f08d&key=39fa06836ec0f81d8dd9b6e01a3070e3",
-		"icono": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Vorterix.jpg"
-      }      
+     {
+        "name": "Juguetes de terror",
+        "uri": "http://dnslivetv.online/movie/TVplay30/NYEnXqw37E/870694.mkv",
+        "icono": "https://image.tmdb.org/t/p/w780/nlu8YdfUNRrxonk1fvgr2jyXkBm.jpg"
+      },
+	     {
+        "name": "A 47 metros 2: El terror emerge",
+        "uri": "http://dnslivetv.online/movie/TVplay30/NYEnXqw37E/1046843.mp4",
+        "icono": "https://image.tmdb.org/t/p/w780/tTdsKKEiAcvo4sm3vgIrbzg8u83.jpg"
+      },
+	     {
+        "name": "Terroríficamente muertos",
+        "uri": "http://dnslivetv.online/movie/TVplay30/NYEnXqw37E/1045658.mkv",
+        "icono": "https://image.tmdb.org/t/p/w780/d4o4F8n0brc2vrpZBTvVFgB2Kk8.jpg"
+      }
     ]
   },
   {
     "name": "CONCIERTOS",
     "samples": [
       {
-        "name": "ANIMAL PLANET",
-        "uri": "https://edge-live16-hr.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_Live_dash_enc_2A/AnimalPlanet.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/jpg5jg7xl0dji4omdme3v/KEY.animalplanet.json?rlkey=5j8bok8rz92g4x4dj3ej81303&dl=0",
-		"icono": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png"
+        "name": "Soda Stereo: Gira Me Verás Volver 2018",
+        "uri": "http://multiextrem.xyz/movie/TeleplayApp2025/24SiNoaquIyallA/55927.mp4",
+	"icono": "https://image.tmdb.org/t/p/w780/6JgQIgFYOmm3BddZpNJZTj19TrB.jpg"
       },
       {
-        "name": "HISTORY",
-        "uri": "https://edge-live15-hr.cvattv.com.ar/live/c7eds/HistoryHD/SA_Live_dash_enc/HistoryHD.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e82318e518ba70cea3d7b37bef99e692&key=a05fcb634c071a514e3039e1c274b4db",
-		"icono": "https://i.postimg.cc/hjx19JJb/history.png"
+        "name": "Indio Solari",
+        "uri": "http://multiextrem.xyz/movie/TeleplayApp2025/24SiNoaquIyallA/55949.mp4",
+	"icono": "https://i.scdn.co/image/ab67616d0000b273b951223171ecfabe6ac97335"
       },
       {
-        "name": "DISCOVERY",
-        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_enc/DiscoveryHD.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c283c84a7af0d7c8b9b612a8fb22a001&key=f45510c721eebd6eaa86a2e16ccbd77d",
-		"icono": "https://i.postimg.cc/CxP7YpTD/discovery-channel.png"
+        "name": "Abel Pintos en Cosquin",
+        "uri": "http://multiextrem.xyz/movie/TeleplayApp2025/24SiNoaquIyallA/56343.mp4",
+	"icono": "https://i.ytimg.com/vi/CiaP2eX5-V0/maxresdefault.jpg"
       }
     ]
   },
