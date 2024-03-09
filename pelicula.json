@@ -4,7 +4,7 @@
     "name": "ESTRENOS 2024",
     "samples": [
 
-      {
+     {
         "name": "CRIPTOESTAFAS",
         "uri": "http://multiextrem.xyz/movie/TeleplayApp2025/24SiNoaquIyallA/54936.mkv",
 		"icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6YZmezBcTwL9KUn5kkygAvrJ1fx.jpg"
@@ -126,11 +126,11 @@
       
     ]
   },
+    
   {
     "name": "INFANTILES",
     "samples": [
-    
-	     {
+       {
         "name": "El ángel en el reloj",
         "uri": "http://dnslivetv.online/movie/TVplay25/WUXrYhAsgb/1048028.mp4",
 		"icono": "https://image.tmdb.org/t/p/w780/hsOIbxeBdoSC3BrpIqbukHMQx6A.jpg"
@@ -165,45 +165,9 @@
   },
 
   {
-    "name": "CINE ARGENTINO",
-    "samples": [
-      {
-        "name": "Vendrán lluvias suaves",
-        "uri" : "http://dnslivetv.online/movie/TVplay25/WUXrYhAsgb/927339.mkv",
-	"icono": "https://pbs.twimg.com/media/DtvXm5TX4AANfWg?format=jpg&name=large"  
-      },
-      {
-        "name": "Argentina 1985",
-        "uri" : "http://multiextrem.xyz/movie/TeleplayApp2025/24SiNoaquIyallA/52345.mkv",
-	"icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/isLWtcB9TK3wLlTzEny2dPH6beh.jpg"  
-      }
-    ]
-  },
-  {
-    "name": "WESTERN",
-    "samples": [
-      {
-    "name": "DISCOVERY KIDS CHANNEL",
-    "icono": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/DISCOVERYKIDSCHANNEL/EXPORTACION_WEB/SS/DISCOVERYKIDSCHANNEL_t-290x163.png",
-    "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(DISCOVERY_KIDS_HD)/index.m3u8"
-  },
-  {
-    "name": "DISNEY JUNIOR",
-    "icono": "https://clarovideocdn6.clarovideo.net/CVPERU/PELICULAS/DISNEYJUNIOR/EXPORTACION_WEB/SS/DISNEYJUNIOR_t-290x163.png",
-    "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(DISNEY_JUNIOR)/index.m3u8"
-  },
-  {
-    "name": "NICK JR HD",
-    "icono": "https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/NICKJRHD/EXPORTACION_WEB/SS/NICKJRHD_t-290x163.png",
-    "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(NICK_JR_HD)/index.m3u8"
-  }
-    ]
-  },
-  {
     "name": "TERROR",
     "samples": [
-     
-	  {
+ {
         "name": "Camp Terror",
         "uri": "http://dnslivetv.online/movie/TVplay30/NYEnXqw37E/1047790.mp4",
         "icono": "https://image.tmdb.org/t/p/w780/63cccnj4ye8L927UgMKwTC8Pyar.jpg"
@@ -223,6 +187,7 @@
         "uri": "http://dnslivetv.online/movie/TVplay30/NYEnXqw37E/1045658.mkv",
         "icono": "https://image.tmdb.org/t/p/w780/d4o4F8n0brc2vrpZBTvVFgB2Kk8.jpg"
       }
+      
     ]
   },
   {
@@ -243,47 +208,7 @@
         "uri": "http://multiextrem.xyz/movie/TeleplayApp2025/24SiNoaquIyallA/56343.mp4",
 	"icono": "https://i.ytimg.com/vi/CiaP2eX5-V0/maxresdefault.jpg"
       }
-    ]
-  },
-  {
-    "name": "CRISTIANAS",
-    "samples": [
-   {
-        "name": "SURTV",
-        "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(SUR_TV)/index.m3u8",
-		"icono": "https://pbs.twimg.com/profile_images/804016687108521985/L4G3JMvc_400x400.jpg"
-      },  
-
-  {
-    "name": "TELEFUTURO",
-    "icono": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/TELEFUTURO/EXPORTACION_WEB/SS/TELEFUTURO_t-290x163.png",
-    "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(TELEFUTURO)/index.m3u8"
-  },
-  {
-    "name": "UNICANAL",
-    "icono": "https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/UNICANAL/EXPORTACION_WEB/SS/UNICANAL_t-290x163.png",
-    "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(UNICANAL)/index.m3u8"
-  }
-    ]
-  },
-  {
-    "name": "SERIES",
-    "samples": [
-      
-      {
-        "name": "C5N",
-        "uri": "https://chromecast.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc_2A/C5N.mpd",
-		"icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/C5N_Logo_2015.PNG/640px-C5N_Logo_2015.PNG",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=050df5c6e78c774e78c3e99eef8a1b29&key=0e4141d6ab21a36cbc4da777ab3096d4"
-      },
-      {
-        "name": "LN+",
-        "uri": "https://chromecast.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc_2A/La_Nacion.mpd",
-		"icono": "https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f4eade7bbc39b25402acfa301bbad04a&key=a74d1df4235a74878327aa8d53ff283c"
-      }
+   
     ]
   }
   
