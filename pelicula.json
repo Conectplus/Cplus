@@ -60,54 +60,7 @@
 		"icono": "https://d2iltjk184xms5.cloudfront.net/uploads/photo/file/475531/small_02760d463a2f991b9526b0980a3e1ff7-6dffd67aa43d2cb9434f1cc53c3aaa0b.jpg"
       }      
     ]
-  },
-    
-  {
-    "name": "Serie Marilina. Atreverse a Soñar",
-    "samples": [
-      {
-        "name": "CAPITULO 1",
-        "uri": "https://peertube.linuxrocks.online/static/streaming-playlists/hls/private/5dac99a6-9af4-40e6-82ac-a70b7c67384c/1e2efee2-3ada-4aab-9a9e-558295620abb-master.m3u8",
-		"icono": "https://i.ytimg.com/vi/waWEPQOaYvc/maxresdefault.jpg"
-      },
-       {
-        "name": "CAPITULO 2",
-        "uri": "https://peertube.linuxrocks.online/static/streaming-playlists/hls/private/9411af00-b437-42c6-8b62-43fb895adb54/e3959a69-8533-4a6f-83c2-4c466a57a1ac-master.m3u8",
-		"icono": "https://i.ytimg.com/vi/waWEPQOaYvc/maxresdefault.jpg"
-       },
-      {
-        "name": "CAPITULO 3",
-        "uri": "https://peertube.linuxrocks.online/static/streaming-playlists/hls/private/eb81a82a-0181-44b6-98eb-c3a528b9cc04/57896078-086b-4c2f-a00f-65966636ced3-master.m3u8",
-		"icono": "https://i.ytimg.com/vi/waWEPQOaYvc/maxresdefault.jpg"
-       },
-      {
-        "name": "CAPITULO 4",
-        "uri": "https://peertube.linuxrocks.online/static/streaming-playlists/hls/private/0ae12a5f-6b2a-4a1a-995f-61c24843294c/cab12a99-1061-4482-8561-0c2c8f524bc6-master.m3u8",
-		"icono": "https://i.ytimg.com/vi/waWEPQOaYvc/maxresdefault.jpg"
-      },
-      {
-        "name": "CAPITULO 5",
-        "uri": "https://peertube.linuxrocks.online/static/streaming-playlists/hls/private/4b4ec519-a90f-4aa4-9812-ed6d250a9868/f819096c-66e4-47c9-a0ef-ff924652b78f-master.m3u8",
-		"icono": "https://i.ytimg.com/vi/waWEPQOaYvc/maxresdefault.jpg"
-      },
-      {
-        "name": "CAPITULO 6",
-        "uri": "https://peertube.linuxrocks.online/static/streaming-playlists/hls/private/73693877-a821-414d-824d-5f023190a271/35d4b288-548d-4ddd-9646-915aa0cf28ca-master.m3u8",
-		"icono": "https://i.ytimg.com/vi/waWEPQOaYvc/maxresdefault.jpg"
-      },
-      {
-        "name": "CAPITULO 7",
-        "uri": "https://peertube.linuxrocks.online/static/streaming-playlists/hls/private/7d86f990-abdf-4340-8cbc-95abc3557fa7/3fab3146-9e8a-40f4-b8dc-10adf37262e8-master.m3u8",
-		"icono": "https://i.ytimg.com/vi/waWEPQOaYvc/maxresdefault.jpg"
-      },
-      {
-        "name": "CAPITULO 8",
-        "uri": "https://peertube.linuxrocks.online/static/streaming-playlists/hls/private/4d00e1d3-5d47-4626-a82a-6b7c6c890c62/2d0a292b-2322-47d7-ae55-b1af92a5a82e-master.m3u8",
-		"icono": "https://i.ytimg.com/vi/waWEPQOaYvc/maxresdefault.jpg"
-      }
-      
-    ]
-  },
+  },    
 
   {
     "name": "INFANTILES",
