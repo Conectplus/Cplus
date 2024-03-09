@@ -5,15 +5,76 @@
     "samples": [
 
       {
-        "name": "Criptoestafas",
+        "name": "CRIPTOESTAFAS",
         "uri": "http://multiextrem.xyz/movie/TeleplayApp2025/24SiNoaquIyallA/54936.mkv",
 		"icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6YZmezBcTwL9KUn5kkygAvrJ1fx.jpg"
       },
       {
-        "name": "UNIVERSO",
-        "uri": "https://testphp07.alwaysdata.net/universo/index.m3u8",
-		"icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfxhfthxflIo6TWCqh0k32C_3N-SuHZOC88MgnqeRirC6aOESH9u3RSfVxFrzX7-RUIm0&usqp=CAU"
-      }    
+        "name": "DESPERTAR DEL DUELO",
+        "uri": "http://multiextrem.xyz/movie/TeleplayApp2025/24SiNoaquIyallA/55678.mkv",
+		"icono": "https://cl.buscafs.com/www.tomatazos.com/public/uploads/images/425536/425536_173x256.jpg"
+      },
+	     {
+        "name": "NAPOLEON",
+        "uri": "http://multiextrem.xyz/movie/TeleplayApp2025/24SiNoaquIyallA/55756.mkv",
+		"icono": "https://hips.hearstapps.com/hmg-prod/images/napoleaon-ok-652bad0c18878.jpg"
+      },
+      {
+        "name": "FAST CHARLIE",
+        "uri": "http://multiextrem.xyz/movie/TeleplayApp2025/24SiNoaquIyallA/55757.mkv",
+		"icono": "https://es.web.img3.acsta.net/r_1280_720/pictures/23/12/13/09/01/3151965.jpg"
+      },
+ {
+        "name": "MYSTERY ISLAND",
+        "uri": "http://multiextrem.xyz/movie/TeleplayApp2025/24SiNoaquIyallA/55804.mkv",
+		"icono": "https://m.media-amazon.com/images/M/MV5BNzczMzE5MzUtZWU5MS00MDc2LTgxYWYtMWVkM2Q3ZTQzZTQyXkEyXkFqcGdeQXVyMTU4MzQzNDkx._V1_.jpg"
+      },
+	     {
+        "name": "TARGET",
+        "uri": "http://multiextrem.xyz/movie/TeleplayApp2025/24SiNoaquIyallA/55805.mkv",
+		"icono": "https://d1tgyzt3mf06m9.cloudfront.net/v3-staging/2023/09/Poster-2-200x300.jpg"
+      },
+	     {
+        "name": "...............",
+        "uri": ".......................",
+		"icono": ".................."
+      },
+	     {
+        "name": "...............",
+        "uri": ".......................",
+		"icono": ".................."
+      },
+	     {
+        "name": "...............",
+        "uri": ".......................",
+		"icono": ".................."
+      },
+	     {
+        "name": "...............",
+        "uri": ".......................",
+		"icono": ".................."
+      },
+	     {
+        "name": "...............",
+        "uri": ".......................",
+		"icono": ".................."
+      },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	    
       
     ]
   },
