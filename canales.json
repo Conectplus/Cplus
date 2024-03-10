@@ -480,7 +480,7 @@
 	  
 	  {
         "name": "EL SIETE TV - MENDOZA ",
-        "uri": "https://m.mtd.llc/iptv-query.m3u8?url=http://www.youtube.com/c/CanalSieteMendoza1/live",
+        "uri": "https://ythls.armelin.one/channel/UC64ZNqX0FQHabP8iIkmnR3A.m3u8",
         "icono": "https://www.elsietetv.com.ar/wp-content/uploads/2017/08/canal-7-vivo.jpg"
       },
       {
@@ -521,7 +521,7 @@
       },
 {
         "name": "CANAL 12 POSADAS",
-        "uri" : "https://g2.mc-hor.transport.edge-access.net/a05/ngrp:c12_live01-100129_all/c12_live01-100129_360p.m3u8",
+        "uri" : "https://g4.vxral-slo.transport.edge-access.net/a05/ngrp:c12_live01-100129_all/Playlist.m3u8",
 		"icono": "https://i.ibb.co/FhsDBQ3/unnamed-3.webp"
       },
       {
