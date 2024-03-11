@@ -531,8 +531,13 @@
       },
 {
         "name": "CANAL 12 POSADAS",
-        "uri" : "https://g4.mc-slo.transport.edge-access.net/a05/ngrp:c12_live01-100129_all/c12_live01-100129_720p.m3u8",
+        "uri" : https://g3.vxral-hor.transport.edge-access.net/a06/ngrp:c12_live01-100129_all/c12_live01-100129_540p.m3u8",
 		"icono": "https://i.ibb.co/FhsDBQ3/unnamed-3.webp"
+      },
+{
+        "name": "CANAL 2 MISIONES",
+        "uri" : "https://nd106.republicaservers.com:4433/hls/canal2misioness/1_0/97352880_97362880.ts?sessId=3480467",
+	"icono": "https://i.ibb.co/FhsDBQ3/unnamed-3.webp"
       },
       {
         "name": "SILVER CHANNEL",
