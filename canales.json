@@ -487,7 +487,7 @@
         "uri": "https://chromecast.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cbc2a0c7a38df0aa3333cd71841d3b0d&key=aac61b730e2ac1df23f1e872e7541c1b",
-        "icono": "https://i.ibb.co/x1NKkps/SDASFDSFSD.png"
+        "icono": "https://i.ibb.co/DLbfhZS/photo1694966226.jpg"
       },
      
       {
@@ -495,42 +495,42 @@
         "uri": "https://chromecast.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_2A/FoxSports2HD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c98ddffc470fe449ae1a8d6492116976&key=5086d370e840010232cf4532b16e197f",
-        "icono": "https://i.ibb.co/b1TmtjS/ar-fox-sports-2-m.png"
+        "icono": "https://i.ibb.co/F8Db1qG/photo1694966139.jpg"
       },
       {
-        "name": "FOX SPORTS3",
+        "name": "FOX SPORTS 3",
         "uri": "https://chromecast.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_2A/FoxSports3HD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=55b47390cf9e4997dae6dac85e057875&key=fa39e855543c5d70f30600d59e5e4c1b",
-        "icono": "https://i.ibb.co/2W84yn1/ar-fox-sports-3-m.png"
+        "icono": "https://i.ibb.co/GtyfsM4/photo1694966150.jpg"
       },
 {
         "name": "ESPN ARGENTINA",
         "uri": "https://edge6-ccast-sl.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e884b711ab111beb8a7ba1e7bcbdc9bf&key=cb89ee3961599e3e648a5aad60895f34",
-        "icono": "https://i.ibb.co/BzGyKSW/QHU32-CDMLNFGLMLSUM27-NHA5-FU.jpg"
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png"
       },
       {
         "name": "ESPN 2 ",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc_2A/ESPN2_Arg.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=65a5bfa3c7a72dde60be9b0c7406c8fc&key=0b40ae9f78a7bac3b57ecbf72d3c081e",
-        "icono": "https://i.ibb.co/vH8JLS1/espn24510.jpg"
+        "icono": "https://i.ibb.co/1XbbmvL/511px-Espn2-svg.png"
       },
       {
         "name": "ESPN 3",
         "uri": "https://chromecast.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc_2A/ESPN3.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f4c9f97e2a36feab0e5077f2b44cbc4e&key=1743cd03dfe3736b2c95da91a783af38",
-        "icono": "https://i.ibb.co/NTHfMGT/ESPN3-CLR-Pos-642x405.jpg"
+        "icono": "https://i.ibb.co/fG6tn3y/87aa5c828e34a43538b7bd42e73a5326.jpg"
       },
           {
                 "name": "ESPN 4",
                 "uri": "https://chromecast.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd",
                 "drm_scheme": "clearkey",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cc8d44406ed6bf1898ad9f7a2d64f29e&key=fb85d059687ab0fc67805806204edbdf",
-                "icono": "https://static.flow.com.ar/images/279/CH_LOGO/60/40/0/0/43362732071132.png"
+                "icono": "https://i.ibb.co/8jv0fzZ/ESPN-4-logo-svg.webp"
             },
      
 {
@@ -538,21 +538,21 @@
                 "uri": "https://chromecast.cvattv.com.ar/live/c7eds/ESPN4/SA_Live_dash_enc/ESPN4.mpd",
                 "drm_scheme": "clearkey",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=24f2b3e741f0d9e9a8d516faff38bddc&key=bbd3fd02fb104e1463ac528a13f67e4a",
-                "icono": "https://static.flow.com.ar/images/8897/CH_LOGO/60/40/0/0/5522598607348.png"
+                "icono": "https://i.ibb.co/Vmgpq84/ESPN-5-logo-svg.png"
             },
             {
                 "name": "ESPN 6",
                 "uri": "https://chromecast.cvattv.com.ar/live/c7eds/FoxSports3_UY/SA_Live_dash_enc/FoxSports3_UY.mpd",
                 "drm_scheme": "clearkey",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5fc7b662e69c0fbf8d39691166b1c919&key=89157cdd25df25d56f1ecccee3850888",
-                "icono":"https://static.flow.com.ar/images/9019/CH_LOGO/60/40/0/0/15905984073899.png"
+                "icono":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/500px-ESPN_6_logo.svg.png"
             },
             {
                 "name": "ESPN 7",
                 "uri": "https://chromecast.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_UY.mpd",
                 "drm_scheme": "clearkey",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5fc7b662e69c0fbf8d39691166b1c919&key=89157cdd25df25d56f1ecccee3850888",
-                "icono": "https://static.flow.com.ar/images/9017/CH_LOGO/60/40/0/0/12041360073463.png"
+                "icono": "https://i.ibb.co/S68xFgd/ESPN-7-logo-svg.webp"
             },
        
                   {
@@ -560,38 +560,38 @@
                       "uri": "https://chromecast.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
                       "drm_scheme": "clearkey",
                       "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2b21c8fa9a329cce311a4c4a4aa996a1&key=cc23ea1fb32629f9e1f48c8deeae3e5b",
-                      "icono": "https://i.ibb.co/7XdCF4X/512x512bb-1.jpg"
+                      "icono": "https://i.ibb.co/ygFV6hM/2023-12-08-18-35-45.png"
                   },
   {
         "name": "TYC SPORT (PLAY 1)",
         "uri": "https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8",
-        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg"
+        "icono": "https://i.ibb.co/0j7LBWR/Aw-UFQ-u-K-400x400.jpg"
       },
       {
         "name": "TYC SPORT (PLAY 2)",
         "uri": "https://dj8bzwveg7go9.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index_9.m3u8",
-        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg"
+        "icono": "https://i.ibb.co/0j7LBWR/Aw-UFQ-u-K-400x400.jpg"
       },
       {
         "name": "TYC SPORT (PLAY 3)",
         "uri": "https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index_10.m3u8",
-        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg"
+        "icono": "https://i.ibb.co/0j7LBWR/Aw-UFQ-u-K-400x400.jpg"
       },
       {
         "name": "TYC SPORT (PLAY 4)",
         "uri": "https://dj8bzwveg7go9.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index_15.m3u8",
-        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg"
+        "icono": "https://i.ibb.co/0j7LBWR/Aw-UFQ-u-K-400x400.jpg"
       },
       {
         "name": "TYC SPORT (PLAY 5)",
         "uri": "https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index_9.m3u8",
-        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg"
+        "icono": "https://i.ibb.co/0j7LBWR/Aw-UFQ-u-K-400x400.jpg"
       },
 
 {
         "name": "DEPORTV",
         "uri": "https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8",
-        "icono": "https://i.ibb.co/CvhtCWJ/descarga-5.jpg"
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/DeporTV_%282020_Logo_oficial%29.png/800px-DeporTV_%282020_Logo_oficial%29.png"
       }
               ]
           },
