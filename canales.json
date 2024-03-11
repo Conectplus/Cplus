@@ -3276,7 +3276,7 @@
  {
     "name": "🧒🏼INFANTILES",
     "samples": [
-           {
+          {
         "name": "PAKA PAKA",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_Live_dash_enc_2A/PAKA_PAKA.mpd",
         "drm_scheme": "clearkey",
@@ -3331,12 +3331,7 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5792e613fceb699c79cbc0e75fe4cd37&key=a672793730476ed23e5c1bce2ff570c6",
         "icono": "https://i.postimg.cc/6Q8dFVBR/1200px-Boomerang-2014-logo-svg.png"
-      },
-      {
-        "name": "DIOS TE VE",
-        "uri": "https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8",
-        "icono": "https://i.postimg.cc/qMvdmtPQ/b0564acdb9c67295acae4e5cf3978ed35795180f9728f21080885a8733d124cd.png",
-    }
+          }
     ]
   },
 	 {
