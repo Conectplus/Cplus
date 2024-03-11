@@ -2259,24 +2259,9 @@
     ]
   },
 {
-    "name": "👦CANALES INFANTILES Y 24/7🏪",
+    "name": "👦CANALES 24/7",
     "samples": [
-      {
-        "name": "GOL PLAY TV",
-        "uri": "https://f7143746a6bc.us-east-1.playback.live-video.net/api/video/v1/us-east-1.897431429474.channel.KNdIgDua4ZaT.m3u8?browser_family=chrome&browser_version=122.0&cdm=wv&os_name=Windows&os_version=NT%2010.0&platform=web&player_backend=mediaplayer&player_version=1.24.0&supported_codecs=av1,h264",
-        "icono": "http://imgfz.com/i/jBrOST8.jpeg"
-      },
-	    {
-        "name": "GOL PLAY TV 2",
-        "uri": "https://vkvsd232.mycdn.me:443/hls/6222914194164.m3u8/sig/mveUhyZeRIg/srcIp/181.94.249.124/urls/45.136.20.87/expires/1709355123450/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7481012005876/id/6222914194164/6222914194164_high/index.m3u8",
-        "icono": "http://imgfz.com/i/jBrOST8.jpeg"
-	    },
-	        {
-        "name": "GOL PLAY TV 3",
-        "uri": "https://slb-13w.smvdn22.live/live/1461965744_channel2/playlist.m3u8?match_id=11161523&s_id=1&t_id=1460&stats=statsframe.digitain.bswbet.org&timestamp=1708907723&key=VTJGc2RHVmtYMStBUmhkM1R4QVhCaEpEYXRRdVc0d2x6Tng0enM3SEdaVjhjT09oRmRoMVhHY3ZUNnNrZ3FmVTlEVEZYZXFSOE5MZzBvQXZFYlJ2UUJLTkt6NkJ1U1FMTXVrVUpUSVJRa0cxUU9jaEp0b0lJZVhWRVRNRHZ5anoxSjdMMWJTbGlQZk5ZdzVwd2N1V3RENExLUFYwMlYrZENpTVRhYnhyZHdkWnlUcENnZHNFL1BKNlpHTTJKV3B1cDdraHpIN3R1U3FicEZqcVM0SS9GUT09",
-        "icono": "http://imgfz.com/i/jBrOST8.jpeg"
-	    },
-     {
+           {
       "name": "SMALLVILLE",
         "uri": "http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/481",
         "icono": "http://imgfz.com/i/4rgx357.jpeg"
