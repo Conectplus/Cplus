@@ -1793,7 +1793,7 @@
     ]
   },
   {
-    "name": "INTERNACIONALES",
+    "name": "NOTICIAS",
     "samples": [
       {
         "name": "TELEMUNDO INTERNACIONAL",
@@ -1803,49 +1803,50 @@
 		"icono": "https://i.postimg.cc/SKT2Pm92/telemundo-logo-0-F9-A314635-seeklogo-com.png"
       },
 	  {
-        "name": "BBC_World_News",
-        "uri": "https://edge03-fdo-py.cvattv.com.ar/live/c6eds/BBC_World_News/SA_Live_dash_enc_2A/BBC_World_News.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=019f72f2091d4cbea59ff8c85b117f86&key=a4eac51195506752f9f63ad24def9c37",
-		"icono": "https://i.postimg.cc/t4fdPFvB/1200px-BBC-World-News-2022-Boxed-svg.png"
+        "name": "BBC NEWS",
+        "uri": "http://multiextrem.xyz:80/play/viSlkg8uRdtJEPIWS_668QgBXr6_saFBTCwqYEIMGORX--bZHeJ5h7cCP1GDUo_6",
+	"icono": "https://i.postimg.cc/t4fdPFvB/1200px-BBC-World-News-2022-Boxed-svg.png"
       },
 	  {
-        "name": "Bloomberg",
-        "uri": "https://edge03-fdo-py.cvattv.com.ar/live/c3eds/Bloomberg/SA_Live_dash_enc_2A/Bloomberg.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1e50891cdc64452aae20d049727f2f3f&key=551871ba1dc6a95597ec0cb82eb3b2a4",
-		"icono": "https://i.postimg.cc/5thZPYy3/Bloomberg-symbol.jpg"
+        "name": "MEGA",
+        "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/64465.m3u8",
+	"icono": "https://i.imgur.com/3iZT356.png"
       },
 	  {
         "name": "RAI",
-        "uri": "https://edge02-fdo-py.cvattv.com.ar/live/c6eds/RAI/SA_Live_dash_enc_2A/RAI.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d214547d7d9a4011a39a899ce6e70071&key=16c2ed0617cf1e123f3af6ea8875a82d",
-		"icono": "https://i.postimg.cc/QCFKXdcH/768px-Logo-of-RAI-2016-svg.png"
+        "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/33307.m3u8",
+	"icono": "https://i.ibb.co/vx15nVj/rainews24.png"
       },
 	  {
-        "name": "Telesur",
-        "uri": "https://edge03-cde-py.cvattv.com.ar/live/c6eds/Telesur/SA_Live_dash_enc_2A/Telesur.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5235d8ee29f14ce6b26ea5d828aee77a&key=6bf6bd339e3098babc2ab0b984cd2376",
-		"icono": "https://i.postimg.cc/qB1WSMm2/af33c8f76638e797-400x400ar.jpg"
+        "name": "TELESUR",
+        "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/62824.m3u8",
+	"icono": "https://seekvectorlogo.net/wp-content/uploads/2019/08/telesur-vector-logo.png"
+      },
+ {
+        "name": "CHILE VISION",
+        "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/64456.m3u8",
+	"icono": "https://i.imgur.com/vuLclYK.png"
       },
 	  {
-        "name": "Tv_Chile",
-        "uri": "https://edge03-cde-py.cvattv.com.ar/live/c6eds/Tv_Chile/SA_Live_dash_enc_2A/Tv_Chile.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c5d0d76e24844235988f9265619e5fec&key=446b71a6deb806c6f129e25de999d07c",
-		"icono": "https://i.postimg.cc/bwZGkJ5g/tv-chile-2010-20168903-logowik-com.webp"
+        "name": "GLOBO NEWS",
+        "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/54978.m3u8",
+	"icono": "https://s2-historiaglobo.glbimg.com/W30xC684vNcD3k3DY44uYxvD6yo=/0x0:1083x537/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_b45177f3fc8a432fa50d0ed4155f34b9/internal_photos/bs/2022/X/4/hY7nMZTKKReekLed2hOg/novalogo.png"
       },
+	    {
+        "name": "RECORD NEWS",
+        "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/63829.m3u8",
+	"icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Record_News_logo_2022.svg/410px-Record_News_logo_2022.svg.png"
+      },
+
 	  {
-        "name": "Antena_3",
+        "name": "ANTENA 3",
         "uri": "https://edge02-cde-py.cvattv.com.ar/live/c6eds/Antena_3/SA_Live_dash_enc_2A/Antena_3.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1e1ad422a6714482b66fa702c16e50c6&key=4fdf28a0ab91356ca55a75f4e9bf8c92",
 		"icono": "https://i.postimg.cc/D0sSHYqN/antena3-logo-nuevo.jpg"
       },
 	  {
-        "name": "TV5_Monde",
+        "name": "TV5 MONDE",
         "uri": "https://edge03-cde-py.cvattv.com.ar/live/c6eds/TV5_Monde/SA_Live_dash_enc_2A/TV5_Monde.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=62034ff5988b4787b17cdf6f751a3142&key=b3938f0af28b4c0c082b0d4210e389a0",
@@ -1859,7 +1860,7 @@
 		"icono": "https://i.postimg.cc/rmvHqgHW/1280px-Deutsche-Welle-symbol-2012-svg.png"
       },
 	  {
-        "name": "Euronews",
+        "name": "EURONEWS",
         "uri": "https://edge02-cde-py.cvattv.com.ar/live/c6eds/Euronews/SA_Live_dash_enc_2A/Euronews.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d86b0f56d32f45adb0a6b4e488c8f0c2&key=e4f180b0e61be3e80ab602df5e56ff3f",
@@ -1867,76 +1868,7 @@
       }
     ]
   },
-	{
-    "name": "📺PLUTO TV",
-    "samples": [
-      {
-        "name": "PLUTO TV ACCION",
-        "uri": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
-        "icono": "https://store-images.s-microsoft.com/image/apps.43087.14136317613015826.48c8959e-6805-4af7-82a9-0a36e8a28dc3.27953d19-18db-4dd6-ba0c-4acaf79a5613"
-      },
-      {
-        "name": "PLUTO TV COMEDY",
-        "uri": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
-        "icono": "https://store-images.s-microsoft.com/image/apps.43087.14136317613015826.48c8959e-6805-4af7-82a9-0a36e8a28dc3.27953d19-18db-4dd6-ba0c-4acaf79a5613"
-      },
-  {
-        "name": "PLUTO TV FANTASTIC",
-        "uri": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
-        "icono": "https://store-images.s-microsoft.com/image/apps.43087.14136317613015826.48c8959e-6805-4af7-82a9-0a36e8a28dc3.27953d19-18db-4dd6-ba0c-4acaf79a5613"
-      },
-	      {
-        "name": "PLUTO TV ROMANCE",
-        "uri": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5a66795ef91fef2c7031c599/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
-        "icono": "https://store-images.s-microsoft.com/image/apps.43087.14136317613015826.48c8959e-6805-4af7-82a9-0a36e8a28dc3.27953d19-18db-4dd6-ba0c-4acaf79a5613"
-      },
-	      {
-        "name": "Pluto TV Crime Movies",
-        "uri": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d8594eb979c0007706de7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
-        "icono": "https://store-images.s-microsoft.com/image/apps.43087.14136317613015826.48c8959e-6805-4af7-82a9-0a36e8a28dc3.27953d19-18db-4dd6-ba0c-4acaf79a5613"
-      },
-	      {
-        "name": "Pluto TV Thrillers",
-        "uri": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
-        "icono": "https://store-images.s-microsoft.com/image/apps.43087.14136317613015826.48c8959e-6805-4af7-82a9-0a36e8a28dc3.27953d19-18db-4dd6-ba0c-4acaf79a5613"
-      },
-	      {
-        "name": "PLUTO TV HORROR",
-        "uri": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
-        "icono": "https://store-images.s-microsoft.com/image/apps.43087.14136317613015826.48c8959e-6805-4af7-82a9-0a36e8a28dc3.27953d19-18db-4dd6-ba0c-4acaf79a5613"
-      },
-	      {
-        "name": "PLUTO TV SUSPENSE",
-        "uri": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f15e281b0b8840007324b55/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
-        "icono": "https://store-images.s-microsoft.com/image/apps.43087.14136317613015826.48c8959e-6805-4af7-82a9-0a36e8a28dc3.27953d19-18db-4dd6-ba0c-4acaf79a5613"
-      },
-	      {
-        "name": "PLUTO TV NEWS",
-        "uri": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5268abcd0ce20a8472000114/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
-        "icono": "https://store-images.s-microsoft.com/image/apps.43087.14136317613015826.48c8959e-6805-4af7-82a9-0a36e8a28dc3.27953d19-18db-4dd6-ba0c-4acaf79a5613"
-      },
-	      {
-        "name": "PLUTO TV REALITY",
-        "uri": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8bf0b06d2d855ee15115e3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
-        "icono": "https://store-images.s-microsoft.com/image/apps.43087.14136317613015826.48c8959e-6805-4af7-82a9-0a36e8a28dc3.27953d19-18db-4dd6-ba0c-4acaf79a5613"
-      },
-	          {
-        "name": "PLUTO TV ANIMALS",
-        "uri": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/56b27f85ff3037045055037e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
-        "icono": "https://store-images.s-microsoft.com/image/apps.43087.14136317613015826.48c8959e-6805-4af7-82a9-0a36e8a28dc3.27953d19-18db-4dd6-ba0c-4acaf79a5613"
-      },
-	          {
-        "name": "PLUTO TV PARANORMAL",
-        "uri": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5adf96e3e738977e2c31cb04/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
-        "icono": "https://store-images.s-microsoft.com/image/apps.43087.14136317613015826.48c8959e-6805-4af7-82a9-0a36e8a28dc3.27953d19-18db-4dd6-ba0c-4acaf79a5613"
-      },
-      {
-        "name": "PLUTO TV TERROR",
-        "uri": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
-        "icono": "https://store-images.s-microsoft.com/image/apps.43087.14136317613015826.48c8959e-6805-4af7-82a9-0a36e8a28dc3.27953d19-18db-4dd6-ba0c-4acaf79a5613"
-      }
-    ]
-  },
+	
  {
     "name": "🎥PACK-HBO",
     "samples": [
