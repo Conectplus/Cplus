@@ -862,6 +862,16 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5792e613fceb699c79cbc0e75fe4cd37&key=a672793730476ed23e5c1bce2ff570c6",
         "icono": "https://play-lh.googleusercontent.com/rlxooZ1FOBJ3YlXGuLr2Y02dE0eo6B5-1wy9X7vCPBXM7sVc5YFqSyGgUGGwfHpw3xI=w240-h480-rw"
+          },
+   {
+        "name": "SEMILLITAS",
+        "uri": "http://multiextrem.xyz:80/play/viSlkg8uRdtJEPIWS_668QgBXr6_saFBTCwqYEIMGOSm2MdcSrINJopiYCfDXVqW",
+        "icono": "https://semillitas.com/wp-content/uploads/2020/11/club-logo.png"
+          },
+{
+        "name": "BABY TV",
+        "uri": "http://multiextrem.xyz:80/play/viSlkg8uRdtJEPIWS_668QgBXr6_saFBTCwqYEIMGOSm2MdcSrINJopiYCfDXVqW",
+        "icono": "http://multiextrem.xyz:80/play/viSlkg8uRdtJEPIWS_668QgBXr6_saFBTCwqYEIMGOS2OlZSiPlQCXCHIu2MXwVq"
           }
     ]
   },
