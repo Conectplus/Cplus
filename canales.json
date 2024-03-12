@@ -342,29 +342,19 @@
         "uri": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6320d2755e54db000783fd87/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=8816e8a5-dd15-44b1-5d47-14275dc5e634&deviceDNT=0&deviceModel=0",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/archive/3/30/20220125154916%21Claro_Sports_logo.svg/120px-Claro_Sports_logo.svg.png"
       },
-      {
-        "name": "TIGO S  3",
-        "uri": "http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/248534",
-        "icono": "https://i.ibb.co/gwP3gYy/k-Jzdzpsx-JCk-Lsw-IZr-C09f-WZaen5cn-Gue-Dt4rt-I5qbg-dcudz0-bd5s-Terqh-Gvme-Kvg.png"
-      },
-      {
-        "name": "TIGO GUATEMALA",
-        "uri": "https://linear-556.frequency.stream/distFAL/vix/556/hls/master/playlist.m3u8",
-        "icono": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8e/4f/7c/8e4f7ce7-727e-d147-3a61-abe7c8fd6192/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/460x0w.png"
-      },
-       
+             
      {
-        "name": "DIRECTV MOTORS MPD",
+        "name": "DIRECTV MOTORS",
         "uri": "https://proxy.sintv.cl/py.php/https://1279-abc-da-bpk.dtvott.com/dash_live_1279/manifest.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=86531a9305d65cb78b18b2c14024320e&key=0070dbc490f3b5edfe1f68503fb6402c",
-        "icono": "https://ibb.co/Rg4Sz7p"
+        "icono": "https://i.ibb.co/qgCXCfr/6481c3f81fdc4-838x390.jpg"
       },
        
      {
         "name": "DIRECTV SPORTS 1",
         "uri": "http://209.45.81.84:8000/play/a03d",
-        "icono": "http://imgfz.com/i/DNuzBkP.png"
+        "icono": "https://i.ibb.co/hMq03RK/DTVSPORTS.png"
       },
 
        {
@@ -372,18 +362,18 @@
         "uri": "https://proxy.sintv.cl/py.php/https://1046-vos.dtvott.com/DASH/manifest.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7ac053ce4a6c3786a71c23c36bfed028&key=b324da5a858840ee79ba4bc1df9ffd95",
-        "icono": "http://imgfz.com/i/zsUV8wc.png"
+        "icono": "https://i.ibb.co/hMq03RK/DTVSPORTS.png"
       },
      {
       
         "name": "DIRECTV 2",
         "uri": "http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/1243",
-        "icono": "http://imgfz.com/i/zsUV8wc.png"
+        "icono": "https://i.ibb.co/hMq03RK/DTVSPORTS.png"
       },
       {
         "name": "DIRECTV PLUS",
         "uri": "http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/1244",
-        "icono": "http://imgfz.com/i/2iUaFyQ.png"
+        "icono": "https://i.ibb.co/hMq03RK/DTVSPORTS.png"
       },
        {
         "name": "MOVISTAR LA LIGA",
