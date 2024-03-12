@@ -355,12 +355,12 @@
       },
        {
         "name": "WIN SPORTS",
-        "uri": "http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/426",
+        "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/32604.m3u8",
         "icono": "http://imgfz.com/i/GkPvFZr.jpeg"
       },
      {
         "name": "WIN SPORTS PLUS",
-        "uri": "http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/252516",
+        "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/32605.m3u8",
         "icono": "http://imgfz.com/i/GkPvFZr.jpeg"
       },
 {
@@ -389,9 +389,7 @@
       },
       {
         "name": "GOLF CHANNEL",
-        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Golf_Channel/SA_Live_dash_enc/Golf_Channel.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://silverplaytv.store/koey/g0lfch.json",
+        "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/63794.m3u8",
         "icono": "https://i.ibb.co/0cMCWjG/unnamed-4.jpg"
       },
              {
@@ -427,13 +425,13 @@
       },
      {
         "name": "TUDN MX 2",
-        "uri": "https://cdn.efnekm.xyz/live9/live9.m3u8",
+        "uri": http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/63808.m3u8",
         "icono": "http://imgfz.com/i/8NP5UE3.png"
       },
 	      {
-        "name": "TUDN MX 2 OPC 2",
-        "uri": "https://cdn.efnekm.xyz/live8/live8.m3u8",
-        "icono": "http://imgfz.com/i/8NP5UE3.png"
+        "name": "TUDN EXTRA",
+        "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/65321.m3u8",
+        "icono": "https://luxplayer.norago.tv/img/resize/235x332/8e765d2f-06b2-42b1-8f99-471998ec45bc.png"
       },
      {
         "name": "AFIZZINADOS",
@@ -443,16 +441,14 @@
            
       {
         "name": "ESPN MEXICO",
-        "uri": "https://snqplaypro.com/demotv/play/242.m3u8",
+        "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/65674.m3u8",
         "icono": "https://i.ibb.co/BzGyKSW/QHU32-CDMLNFGLMLSUM27-NHA5-FU.jpg"
       },
       
      {
-        "name": "ESPN DEPORTES",
-        "uri": "https://chromecast.cvattv.com.ar/1166/dash/cenc/ESPNDHD_13667/manifest.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1acb5ff7b0dbfdf19c4dca1aabfaaa11&key=be65e5985fa04a49af310f0a92a0260a",
-        "icono": "http://imgfz.com/i/5VtU0sy.png"
+        "name": "ESPN PERÚ",
+        "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/63114.m3u8",
+        "icono": "https://i.ibb.co/BzGyKSW/QHU32-CDMLNFGLMLSUM27-NHA5-FU.jpg"
       }
     ]
   },
