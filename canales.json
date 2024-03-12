@@ -2140,7 +2140,7 @@
     ]
   },
 {
-    "name": "🧒🏼CANALES INFANTILES Y 24/7",
+    "name": "🧒🏼CANALES 24/7",
     "samples": [
         {
       "name": "SMALLVILLE",
@@ -2158,9 +2158,49 @@
         "icono": "https://www.kindpng.com/picc/m/31-314514_mickey-mouse-and-friends-png-transparent-png.png"
       },  
 {
+      "name": "LOS SIMPSON",
+        "uri": "http://dnslivetv.online/live/TVplay30/NYEnXqw37E/1039738.m3u8",
+   "icono": "https://www.themoviedb.org/t/p/w500/gpGPI732PWspwGpPyWrWov8IYmq.jpg"
+      },  
+{
+      "name": "DRAGON BALL",
+        "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/63398.m3u8",
+   "icono": "https://dl.dropboxusercontent.com/s/vpn24wr1qji3wlv/db.png"
+      },  
+{
+      "name": "DRAGON BALL - 1 AL 43",
+        "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/63392.m3u8",
+   "icono": "https://dl.dropboxusercontent.com/s/vpn24wr1qji3wlv/db.png"
+      },  
+{
       "name": "NARUTO",
         "uri": "http://149.56.44.10/hls/545_.m3u8",
         "icono": "https://pics.filmaffinity.com/grim_evil_the_grim_adventures_of_billy_mandy-191983912-mmed.jpg"
+      },
+{
+      "name": "BOB ESPONJA",
+        "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/39529.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bob_esponja_logotipo.svg/460px-Bob_esponja_logotipo.svg.png"
+      },
+	    {
+      "name": "POCOYÓ",
+        "uri": "http://dnslivetv.online/live/TVplay30/NYEnXqw37E/1039817.m3u8",
+        "icono": "https://www.24-horas.mx/wp-content/uploads/2018/04/pocoy%C3%B3.jpg?resize=768,466"
+      },
+{
+      "name": "FUTURAMA",
+        "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/63383.m3u8",
+        "icono": "https://www.formulatv.com/images/series/posters/100/125/dest_1.jpg"
+      },
+{
+      "name": "SOUTH PARK",
+        "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/63421.m3u8",
+        "icono": "https://www.kindpng.com/picc/m/133-1338862_south-park-png-taco-alien-south-park-transparent.png"
+      },
+{
+      "name": "EL CHAVO",
+        "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/39524.m3u8",
+        "icono": "http://imagenes.canalrcn.com/ImgTachoProducciones/s3fs-public/el-chavo.png"
       },
 {
       "name": "EL CHAPULIN COLORADO ANIMADO",
