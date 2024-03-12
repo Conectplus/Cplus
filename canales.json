@@ -997,6 +997,51 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2b21c8fa9a329cce311a4c4a4aa996a1&key=cc23ea1fb32629f9e1f48c8deeae3e5b",
         "icono": "https://i.ibb.co/DQVCfDv/channels4-profile-2.jpg"
       },
+{
+        "name": "EUROSPORT 1 HD",
+        "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/64749.m3u8",
+        "icono": "https://logo.iptveditor.com/eurosports1.png"
+      },
+{
+        "name": "EUROSPORT 2 HD",
+        "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/64750.m3u8",
+        "icono": "https://logo.iptveditor.com/eurosports1.png"
+      },
+{
+        "name": "FOX SOCCER PLUS HD",
+        "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/64752.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Soccer_Plus_logo.svg/1200px-Fox_Soccer_Plus_logo.svg.png"
+      },
+ {
+        "name": "SKY SPORTS PREMIER",
+        "uri": "http://dnslivetv.online/live/TVplay25/WUXrYhAsgb/930995.m3u8",
+        "icono": "https://i.ibb.co/Qrdmqff/05qw-Hae-400x400.jpg"
+      },
+{
+        "name": "SKY SPORTS PREMIER",
+        "uri": "http://dnslivetv.online/live/TVplay30/NYEnXqw37E/930995.m3u8",
+        "icono": "https://i.ibb.co/Qrdmqff/05qw-Hae-400x400.jpg"
+      },
+{
+        "name": "SKY SPORTS PREMIER - ESPAÑOL",
+        "uri": "http://dnslivetv.online/live/TVplay25/WUXrYhAsgb/930995.m3u8",
+        "icono": "https://i.ibb.co/Qrdmqff/05qw-Hae-400x400.jpg"
+      },
+{
+        "name": "MOVISTAR LA LIGA FHD",
+        "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/67107.m3u8",
+        "icono": "https://logo.iptveditor.com/movistarlaliga.png"
+      },
+{
+        "name": "M+ LIGA DE CAMPEONES",
+        "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/64737.m3u8",
+        "icono": "https://iptvboss.xyz/logos/Spain/M%2BLigadeCampeones.es.png"
+      },
+{
+        "name": "MOVISTAR LA LIGA FHD",
+        "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/67107.m3u8",
+        "icono": "https://logo.iptveditor.com/movistarlaliga.png"
+      },
 	 {
         "name": "CLARO SPORTS",
         "uri": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6320d2755e54db000783fd87/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=8816e8a5-dd15-44b1-5d47-14275dc5e634&deviceDNT=0&deviceModel=0",
