@@ -1685,7 +1685,7 @@
       },
 	  {
         "name": "MEGA",
-        "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/64465.m3u8",
+        "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/64464.m3u8",
 	"icono": "https://i.imgur.com/3iZT356.png"
       },
 	  {
@@ -1700,26 +1700,24 @@
       },
  {
         "name": "CHILE VISION",
-        "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/64456.m3u8",
+        "uri": "http://dnslivetv.online/live/TVplay30/NYEnXqw37E/589521.m3u8",
 	"icono": "https://i.imgur.com/vuLclYK.png"
       },
 	  {
         "name": "GLOBO NEWS",
-        "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/54978.m3u8",
-	"icono": "https://s2-historiaglobo.glbimg.com/W30xC684vNcD3k3DY44uYxvD6yo=/0x0:1083x537/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_b45177f3fc8a432fa50d0ed4155f34b9/internal_photos/bs/2022/X/4/hY7nMZTKKReekLed2hOg/novalogo.png"
+        "uri": "http://zoomplay.online/live/Teleplay2025/Cplus335780/113205.m3u8",
+	"icono": "https://imgur.com/Ob8jjKR.jpeg"
       },
 	    {
         "name": "RECORD NEWS",
-        "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/63829.m3u8",
+        "uri": "http://zoomplay.online/live/Teleplay2025/Cplus335780/113208.m3u8",
 	"icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Record_News_logo_2022.svg/410px-Record_News_logo_2022.svg.png"
       },
 
 	  {
         "name": "ANTENA 3",
-        "uri": "https://edge02-cde-py.cvattv.com.ar/live/c6eds/Antena_3/SA_Live_dash_enc_2A/Antena_3.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1e1ad422a6714482b66fa702c16e50c6&key=4fdf28a0ab91356ca55a75f4e9bf8c92",
-		"icono": "https://i.postimg.cc/D0sSHYqN/antena3-logo-nuevo.jpg"
+        "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/67072.m3u8",
+	"icono": "https://i.postimg.cc/D0sSHYqN/antena3-logo-nuevo.jpg"
       },
 	  {
         "name": "TV5 MONDE",
@@ -1736,11 +1734,9 @@
 		"icono": "https://i.postimg.cc/rmvHqgHW/1280px-Deutsche-Welle-symbol-2012-svg.png"
       },
 	  {
-        "name": "EURONEWS",
-        "uri": "https://edge02-cde-py.cvattv.com.ar/live/c6eds/Euronews/SA_Live_dash_enc_2A/Euronews.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d86b0f56d32f45adb0a6b4e488c8f0c2&key=e4f180b0e61be3e80ab602df5e56ff3f",
-		"icono": "https://i.postimg.cc/LXTqp05Q/600px-Euronews-2016-alternative-logo.png"
+        "name": "CABLE NOTICIAS",
+        "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/62880.m3u8",
+	"icono": "https://i.ibb.co/bPRRSwz/2702583238-9448b8b50f-b.jpg"
       }
     ]
   },
