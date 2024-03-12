@@ -258,6 +258,41 @@
         "icono": "https://i.ibb.co/DQVCfDv/channels4-profile-2.jpg"
       },
 {
+        "name": "BEIN SPORTS XTRA Ñ",
+        "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/64751.m3u8",
+        "icono": "https://yt3.googleusercontent.com/ytc/AIf8zZQEUAzPxQZnRYqMkIa-7MYw06smnmL7aAw4ZPDTEw=s900-c-k-c0x00ffffff-no-rj"
+      },
+{
+        "name": "ESPN SUR",
+        "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/64773.m3u8",
+        "icono": "https://i.ibb.co/BzGyKSW/QHU32-CDMLNFGLMLSUM27-NHA5-FU.jpg"
+      },
+{
+        "name": "ESPN 2 SUR",
+        "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/64774.m3u8",
+        "icono": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/ESPN2/EXPORTACION_WEB/SS/ESPN2_t-290x163.png"
+      },
+{
+        "name": "ESPN 3 SUR",
+        "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/64775.m3u8",
+        "icono": "https://clarovideocdn6.clarovideo.net/CVPERU/PELICULAS/ESPN3HD/EXPORTACION_WEB/SS/ESPN3HD_t-290x163.png"
+      },
+{
+        "name": "ESPN 4 SUR",
+        "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/64776.m3u8",
+        "icono": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/ESPN4/EXPORTACION_WEB/SS/ESPN4_t-290x163.png"
+      },
+{
+        "name": "ESPN 5 SUR",
+        "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/64777.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/ESPN5TV5Logo.png/640px-ESPN5TV5Logo.png"
+      },
+{
+        "name": "ESPN 6 SUR",
+        "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/64778.m3u8",
+        "icono": "https://logo.iptveditor.com/espn6.png"
+      },
+{
         "name": "EUROSPORT 1 HD",
         "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/64749.m3u8",
         "icono": "https://logo.iptveditor.com/eurosports1.png"
@@ -403,31 +438,23 @@
       },
              {
         "name": "DAZN 1",
-        "uri": "https://dcf-ak-livedazn.akamaized.net//dashrdm/dazn-linear-037/stream.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0",
-        "icono": "https://yt3.googleusercontent.com/xkKpq4tvcd1Mi-o6Tvk3GlkQUN-SQnmB4xgrTihJE3bxghJPqZC_i7IinG2Vepem7iq24fO430Y=s900-c-k-c0x00ffffff-no-rj"
+        "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/64764.m3u8",
+         "icono": "https://yt3.googleusercontent.com/xkKpq4tvcd1Mi-o6Tvk3GlkQUN-SQnmB4xgrTihJE3bxghJPqZC_i7IinG2Vepem7iq24fO430Y=s900-c-k-c0x00ffffff-no-rj"
       },
          {
-        "name": "DAZN  2  DE",
-        "uri": "https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-038/stream.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0",
+        "name": "DAZN 2",
+        "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/64765.m3u8",
         "icono": "https://i.ibb.co/wsFdGGn/dazn2.png"
       },
       {
         "name": "DAZN FORMULA 1",
-        "uri": "https://dcf-ak-livedazn.akamaized.net//dashrdm/dazn-linear-016/stream.mpd?",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0",
+        "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/64734.m3u8",
         "icono": "https://cdn.sincroguia.tv/uploads/images/1/k/u/xdazn.jpg.pagespeed.ic.aAtE5-BNU0.jpg"
       },
        {
         "name": "DAZN LA LIGA",
-        "uri": "https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=43d1c3b25207ff38b22ccfe17d302367&key=7b1f85f6e81059473b114c16a25c829a",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToM6On2c3sZTpdN5TBqdxkfyK5cFdWSW3edVILEGDizarR95qaEJvfTw_5IuReWzmlBH0&usqp=CAU"
+        "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/64732.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/512px-DAZN_LaLiga_logo.svg.png"
       },
 
       {
