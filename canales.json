@@ -2759,19 +2759,19 @@
         "uri": "https://edge-live17-sl.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_Live_dash_enc/VTV_Plus_HD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=da8a49a594160cc0059f07b9f71cd39a&key=37ca91dd799b351a02445151c7f61070",
-        "icono": "https://static.tvar.io/imagenes/vtvplus.png?"
+        "icono": "https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png"
         },
 {
         "name": "VTV PLUS FHD",
         "uri": "https://edge-live02-bel.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_Live_dash_enc/VTV_Plus_HD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=da8a49a594160cc0059f07b9f71cd39a&key=37ca91dd799b351a02445151c7f61070",
-        "icono": "https://static.tvar.io/imagenes/vtvplus.png?"
+        "icono": "https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png"
         },
 {
         "name": "VTV PLUS",
         "uri": "http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/264752",
-        "icono": "http://imgfz.com/i/dTApbyc.png"
+        "icono": "https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png"
       },
 {
         "name": "GOL TV",
@@ -2817,7 +2817,7 @@
 {
         "name": "07| VTV PLUS",
         "uri": "http://restreamus.com:8080/chi2022f/pa7f2qnDfvpr/27871",
-        "icono": "http://imgfz.com/i/dTApbyc.png"
+        "icono": "https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png"
       }
             ]
           },
