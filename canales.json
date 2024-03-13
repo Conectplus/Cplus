@@ -2813,7 +2813,12 @@
                 "name": "06| VTV PLUS",
                 "uri": "http://dnslivetv.online/live/TVplay25/WUXrYhAsgb/591496.M3U8",
                 "icono": "https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png"
-              } 
+              } ,
+{
+        "name": "07|VTV PLUS",
+        "uri": "http://restreamus.com:8080/chi2022f/pa7f2qnDfvpr/27871",
+        "icono": "http://imgfz.com/i/dTApbyc.png"
+      },
             ]
           },
 	 {
