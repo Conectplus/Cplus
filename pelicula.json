@@ -2,21 +2,12 @@
 {
     "name": "🧒🏼CANALES 24/7",
     "samples": [
-        {
-      "name": "SMALLVILLE",
-        "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/63427.m3u8",
-        "icono": "http://imgfz.com/i/4rgx357.jpeg"
-      },  
-{
+       {
       "name": "MIRACULOUS",
         "uri": "http://multiextrem.xyz:80/play/viSlkg8uRdtJEPIWS_668QgBXr6_saFBTCwqYEIMGOTPuos4SwgzfxVyy1Ymg347",
         "icono": "https://static.wikia.nocookie.net/miraculousladybug/images/e/e6/Site-logo.png/revision/latest?cb=20210712190455&path-prefix=es"
       },  
-{
-      "name": "LA CASA DE MICKEY MOUSE",
-        "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/63413.m3u8",
-        "icono": "https://www.kindpng.com/picc/m/31-314514_mickey-mouse-and-friends-png-transparent-png.png"
-      },  
+
 {
       "name": "CINEMA LEGO",
         "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/63407.m3u8",
@@ -27,11 +18,7 @@
         "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/63392.m3u8",
    "icono": "https://dl.dropboxusercontent.com/s/vpn24wr1qji3wlv/db.png"
       },  
-{
-      "name": "NARUTO",
-        "uri": "http://149.56.44.10/hls/545_.m3u8",
-        "icono": "https://pics.filmaffinity.com/grim_evil_the_grim_adventures_of_billy_mandy-191983912-mmed.jpg"
-      },
+
 {
       "name": "CINEMA MARVEL STUDIO",
         "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/63406.m3u8",
@@ -68,11 +55,7 @@
         "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/63424.m3u8",
         "icono": "https://www.latercera.com/resizer/9GM2GXgDRqfqxVE2hm5aeWsamVI=/900x600/smart/cloudfront-us-east-1.images.arcpublishing.com/copesa/FFY242JNJVAHDONFU3QTHYONAU.jpg"
       },
-{
-      "name": "EL CHAVO",
-        "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/39524.m3u8",
-        "icono": "http://imagenes.canalrcn.com/ImgTachoProducciones/s3fs-public/el-chavo.png"
-      },
+
 {
       "name": "EL CHAPULIN COLORADO ANIMADO",
         "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/63453.m3u8",
@@ -82,92 +65,8 @@
       "name": "EL CHAPULIN COLORADO",
         "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/63460.m3u8",
         "icono": "https://i.pinimg.com/originals/e0/63/97/e063975655d0cff787fbb4a789adcb50.png,"
-      },
-     {
-      "name": "BILLY Y MANDY",
-        "uri": "http://149.56.44.10/hls/545_.m3u8",
-        "icono": "https://pics.filmaffinity.com/grim_evil_the_grim_adventures_of_billy_mandy-191983912-mmed.jpg"
-      },
-	      {
-      "name": "GARFIELD",
-        "uri": "http://149.56.44.10:80/hls/554_.m3u8",
-        "icono": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRPHp6YO7uxb405Pnt9R7i0I4Aju9fnJUPyjL3jY2fuRyRnlMWP"
-      },
-	      {
-      "name": "BOB ESPONJA",
-        "uri": "http://149.56.44.10/hls/535_.m3u8",
-        "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT7sPeKteaVXWrhljJH5dAGqIX7pmeheWllWcJKGYAcxgCfIO5d"
-      },
-	      {
-      "name": "LA PANTERA ROSA",
-        "uri": "http://149.56.44.10:80/hls/568_.m3u8",
-        "icono": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSugo076enXjE3qfpnCe9_rtzrI9ZyerG5Vsew038bPiwYYuFsS"
-      },
-       {
-      "name": "DRGON BALL Z SAGA ANDROIDE",
-        "uri": "http://149.56.44.10:80/hls/563_.m3u8",
-        "icono": "http://imgfz.com/i/CHrP2Z7.jpeg"
-      },
-      {
-      "name": "DRGON BALL SUPER",
-        "uri": "http://149.56.44.10:80/hls/562_.m3u8",
-        "icono": "http://imgfz.com/i/36uZ9fb.jpeg"
-      },
-       {
-      "name": "LOS PITUFOS",
-        "uri": "http://149.56.44.10/hls/569_.m3u8",
-        "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ5A3w77JJsJEAsoRfzHcjJ_DI8e1nQIy1nmETB085sYv28Go6I"
-      },     
-	      {
-      "name": "JOHNY BRAVO",
-        "uri": "http://149.56.44.10:80/hls/542_.m3u8",
-        "icono": "https://static.wikia.nocookie.net/doblaje/images/c/c1/JohnnyBravo.png/revision/latest?cb=20231102032815&path-prefix=es"
-      },
-            {
-      "name": "LOS SIMPSONS",
-        "uri": "http://149.56.44.10/hls/571_.m3u8?http-user-agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/93.0.4577.63%20Safari/536.36",
-        "icono": "http://imgfz.com/i/MbfHth4.jpeg"
-      },
-	      {
-      "name": "EL CHAPULIN COLORADO",
-        "uri": "http://149.56.44.10:80/hls/539_.m3u8",
-        "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRjR78mrOm9s_hg-PsixcSJ1Rcxa28xvUdiY7sa-AoIru7d6AM4"
-      },
-       {
-      "name": "EL PAJARO LOCO",
-        "uri": "http://149.56.44.10:80/hls/564_.m3u8",
-        "icono": "http://imgfz.com/i/WFvoe84.jpeg"
-      },
-     {
-      "name": "EL CHAVO DEL ANIMADO",
-        "uri": "http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/306166",
-        "icono": "http://imgfz.com/i/65BYZuP.jpeg"
-      },
-      {
-      "name": "EL CHAVO DEL 8",
-        "uri": "http://149.56.44.10/hls/538_.m3u8",
-        "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR8aBSvwA5eGpzwrB2elmFM9zsUWUyG1RImLV9sl0c8rqSf0PRx"
-      },
-	{
-      "name": "LAS CHICAS SUPERPODEROSAS",
-        "uri": "http://149.56.44.10:80/hls/547_.m3u8",
-        "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSibblUKo2b16HteTG34_yXLUVD_xLtxfB1OWPnVrdgAeSurHNV"
-      },
-      {
-      "name": "CORAJE EL PERRO COBARDE",
-        "uri": "http://149.56.44.10:80/hls/557_.m3u8",
-        "icono": "http://imgfz.com/i/8abxsne.jpeg"
-      },
-       {
-      "name": "POKEMON",
-        "uri": "http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/208207",
-        "icono": "https://ibb.co/85Jg7bm"
-      },
-      {
-      "name": "DR HOUSE",
-        "uri": "http://149.56.44.10:80/hls/550_.m3u8",
-        "icono": "http://imgfz.com/i/71r32qA.jpeg"
       }
+
     ]
   },
   {
