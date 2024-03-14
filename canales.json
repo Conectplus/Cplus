@@ -1117,6 +1117,16 @@
         "uri": "http://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8",
         "icono": "https://i.ibb.co/8DMbYwz/16473899-1421123434573150-1117910964079135311-n.png"
       },
+	    {
+        "name": "SONY TELENOVELAS",
+        "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/63606.m3u8",
+        "icono": "hhttps://static.wikia.nocookie.net/tvcable/images/3/31/SonyChannel2023LA.png/revision/latest/scale-to-width-down/170?cb=20231115232012&path-prefix=es"
+      },
+{
+        "name": "UNIVISIÓN TELENOVELAS",
+        "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/64112.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1024px-Logo_Univision_2019.svg.png"
+      },
   {
         "name": "TNT NOVELAS",
         "uri": "https://edge-live02-mun.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc/TBS.mpd",
@@ -1138,42 +1148,26 @@
       },
       {
         "name": "CANAL DE LAS ESTRELLAS",
+        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_Live_dash_enc_2A/Canal_de_las_estrellas.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/a33tih53xold61x4eed9j/KEY.CANALDLASESTRELLAS.json?rlkey=xwce6j5n8mrsu04v152d7u0oz&dl=0",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png"
+      }
+      {
+        "name": "CANAL DE LAS ESTRELLAS OPC 2",
         "uri": "https://linear-553.frequency.stream/dist/vix/553/hls/master/playlist.m3u8",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Las_estrellas_2017.jpg/600px-Las_estrellas_2017.jpg"
+      },
+     {
+        "name": "LAS ESTRELLAS",
+        "uri": "https://channel01.akamaized.net/hls/live/2022749/event01/index_6.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png"
       },
        {
         "name": "RCN NOVELAS",
         "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/64113.m3u8",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Logo-rcn-mobile-2023.svg/512px-Logo-rcn-mobile-2023.svg.png"
       },
-
-      {
-        "name": "TELEMUNDO INTERNACIONAL",
-        "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/64117.m3u8",
-        "icono": "http://imgfz.com/i/cuq0V9R.png"
-      },  
-         {
-        "name": "LAS ESTRELLAS",
-        "uri": "https://channel01.akamaized.net/hls/live/2022749/event01/index_6.m3u8",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png"
-      },
-     {
-        "name": "NOVELAS",
-        "uri": "http://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8",
-        "icono": "https://i.ibb.co/W5ch0by/Tlnovelas-2011-logo-svg.png"
-      },
-{
-        "name": "CANAL DE LAS ESTRELLAS",
-        "uri": "http://multiextrem.xyz/TeleplayApp2025/24SiNoaquIyallA/63011",
-        "icono": "https://i.ibb.co/Dp7gVTh/01-las-estrellas.png"
-      },
-      {
-        "name": "CANAL DE LAS ESTRELLAS",
-        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_Live_dash_enc_2A/Canal_de_las_estrellas.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/a33tih53xold61x4eed9j/KEY.CANALDLASESTRELLAS.json?rlkey=xwce6j5n8mrsu04v152d7u0oz&dl=0",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png"
-      }
     ]
   },
     
