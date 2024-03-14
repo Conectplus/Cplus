@@ -938,10 +938,11 @@
         "uri" : "https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8",
 		"icono": "https://static.tvar.io/imagenes/canal4sanjuan.png"
       },
-{
+	{
         "name": "Red de Medios de San Juan",
         "uri" : "https://videostream.shockmedia.com.ar:19360/radiolared/radiolared.m3u8",
 		"icono": "https://diariodesanjuan.com/wp-content/uploads/2023/11/LOGDJSJ.png"
+	    },
       {
         "name": "Canal 30 San juan",
         "uri" : "https://y.tvar.io/iptv-query.m3u8?streaming-ip=https://www.youtube.com/@canal30sanjuantv",
