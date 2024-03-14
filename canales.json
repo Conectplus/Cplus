@@ -2874,10 +2874,20 @@
         "uri": "https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/ss8djzjv/720/chunklist.m3u8",
         "icono": "https://www.ewtn.com/assets/ewtn-badge-4f156d7cd046dd20f7902ec63dd3e1e6892effb9130c634b1fcd868a3a43a05f.jpg"
       },
+	     {
+        "name": "SOLIDARIA TV",
+        "uri": "https://canadaremar2.todostreaming.es/live/argentina-web.m3u8",
+        "icono": "https://www.solidariatv.com/wp-content/uploads/2022/10/solidaria-tv-en-vivo-web-argentina.jpg"
+      },
+ {
+        "name": "TV MANÁ",
+        "uri": "https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/chunklist_w412366424_b413000_sleng.m3u8",
+        "icono": "https://tvmana-argentina.ar/wp-content/uploads/2023/05/LOGO_TV_MANA_ARGENTINA_V1.png"
+      },
 	             {
         "name": "RED NUEVO TIEMPO",
-        "uri": "https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/media-u7gjqbynd_b1628000_slspa_9431.ts",
-        "icono": "https://www.nuevotiempo.cl/wp-content/uploads/2023/02/Logo-NuevoTiempo.svg"
+        "uri": "https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/chunklist_b478000_slspa.m3u8",
+        "icono": "https://www.iglesiaadventistasurrey.ca/build/image/302.jpg?or=360&crop=%2C%2C%2C&s=ecbaafdb32012d7234c366a0cf029841"
       },
 	             {
         "name": "ALIENTO VISION",
