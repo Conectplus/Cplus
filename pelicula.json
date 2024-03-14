@@ -74,6 +74,17 @@
     "samples": [
 
      {
+        "name": "DOGMAN",
+        "uri": "http://dnslivetv.online/movie/TVplay30/NYEnXqw37E/1065156.mkv",
+		"icono": "https://image.tmdb.org/t/p/w780/iQqFJ7It6NlCWY16T9EuBsx3sQP.jpg"
+      },
+
+     {
+        "name": "RITOS OCULTOS",
+        "uri": "http://dnslivetv.online/movie/TVplay30/NYEnXqw37E/1064422.mkv",
+		"icono": "https://image.tmdb.org/t/p/w780/r9YVidx1PEohZLNtyJm05OMiPuD.jpg"
+      },
+{
         "name": "PERDIDOS EN LA NOCHE",
         "uri": "http://dnslivetv.online/movie/TVplay30/NYEnXqw37E/1048194.mkv",
 		"icono": "https://image.tmdb.org/t/p/w780/e7dQV1OqvNQyrPViUA13DCiieLH.jpg"
