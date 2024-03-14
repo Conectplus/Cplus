@@ -74,9 +74,24 @@
     "samples": [
 
      {
-        "name": "CRIPTOESTAFAS",
-        "uri": "http://multiextrem.xyz/movie/TeleplayApp2025/24SiNoaquIyallA/54936.mkv",
-		"icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6YZmezBcTwL9KUn5kkygAvrJ1fx.jpg"
+        "name": "PERDIDOS EN LA NOCHE",
+        "uri": "http://dnslivetv.online/movie/TVplay30/NYEnXqw37E/1048194.mkv",
+		"icono": "https://image.tmdb.org/t/p/w780/e7dQV1OqvNQyrPViUA13DCiieLH.jpg"
+      },
+{
+        "name": "12 AÑOS DE ESCLAVITUD",
+        "uri": "http://dnslivetv.online/movie/TVplay30/NYEnXqw37E/1064397.mp4",
+		"icono": "https://image.tmdb.org/t/p/w780/1OoCd3fmjPHt9iCR4QxNGGrDyI0.jpg"
+      },
+{
+        "name": "EL EXORCISTA DEL PAPA ",
+        "uri": "http://multiextrem.xyz/movie/TeleplayApp2025/24SiNoaquIyallA/42280.mp4",
+		"icono": "https://image.tmdb.org/t/p/w780/4n7HJ322ARRWytwxLKEZi0mIrYE.jpg"
+      },
+{
+        "name": "PARALLEL",
+        "uri": "http://multiextrem.xyz/movie/TeleplayApp2025/24SiNoaquIyallA/66813.mkv",
+		"icono": "https://image.tmdb.org/t/p/w780/glZRP5M0uDoAzYKLB2XcCc8Gaep.jpg"
       },
 {
         "name": "CHICAS MALAS",
@@ -107,6 +122,11 @@
         "name": "DESPERTAR DEL DUELO",
         "uri": "http://multiextrem.xyz/movie/TeleplayApp2025/24SiNoaquIyallA/55678.mkv",
 		"icono": "https://cl.buscafs.com/www.tomatazos.com/public/uploads/images/425536/425536_173x256.jpg"
+      },
+ {
+        "name": "CRIPTOESTAFAS",
+        "uri": "http://multiextrem.xyz/movie/TeleplayApp2025/24SiNoaquIyallA/54936.mkv",
+		"icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6YZmezBcTwL9KUn5kkygAvrJ1fx.jpg"
       },
 	     {
         "name": "NAPOLEON",
