@@ -2830,6 +2830,67 @@
       }
             ]
           },
+
+	 {
+    "name": "⛪RELIGIOSOS",
+    "samples": [
+      {
+        "name": "CHINESE HOPE",
+        "uri": "https://streaming.servervideo.net:1936/cielotv/cielotv/chunklist_w1618522186.m3u8",
+        "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9df45c21ce1d67a2800b19969c8c80cc.webp"
+      },
+      {
+        "name": "CANAL LUZ",
+        "uri": "https://g2.proy-slo.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_1080p/index.m3u8",
+        "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5346532a3780572008a2bf51333c3934.webp"
+      },
+	       {
+        "name": "EBENEZER HONDURAS",
+        "uri": "https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/chunklist_w2125370917_b1128000.m3u8",
+        "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/367dce69c71ae47d73ab92638794369e.webp"
+      },
+	       {
+        "name": "EXTREMA TV",
+        "uri": "https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/chunklist_w177494604.m3u8",
+        "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/69106ca7b0cf264cfa244575f74b451b.webp"
+		 },
+             {
+        "name": "SPIRIT TV",
+        "uri": "https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v2a1/mono.m3u8",
+        "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/28cfc242a64fb8e4ccd47c3488e69f2a.webp"
+      },
+	    {
+	    "name": "MISION VIDA TV",
+        "uri": "https://59825a54e4454.streamlock.net:8443/jorge854/jorge854/chunklist_w1956434460.m3u8",
+        "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/352e33e766ec2e3d17271c7faeac54c4.webp"
+		     },
+	           {
+        "name": "PRESENCIA TV",
+        "uri": "https://tv.clientetvstudio.net:3158/hybrid/play.m3u8",
+        "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7c32e4c6d73b63dd532a48dd4e17f634.webp"
+      },
+	           {
+        "name": "CBN ESPAÑOL",
+        "uri": "https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/us-east-1/734546207001/profile_2/chunklist.m3u8",
+        "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3cd3c736b140e74c9afb1c88fb207892.webp"
+      },
+	             {
+        "name": "transmisión en vivoAntiguo jardín de té de árboles en la aldea de Wuliang, condado de Nanjian, Yunnana",
+        "uri": "https://gcalic.v.myalicdn.com/gc/ztn_1/index.m3u8?",
+        "icono": "https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/14/1631585721137_436.png"
+      },
+	             {
+        "name": "transmisión en vivoÁrea escénica de Langshan en Shaoyang, Hunan",
+        "uri": "https://gcalic.v.myalicdn.com/gc/hnttbdjd_1/index.m3u8",
+        "icono": "https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/14/1631585721137_436.png"
+      },
+	             {
+        "name": "ALIENTO VISION",
+        "uri": "https://627bb251f23c7.streamlock.net:444/AlientoSD/AlientoSD/chunklist_w309201210.m3u8",
+        "icono": "https://static.wixstatic.com/media/59c031_b10c329535aa411ca0d56dbdf8cb7bd1~mv2.png/v1/fill/w_72,h_36,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/alientoVisionLogo.png"
+      }
+    ]
+  },
 	 {
     "name": "🇸🇦CANALES DE ARABIA SAUDITA",
    "samples": [
