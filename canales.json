@@ -1115,50 +1115,36 @@
       {
         "name": "TLN",
         "uri": "http://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/716px-Logo_tlnovelas_feb2019.png"
+        "icono": "https://i.ibb.co/8DMbYwz/16473899-1421123434573150-1117910964079135311-n.png"
       },
   {
         "name": "TNT NOVELAS",
         "uri": "https://edge-live02-mun.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc/TBS.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=49a0179b034ae899cb67d8a5834181aa&key=486e2c6d69adea7e17f2960e8e366612",
-        "icono": "https://i.ibb.co/jVMmjN6/descarga-8.png"
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_NOVELAS.png"
       },
       {
         "name": "PASIONES",
         "uri": "https://edge-live11-hr.cvattv.com.ar/live/c7eds/Pasiones/SA_Live_dash_enc/Pasiones.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d41cf825e878f0d8e276218af7f5b7e1&key=13d1b73ab578ab8623be9347bcf8972a",
-        "icono": "https://i.ibb.co/3FvjfFk/800px-Pasiones-Tv-logo-svg.png"
+        "icono": "https://tvpasiones.com/wp-content/uploads/2017/06/logo_pasiones.png"
       },
       {
         "name": "TL NOVELAS",
-        "uri": "https://snqplaypro.com/demotv/play/287.m3u8",
-        "icono":"https://i.ibb.co/W5ch0by/Tlnovelas-2011-logo-svg.png"
+        "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/63035.m3u8",
+        "icono":"https://i.ibb.co/HHx1bnv/12-tl-novelas.png"
       },
       {
         "name": "CANAL DE LAS ESTRELLAS",
         "uri": "https://linear-553.frequency.stream/dist/vix/553/hls/master/playlist.m3u8",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png"
-      },
-     {
-        "name": "TNT NOVELAS",
-        "uri": "https://edge-live02-mun.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc/TBS.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=49a0179b034ae899cb67d8a5834181aa&key=486e2c6d69adea7e17f2960e8e366612",
-        "icono": "https://i.ibb.co/jVMmjN6/descarga-8.png"
-      },
-      {
-        "name": "PASIONES",
-        "uri": "https://chromecast.cvattv.com.ar/live/c7eds/Pasiones/SA_Live_dash_enc_2A/Pasiones.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/vqfoyrzv2rnl9prbdyjui/KEY.PASIONES.json?rlkey=0n1sb7udlnryk644hnubtzbuq&dl=0",
-        "icono": "https://i.ibb.co/3FvjfFk/800px-Pasiones-Tv-logo-svg.png"
+        "icono": "https://static.wikia.nocookie.net/logopedia/images/3/33/Canal_2_%28Las_Estrellas%29_2007.svg/revision/latest?cb=20210514235200&path-prefix=es"
       },
        {
-        "name": "TELENOVELA YA",
-        "uri": "https://vkvsd228.mycdn.me:443/hls/6155080829684.m3u8/sig/MZy_apJ4JJU/srcIp/181.94.249.124/urls/45.136.20.86/expires/1708146017222/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7436406893556/id/6155080829684/6155080829684_high/index.m3u8",
-        "icono": "http://imgfz.com/i/DxKiqhU.png"
+        "name": "RCN NOVELAS",
+        "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/64113.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Logo-rcn-mobile-2023.svg/512px-Logo-rcn-mobile-2023.svg.png"
       },
      
      {
