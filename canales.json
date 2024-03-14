@@ -1266,31 +1266,7 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5c14d6aeb19bf113edf91a7b544253cb&key=8d776d6f9c5c840ebe88d767dd731692",
         "icono": "https://i.ibb.co/0Fb9ncz/descarga-7.png"
       },
-      {
-        "name": "TNT NOVELAS",
-        "uri": "https://edge-live02-mun.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc/TBS.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=49a0179b034ae899cb67d8a5834181aa&key=486e2c6d69adea7e17f2960e8e366612",
-        "icono": "https://i.ibb.co/jVMmjN6/descarga-8.png"
-      },
-      {
-        "name": "PASIONES",
-        "uri": "https://edge-live11-hr.cvattv.com.ar/live/c7eds/Pasiones/SA_Live_dash_enc/Pasiones.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d41cf825e878f0d8e276218af7f5b7e1&key=13d1b73ab578ab8623be9347bcf8972a",
-        "icono": "https://i.ibb.co/3FvjfFk/800px-Pasiones-Tv-logo-svg.png"
-      },
-      {
-        "name": "TL NOVELAS",
-        "uri": "https://snqplaypro.com/demotv/play/287.m3u8",
-        "icono":"https://i.ibb.co/W5ch0by/Tlnovelas-2011-logo-svg.png"
-      },
-      {
-        "name": "CANAL DE LAS ESTRELLAS",
-        "uri": "https://linear-553.frequency.stream/dist/vix/553/hls/master/playlist.m3u8",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png"
-      },
-      {
+         {
         "name": "CINEMAX",
         "uri": "https://edge-live12-sl.cvattv.com.ar/live/c6eds/Cinemax/SA_Live_dash_enc_2A/Cinemax.mpd",
         "drm_scheme": "clearkey",
