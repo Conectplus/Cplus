@@ -1139,30 +1139,20 @@
       {
         "name": "CANAL DE LAS ESTRELLAS",
         "uri": "https://linear-553.frequency.stream/dist/vix/553/hls/master/playlist.m3u8",
-        "icono": "https://static.wikia.nocookie.net/logopedia/images/3/33/Canal_2_%28Las_Estrellas%29_2007.svg/revision/latest?cb=20210514235200&path-prefix=es"
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Las_estrellas_2017.jpg/600px-Las_estrellas_2017.jpg"
       },
        {
         "name": "RCN NOVELAS",
         "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/64113.m3u8",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Logo-rcn-mobile-2023.svg/512px-Logo-rcn-mobile-2023.svg.png"
       },
-     
-     {
-        "name": "NOVELAS",
-        "uri": "https://vkvsd228.mycdn.me:443/hls/6155080829684.m3u8/sig/MZy_apJ4JJU/srcIp/181.94.249.124/urls/45.136.20.86/expires/1708146017222/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7436406893556/id/6155080829684/6155080829684_medium/index.m3u8",
-        "icono": "https://i.ibb.co/W5ch0by/Tlnovelas-2011-logo-svg.png"
-      },
+
       {
         "name": "TELEMUNDO INTERNACIONAL",
-        "uri": "http://190.61.43.116:45000/play/a049",
+        "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/64117.m3u8",
         "icono": "http://imgfz.com/i/cuq0V9R.png"
       },  
-     {
-        "name": "TELEMUNDO",
-        "uri": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_720.m3u8",
-        "icono": "http://imgfz.com/i/cuq0V9R.png"
-      },
-      {
+         {
         "name": "LAS ESTRELLAS",
         "uri": "https://channel01.akamaized.net/hls/live/2022749/event01/index_6.m3u8",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png"
@@ -1659,6 +1649,11 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=53d752e4649dadd808d913985f86ee77&key=d1fd24db1b61d634cabfc44538ce9b0e",
 		"icono": "https://i.postimg.cc/SKT2Pm92/telemundo-logo-0-F9-A314635-seeklogo-com.png"
+      },
+  {
+        "name": "TELEMUNDO",
+        "uri": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_720.m3u8",
+        "icono": "http://imgfz.com/i/cuq0V9R.png"
       },
 	  {
         "name": "BBC NEWS",
@@ -2638,12 +2633,7 @@
         "uri": "https://vkvsd228.mycdn.me:443/hls/6155080829684.m3u8/sig/MZy_apJ4JJU/srcIp/181.94.249.124/urls/45.136.20.86/expires/1708146017222/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7436406893556/id/6155080829684/6155080829684_high/index.m3u8",
         "icono": "http://imgfz.com/i/DxKiqhU.png"
       },
-     
-     {
-        "name": "NOVELAS",
-        "uri": "https://vkvsd228.mycdn.me:443/hls/6155080829684.m3u8/sig/MZy_apJ4JJU/srcIp/181.94.249.124/urls/45.136.20.86/expires/1708146017222/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7436406893556/id/6155080829684/6155080829684_medium/index.m3u8",
-        "icono": "https://i.ibb.co/W5ch0by/Tlnovelas-2011-logo-svg.png"
-      },
+
       {
         "name": "TELEMUNDO INTERNACIONAL",
         "uri": "http://190.61.43.116:45000/play/a049",
