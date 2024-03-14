@@ -2839,12 +2839,7 @@
         "uri": "https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/chunklist_b2752000_sleng.m3u8",
         "icono": "https://media.licdn.com/dms/image/C4E0BAQGkzVsyv8wkAQ/company-logo_200_200/0/1630629848056/enlace_tv_logo?e=2147483647&v=beta&t=X71naiwFtfy324-44u9p7qo7Sjau7U-0eOVIPGo4a74"
       },
-      {
-        "name": "CANAL LUZ",
-        "uri": "https://g2.proy-slo.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_1080p/index.m3u8",
-        "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5346532a3780572008a2bf51333c3934.webp"
-      },
-	       {
+ 	       {
         "name": "EBENEZER HONDURAS",
         "uri": "https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/chunklist_w2125370917_b1128000.m3u8",
         "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/367dce69c71ae47d73ab92638794369e.webp"
