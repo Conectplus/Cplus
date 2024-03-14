@@ -901,8 +901,13 @@
       },
       {
         "name": "Telesol San Juan",
-        "uri": "https://cnnsanjuan.com:9999/live/telesol/woplay/telesoludp2_720p/chunks.m3u8",
+        "uri": "https://cnnsanjuan.com:9999/live/telesol/woplay/telesoludp2_720p/chunks.m3u8?nimblesessionid=4658788",
 		"icono": "https://static.tvar.io/imagenes/telesol.png"
+      },
+{
+        "name": "COSMOS TV SAN JUAN",
+        "uri": "https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8",
+	"icono": "https://www.radio.es/images/broadcasts/af/83/36918/1/c300.png"
       },
       {
         "name": "ARGENTINISIMA SATELITAL",
@@ -920,7 +925,7 @@
       },
       {
         "name": "Canal 8 San Juan",
-        "uri" : "https://mtd.llc/canal8sanjuan.m3u8",
+        "uri" : "https://g3.proy-slo.transport.edge-access.net/a09/ngrp:canal8sanjuan-100056_all/canal8sanjuan-100056_720p.m3u8",
 		"icono": "https://static.tvar.io/imagenes/canalochosanjuan.png"
       },
  {
@@ -933,6 +938,10 @@
         "uri" : "https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8",
 		"icono": "https://static.tvar.io/imagenes/canal4sanjuan.png"
       },
+{
+        "name": "Red de Medios de San Juan",
+        "uri" : "https://videostream.shockmedia.com.ar:19360/radiolared/radiolared.m3u8",
+		"icono": "https://diariodesanjuan.com/wp-content/uploads/2023/11/LOGDJSJ.png"
       {
         "name": "Canal 30 San juan",
         "uri" : "https://y.tvar.io/iptv-query.m3u8?streaming-ip=https://www.youtube.com/@canal30sanjuantv",
@@ -940,7 +949,7 @@
       },
       {
         "name": "Canal 34 San juan",
-        "uri": "http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8",
+        "uri": "http://streamyes.alsolnet.com/canal34hd/live/chunklist_w1871479550.m3u8",
 		"icono": "https://static.tvar.io/imagenes/34sanjuan.png"
       },
       {
