@@ -862,6 +862,11 @@
         "uri": "https://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8",
         "icono": "https://i.ibb.co/XLJ5cc3/descarga-1.png"
       },
+	  {
+        "name": "CANAL 7 JUJUY",
+        "uri": "https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/chunklist_w1691829989_b1146880.m3u8",
+        "icono": "https://i.ibb.co/zXtysyQ/2024-03-14-21-35-39.png"
+      },
     
 {
         "name": "EL PRINGLENSE",
