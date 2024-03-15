@@ -2683,6 +2683,13 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=dabefaac89742589778fcfab78f08354&key=896dd914683b01c8044ffd34d7b6416b",
         "icono": "https://static.tvar.io/imagenes/canal4uy.png"
       },
+    {
+        "name": "CANAL 5",
+        "uri" : "https://cdn.cvattv.com.ar/live/c3eds/TV_Nacional_Uy/SA_Live_dash_enc_2A/TV_Nacional_Uy.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/jriqfp4idvj0fsx2dbtc4/KEY.CANAL.5URU.json?rlkey=bygm0fh9h8aahgedd2s5bhzzg&dl=0",
+		"icono": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Canal_5_Uruguay.png" 
+      },
 {
         "name": "TELEDOCE",
         "uri": "https://edge-live31-sl.cvattv.com.ar/live/c4eds/Canal12URU/SA_Live_dash_enc/Canal12URU.mpd",
