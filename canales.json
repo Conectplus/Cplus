@@ -13,72 +13,18 @@
               "name": "⚽EVENTOS TELEPLAY",
               "samples": [
                   {
-                      "name": "RIVER VS ESTUDIANTES - SUPERCOPA ARGENTINA",
+                      "name": "🇺🇸MLS",
                       "uri": "https://cdn2xde.eladiocarrion.live/live27/live27_sonora1.m3u8",
                       "icono": "https://i.ibb.co/RgQg8WK/2024-03-13-18-09-28.png"
                   },
-{
-                      "name": "RIVER VS ESTUDIANTES - SUPERCOPA ARGENTINA",
-                      "uri": "http://multiextrem.xyz:80/play/viSlkg8uRdtJEPIWS_668QgBXr6_saFBTCwqYEIMGOS1MPlr9oAVHp53sMvW8F_0",
-                      "icono": "https://i.ibb.co/RgQg8WK/2024-03-13-18-09-28.png"
-                  },
-{
-                      "name": " Inter Miami vs Nashville SC | FSP",
-                      "uri": "http://multiextrem.xyz:80/play/viSlkg8uRdtJEPIWS_668QgBXr6_saFBTCwqYEIMGOShGe7mAuN-1w19ceXdUHbi",
-                      "icono": "https://images.mlssoccer.com/image/private/t_editorial_landscape_12_desktop/f_png/mls/gehuymf4bengpr69f85x.png"
-                  },
-{
-                      "name": " Inter Miami vs Nashville SC | FSP2",
-                      "uri": "http://multiextrem.xyz:80/play/viSlkg8uRdtJEPIWS_668QgBXr6_saFBTCwqYEIMGOQMAF8Xpy5FoG-ymI_x-fo4",
-                      "icono": "https://images.mlssoccer.com/image/private/t_editorial_landscape_12_desktop/f_png/mls/gehuymf4bengpr69f85x.png"
-                  },
 
                   {
-                      "name": "FÚTBOL PARAGUAY",
+                      "name": "🇵🇾FÚTBOL PARAGUAY",
                       "uri": "https://pablipintos.top/m3u8/top1.m3u8",
                       "icono": "https://i.ibb.co/ChDHzh5/Copa-de-Primera.png"
-                  },
- {
-                      "name": "FÚTBOL PARAGUAY 2",
-                      "uri": "https://pull-hls-l1-act.hypstarcdn.com/activity/stream-2420554979293003804/playlist.m3u8",
-                      "icono": "https://i.ibb.co/ChDHzh5/Copa-de-Primera.png"
-                  },
-                   
- {
-        "name": "EVENTOS TELEPLAY",
-        "uri": "https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257",
-        "icono": "https://i.ibb.co/Z2c3Mg8/Teleplay-1-1.png"
-      },
-{
-        "name": "EVENTOS TELEPLAY",
-        "uri": "https://edge-live01-cte.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257",
-		"icono": "https://i.ibb.co/Z2c3Mg8/Teleplay-1-1.png"
-      },
-                  {
-                      "name": "EVENTOS TELEPLAY",
-                      "uri": "https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd",
-                      "drm_scheme": "clearkey",
-                      "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a",
-                      "icono": "https://i.ibb.co/Z2c3Mg8/Teleplay-1-1.png"
-                  },
-                  {
-                      "name": "EVENTOS TELEPLAY",
-                      "uri": "https://chromecast.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
-                      "drm_scheme": "clearkey",
-                      "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2b21c8fa9a329cce311a4c4a4aa996a1&key=cc23ea1fb32629f9e1f48c8deeae3e5b",
-                      "icono": "https://i.ibb.co/Z2c3Mg8/Teleplay-1-1.png"
-                  },
-                  {
-                      "name": "EVENTOS TELEPLAY",
-                      "uri": "https://chromecast.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
-                      "drm_scheme": "clearkey",
-                      "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2b21c8fa9a329cce311a4c4a4aa996a1&key=cc23ea1fb32629f9e1f48c8deeae3e5b",
-                      "icono": "https://i.ibb.co/Z2c3Mg8/Teleplay-1-1.png"
                   }
+                   
+
               ]
           },
  {
@@ -2091,7 +2037,13 @@
  {
     "name": "🇵🇾CANALES DE PARAGUAY",
     "samples": [
-      {
+     
+                  {
+                      "name": "🇵🇾 PRIMERA DIVISIÓN",
+                      "uri": "https://pablipintos.top/m3u8/top1.m3u8",
+                      "icono": "https://i.ibb.co/ChDHzh5/Copa-de-Primera.png"
+                  },
+ {
         "name": "UNIVERSO TV",
         "uri": "https://testphp07.alwaysdata.net/universo/index.m3u8",
         "icono": "http://imgfz.com/i/gWBHzNp.jpeg"
