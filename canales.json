@@ -924,6 +924,12 @@
         "uri" : "https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8",
 	"icono": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/09/Canal-2-Posadas-en-vivo-Online-1.png?fit=1920%2C1080&ssl=1"
       },
+{
+        "name": "CANAL 12 MISIONES",
+        "uri" : "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/39511.m3u8",
+	"icono": "https://i.ibb.co/FhsDBQ3/unnamed-3.webp"
+      },
+
       {
         "name": "SILVER CHANNEL",
         "uri": "https://g4.vxral-slo.transport.edge-access.net/a05/ngrp:c12_live01-100129_all/c12_live01-100129_720p-94887.ts",
