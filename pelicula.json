@@ -349,20 +349,7 @@
         "uri": "http://multiextrem.xyz:80/play/jnIEqNaBjWOwWeRrZuH64LIrIknO9oHMFc8VvklNj6jQGUWcPrDMe3iPDyqRF7P2#.mp4",
 	"icono": "https://i.scdn.co/image/ab67616d0000b273b951223171ecfabe6ac97335"
       },
-      {
-        "name": "TV PUBLICA",
-        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc/Canal7.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cc8c82ac2ec7e9799527c29db7354e81&key=cc4aae173dd2ef17ae26be3f7ae87662",
-		"icono": "https://i.postimg.cc/50CZVS03/ver-tv-publica-canal-7-argentina-en-vivo.jpg"
-      },
-{
-        "name": "TV PUBLICA 2",
-        "uri": "https://dtvott-abc.akamaized.net/dash_live_1156/manifest.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5f789ebbb6495578b42267b650574f62&key=0b37b263a0aca7b08f12014b2b7b9248",
-		"icono": "https://i.postimg.cc/50CZVS03/ver-tv-publica-canal-7-argentina-en-vivo.jpg"
-      },
+ 
       {
         "name": "Abel Pintos en Cosquin",
         "uri": "http://multiextrem.xyz:80/play/jnIEqNaBjWOwWeRrZuH64LIrIknO9oHMFc8VvklNj6iYC9ePbf3GHSXeJhjX7COV#.mp4",
