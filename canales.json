@@ -14,7 +14,7 @@
               "samples": [
                   {
                       "name": "🇺🇸MLS",
-                      "uri": "https://cdn2xde.eladiocarrion.live/live27/live27_sonora1.m3u8",
+                      "uri": "http://restreamus.com:8080/chi2022f/pa7f2qnDfvpr/234840",
                       "icono": "https://i.ibb.co/VML9cBZ/MLS-crest-logo-RGB-Inter-Miami-CF-svg.png"
                   },
 
@@ -22,6 +22,21 @@
                       "name": "🇵🇾FÚTBOL PARAGUAY",
                       "uri": "https://pablipintos.top/m3u8/top1.m3u8",
                       "icono": "https://i.ibb.co/ChDHzh5/Copa-de-Primera.png"
+                  },
+		      {
+                      "name": "🇦🇪LIGA ARABE - RSL",
+                      "uri": "http://restreamus.com:8080/chi2022f/pa7f2qnDfvpr/241250",
+                      "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Saudi_Pro_League_Logo.svg/640px-Saudi_Pro_League_Logo.svg.png"
+                  },
+{
+                      "name": "🏎️FORMULA 1",
+                      "uri": "http://restreamus.com:8080/chi2022f/pa7f2qnDfvpr/211008",
+                      "icono": "https://logos-world.net/wp-content/uploads/2023/12/F1-Logo.png"
+                  },
+{
+                      "name": "DIRECTV GO MULTI",
+                      "uri": "http://restreamus.com:8080/chi2022f/pa7f2qnDfvpr/222394",
+                      "icono": "https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png"
                   }
                    
 
