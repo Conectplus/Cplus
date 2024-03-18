@@ -25,12 +25,12 @@
                   },
 		      {
                       "name": "🇦🇪LIGA ARABE - RSL",
-                      "uri": "http://restreamus.com:8080/chi2022f/pa7f2qnDfvpr/241250",
+                      "uri": "http://conectplus.com.ar:25461/Locky2025/5vXumE3bkmbU/52252",
                       "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Saudi_Pro_League_Logo.svg/640px-Saudi_Pro_League_Logo.svg.png"
                   },
 {
                       "name": "🏎️FORMULA 1",
-                      "uri": "http://multiextrem.xyz:80/play/viSlkg8uRdtJEPIWS_668QgBXr6_saFBTCwqYEIMGOTnd7M1wsaS4vs8X9kiiv_Z",
+                      "uri": "https://multiextrem.live:8443/live/TeleplayApp2025/24SiNoaquIyallA/437300.m3u8",
                       "icono": "https://logos-world.net/wp-content/uploads/2023/12/F1-Logo.png"
                   },
 {
@@ -139,7 +139,14 @@
 {
               "name": "⚽LIBERTADORES Y SUDAMERICANA",
               "samples": [
-                   {
+                {
+        "name": "⚽SORTEO CONMEBOL - LIB Y SUDAM",
+        "uri": "https://chromecast.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cbc2a0c7a38df0aa3333cd71841d3b0d&key=aac61b730e2ac1df23f1e872e7541c1b",
+        "icono": "https://i.ibb.co/5K6GD6W/Conmebol-Sudamericana.jpg"
+      },
+ {
         "name": "⚽LIBERTADORES Y SUDAMERICANA",
         "uri": "http://multiextrem.xyz:80/play/viSlkg8uRdtJEPIWS_668QgBXr6_saFBTCwqYEIMGOQ2L4bePmh2JjhDKhJOpPeo",
         "icono": "https://i.ibb.co/5K6GD6W/Conmebol-Sudamericana.jpg"
@@ -257,7 +264,7 @@
       },
 {
         "name": "FOX SOCCER PLUS HD",
-        "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/64752.m3u8",
+        "uri": "https://multiextrem.live:8443/live/TeleplayApp2025/24SiNoaquIyallA/775086.m3u8",
         "icono": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Soccer_Plus_logo.svg/1200px-Fox_Soccer_Plus_logo.svg.png"
       },
  {
