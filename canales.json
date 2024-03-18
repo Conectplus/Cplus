@@ -3207,12 +3207,7 @@
  {
     "name": "🇧🇴BOLIVIA",
     "samples": [
-      {
-        "name": "ATB BOLIVIA",
-        "uri": "https://live-b.cf.dmcdn.net/sec2(Su5-EXghkFTvCK6oxtxPoa0MzN5gbjYKOp-MiZE1F3lcRykZlT2mwMFeT9UASFsY9BBfZcdQABuCGOKpTMUPDhsv7sfIJ2L-Pk35DDEDjS0)/dm/3/x84eirw/s/live-2.m3u8",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/RedATB2022.png/1663px-RedATB2022.png"
-      },
-{
+     {
         "name": "RED UNO LPZ",
         "uri": "https://live-c.cf.dmcdn.net/sec2(5QoF1wk1Mizf6C9s55nxR619nXf2p4hNTy2xPuwc8bbKsJbqSkqp8ELxh-E0MnOKGVD1nFe2MrMx96USM53yaeF_RVHjv8PBSb6r2PUlVQ8)/dm/3/x8ko1ix/d/live-3.m3u8",
         "icono": "https://i.postimg.cc/wB9YCbf3/RED-UNO-LA-PAZ.jpg"
@@ -3371,12 +3366,7 @@
         "name": "TVLATINA",
         "uri": "https://master.tucableip.com/live/tvlatinamontero/playlist.m3u8",
         "icono": "https://i.ibb.co/QDcfX4Y/1691081718835.jpg"
-      },
-      {
-        "name": "Red Uno",
-        "uri": "https://ldncctvwbcdcnchw.v.cdn20.com/ldncctvwbcd/cdrmldcctv13_1_720P/playlist.m3u8?wsApp=HLS",
-        "icono": "https://static.wikia.nocookie.net/logopedia/images/a/af/Red_UNO_1985-0.png"
-      } 
+      }
     ]
   }
 ]
