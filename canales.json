@@ -3197,6 +3197,11 @@
         "uri": "https://streamer1.streamhost.org/salive/GMIredadvenirh/chunklist_w1976177922.m3u8",
         "icono": "https://redadvenir.org/redadvenir/images/logo.png"
       },
+ {
+        "name": "RED UNO",
+        "uri": "https://live-c.cf.dmcdn.net/sec2(w9HiZUHlypj94oK1HNuFs09oE6MHsm3O9UfTJZCS-mug3cSEXroZ4GPmIxnISIayDVSGneh_6g5FXD2q4Hlbjlh020MrAvxRseNhJzTDi1k)/dm/3/x8s1at2/d/live-3.m3u8#cell=lcfc",
+        "icono": "https://www.reduno.com.bo/img/estructura/logo_red_uno_2023.png"
+      },
       {
         "name": "AYNI TV Bolivia | La Paz",
         "uri": "https://solo.disfrutaenlared.com:1936/aynitv/aynitv/chunklist_w469152853.m3u8",
