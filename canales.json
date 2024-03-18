@@ -3193,19 +3193,119 @@
     "name": "🇧🇴BOLIVIA",
     "samples": [
       {
-        "name": "RED ADVENIR",
-        "uri": "https://streamer1.streamhost.org/salive/GMIredadvenirHD/playlist.m3u8",
-        "icono": "https://redadvenir.org/redadvenir/images/logo.png"
+        "name": "ATB BOLIVIA",
+        "uri": "https://live-b.cf.dmcdn.net/sec2(Su5-EXghkFTvCK6oxtxPoa0MzN5gbjYKOp-MiZE1F3lcRykZlT2mwMFeT9UASFsY9BBfZcdQABuCGOKpTMUPDhsv7sfIJ2L-Pk35DDEDjS0)/dm/3/x84eirw/s/live-2.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/RedATB2022.png/1663px-RedATB2022.png"
+      },
+{
+        "name": "RED UNO LPZ",
+        "uri": "https://live-c.cf.dmcdn.net/sec2(5QoF1wk1Mizf6C9s55nxR619nXf2p4hNTy2xPuwc8bbKsJbqSkqp8ELxh-E0MnOKGVD1nFe2MrMx96USM53yaeF_RVHjv8PBSb6r2PUlVQ8)/dm/3/x8ko1ix/d/live-3.m3u8",
+        "icono": "https://i.postimg.cc/wB9YCbf3/RED-UNO-LA-PAZ.jpg"
       },
  {
-        "name": "UNITEL",
-        "uri": "https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZXA5yLqAYSuoMjWd8AzcpimgCT2n-jWu03EejsC2J2VS)/dm/3/x7vsfua/d/live-3.m3u8",
+        "name": "UNITEL NACIONAL",
+        "uri": "https://stream-02.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAlzSU7pt6Z2Dj0szBGeIrCE-uLLrfsQzulr9yKAZZWUCM)/dm/3/x7wzxiw/s/live-3.m3u8",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/8/88/Unitel_HD.jpg"
+      },
+{
+        "name": "BOLIVISION",
+        "uri": "http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8",
+        "icono": "https://i.ibb.co/68wjssL/rtp.jpg"
+      },
+{
+        "name": "RTP LA PAZ",
+        "uri": "http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8",
+        "icono": "https://i.ibb.co/68wjssL/rtp.jpg"
+      },
+	    {
+        "name": "CADENA A HD NOTICIAS 24/7",
+        "uri": "https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/chunklist_w676725952.m3u8",
+        "icono": "https://i.ibb.co/d664F5t/CADENA-A-HD.jpg"
+      },
+ {
+        "name": "BOLIVIA 7.1 HD",
+        "uri": "http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8",
+        "icono": "https://i.ibb.co/8PNDmWQ/BOLIVIA-TV-7-1.jpg"
+      },
+{
+        "name": "BOLIVIA 7.2 HD",
+        "uri": "https://5f2c1b0d880e5.streamlock.net/boliviatv2/videoboliviatv2/chunklist_w1449851026.m3u8",
+        "icono": "https://i.ibb.co/BNh6Y7T/BOLIVIA-TV-7-2.jpg"
+      },
+{
+        "name": "TVU UMSA HD",
+        "uri": "https://video.live.com.bo:3731/live/tvuumsalive.m3u8",
+        "icono": "https://i.postimg.cc/1tv6QGb3/TVU-HD-NEW-2023.jpg"
+      },
+{
+        "name": "SEO TV HD",
+        "uri": "https://seo.tv.bo/tv/STV_1FHD.m3u8",
+        "icono": "https://i.ibb.co/8X8Qdg4/270036729-2322470231226306-5366687394008496867-n.jpg"
       },
  {
         "name": "RED UNO",
         "uri": "https://live-c.cf.dmcdn.net/sec2(w9HiZUHlypj94oK1HNuFs09oE6MHsm3O9UfTJZCS-mug3cSEXroZ4GPmIxnISIayDVSGneh_6g5FXD2q4Hlbjlh020MrAvxRseNhJzTDi1k)/dm/3/x8s1at2/d/live-3.m3u8#cell=lcfc",
         "icono": "https://www.reduno.com.bo/img/estructura/logo_red_uno_2023.png"
+      },
+ {
+        "name": "PAT SANTA CRUZ HD",
+        "uri": "https://w8.redpat.tv:7777/play/110/index.m3u8",
+        "icono": "https://i.ibb.co/CW9mjpC/PAT-HD-01.jpg"
+      },
+{
+        "name": "MEGA TV HD",
+        "uri": "https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/chunklist_w222211367.m3u8",
+        "icono": "https://i.ibb.co/CbKyxbd/MEGATV-BOLIVIA-HD.jpg"
+      },
+{
+        "name": "RED TV HD",
+        "uri": "https://master.tucableip.com/dtvsc/tracks-v1a1/mono.m3u8",
+        "icono": "https://i.postimg.cc/RFFytkkn/DTV-BOLVIA-NEW-HD.jpg"
+      },
+{
+        "name": "TV LATINA HD",
+        "uri": "https://master.tucableip.com/live/tvlatinamontero/tracks-v1a1/mono.m3u8",
+        "icono": "https://i.ibb.co/bgscxnc/LATINA-HD.jpg"
+      },
+{
+        "name": "RED GIGAVISIÓN",
+        "uri": "https://master.tucableip.com/gigavision/playlist.m3u8",
+        "icono": "https://i.postimg.cc/6pKHv8FR/RED-GIGAVISION-HD.jpg"
+      },
+{
+        "name": "VIRGEN DE COPACABANA HD",
+        "uri": "https://5d00db0e0fcd5.streamlock.net/7034/7034/chunklist_w1930124659.m3u8",
+        "icono": "https://i.ibb.co/brY56Hk/cvc-hd-virgen.jpg"
+      },
+  {
+        "name": "UNIVALLE TV HD",
+        "uri": "https://master.tucableip.com/univalletv/tracks-v1a1/mono.m3u8",
+        "icono": "https://i.ibb.co/djxLpSq/univalle-tv-hd.jpg"
+      },
+	    {
+        "name": "RTVE PUNATA",
+        "uri": "https://vdo.grupolimalive.com:3241/live/encuentrotvlive.m3u8",
+        "icono": "https://i.ibb.co/444NgrX/RTVE-PUNATA-HD.jpg"
+      },
+ {
+        "name": "FTV HD",
+        "uri": "https://master.tucableip.com//ftv/tracks-v1a1/mono.m3u8",
+        "icono": "https://i.ibb.co/26n5n3t/FTV-HD.jpg"
+      },
+{
+        "name": "DELTA TV HD",
+        "uri": "https://vsrv1.az-streamingserver.com:3068/live/vdsocmnulive.m3u8",
+        "icono": "https://i.ibb.co/xCJhqyJ/DELTA-TV-HD-02.jpg"
+      },
+{
+        "name": "F10 HD",
+        "uri": "https://video.live.com.bo:3253/live/f10hdlive.m3u8",
+        "icono": "https://i.ibb.co/ggkqLnh/F10-HD.jpg"
+      },
+ {
+        "name": "TV MEGAVISIÓN HD",
+        "uri": "https://video.live.com.bo:3699/live/megavisionlive.m3u8",
+        "icono": "https://i.postimg.cc/qRyzkg7K/MEGAVISION-HD.jpg"
       },
       {
         "name": "AYNI TV Bolivia | La Paz",
