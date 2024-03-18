@@ -2610,57 +2610,6 @@
       }
     ]
   },
- {
-    "name": "📺CANALES DE NOVELAS",
-    "samples": [
-      {
-        "name": "TLN",
-        "uri": "http://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/716px-Logo_tlnovelas_feb2019.png"
-      },
-     {
-        "name": "TNT NOVELAS",
-        "uri": "https://edge-live02-mun.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc/TBS.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=49a0179b034ae899cb67d8a5834181aa&key=486e2c6d69adea7e17f2960e8e366612",
-        "icono": "https://i.ibb.co/jVMmjN6/descarga-8.png"
-      },
-      {
-        "name": "PASIONES",
-        "uri": "https://chromecast.cvattv.com.ar/live/c7eds/Pasiones/SA_Live_dash_enc_2A/Pasiones.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/vqfoyrzv2rnl9prbdyjui/KEY.PASIONES.json?rlkey=0n1sb7udlnryk644hnubtzbuq&dl=0",
-        "icono": "https://i.ibb.co/3FvjfFk/800px-Pasiones-Tv-logo-svg.png"
-      },
-       {
-        "name": "TELEMUNDO INTERNACIONAL",
-        "uri": "http://190.61.43.116:45000/play/a049",
-        "icono": "http://imgfz.com/i/cuq0V9R.png"
-      },  
-     {
-        "name": "TELEMUNDO",
-        "uri": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_720.m3u8",
-        "icono": "http://imgfz.com/i/cuq0V9R.png"
-      },
-      {
-        "name": "LAS ESTRELLAS",
-        "uri": "https://channel01.akamaized.net/hls/live/2022749/event01/index_6.m3u8",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png"
-      },
-     {
-        "name": "NOVELAS",
-        "uri": "http://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8",
-        "icono": "https://i.ibb.co/W5ch0by/Tlnovelas-2011-logo-svg.png"
-      },
-      {
-        "name": "CANAL DE LAS ESTRELLAS",
-        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_Live_dash_enc_2A/Canal_de_las_estrellas.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/a33tih53xold61x4eed9j/KEY.CANALDLASESTRELLAS.json?rlkey=xwce6j5n8mrsu04v152d7u0oz&dl=0",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png"
-      }
-    ]
-  },
   {
 
   "name": "🇺🇾 CANALES DE URUGUAY",
