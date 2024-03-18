@@ -1148,11 +1148,11 @@
 	    {
         "name": "SONY TELENOVELAS",
         "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/63606.m3u8",
-        "icono": "hhttps://static.wikia.nocookie.net/tvcable/images/3/31/SonyChannel2023LA.png/revision/latest/scale-to-width-down/170?cb=20231115232012&path-prefix=es"
+        "icono": "https://i.ibb.co/MpH0fWJ/2024-03-18-10-57-58.png"
       },
 {
         "name": "UNIVISIÓN TELENOVELAS",
-        "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/64112.m3u8",
+        "uri": "http://multiextrem.xyz/TeleplayApp2025/24SiNoaquIyallA/64112",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1024px-Logo_Univision_2019.svg.png"
       },
   {
@@ -1186,8 +1186,13 @@
         "uri": "https://linear-553.frequency.stream/dist/vix/553/hls/master/playlist.m3u8",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Las_estrellas_2017.jpg/600px-Las_estrellas_2017.jpg"
       },
+{
+        "name": "LAS ESTRELLAS 1",
+        "uri": "http://multiextrem.xyz/TeleplayApp2025/24SiNoaquIyallA/55231",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Las_estrellas_2017.jpg/600px-Las_estrellas_2017.jpg"
+      },
      {
-        "name": "LAS ESTRELLAS",
+        "name": "LAS ESTRELLAS 2",
         "uri": "https://channel01.akamaized.net/hls/live/2022749/event01/index_6.m3u8",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png"
       },
