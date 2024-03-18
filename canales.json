@@ -42,6 +42,33 @@
 
               ]
           },
+{
+              "name": "⚽DIRECTV SPORTS",
+              "samples": [
+                  {
+                      "name": "DSPORTS 1",
+                      "uri": "https://multiextrem.live:8443/live/TeleplayApp2025/24SiNoaquIyallA/525790.m3u8",
+                      "icono": "https://i.ibb.co/3rCx43n/512x512bb.jpg"
+                  },
+{
+                      "name": "DSPORTS 2",
+                      "uri": "https://multiextrem.live:8443/live/TeleplayApp2025/24SiNoaquIyallA/525784.m3u8",
+                      "icono": "https://i.ibb.co/3rCx43n/512x512bb.jpg"
+                  },
+{
+                      "name": "DSPORTS 3",
+                      "uri": "https://multiextrem.live:8443/live/TeleplayApp2025/24SiNoaquIyallA/525783.m3u8",
+                      "icono": "https://i.ibb.co/3rCx43n/512x512bb.jpg"
+                  },
+{
+                      "name": "DSPORTS PLUS",
+                      "uri": "https://multiextrem.live:8443/live/TeleplayApp2025/24SiNoaquIyallA/525782.m3u8",
+                      "icono": "https://i.ibb.co/3rCx43n/512x512bb.jpg"
+                  }
+
+
+              ]
+          },
  {
               "name": "⚽🇦🇷SUPERLIGA Y COPA ARGENTINA",
               "samples": [
@@ -144,6 +171,16 @@
         "uri": "https://chromecast.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cbc2a0c7a38df0aa3333cd71841d3b0d&key=aac61b730e2ac1df23f1e872e7541c1b",
+        "icono": "https://i.ibb.co/5K6GD6W/Conmebol-Sudamericana.jpg"
+      },
+ {
+        "name": "⚽LIBERTADORES Y SUDAMERICANA - DS",
+        "uri": "https://multiextrem.live:8443/live/TeleplayApp2025/24SiNoaquIyallA/525790.m3u8",
+        "icono": "https://i.ibb.co/5K6GD6W/Conmebol-Sudamericana.jpg"
+      },
+{
+        "name": "⚽LIBERTADORES Y SUDAMERICANA - DS",
+        "uri": "https://multiextrem.live:8443/live/TeleplayApp2025/24SiNoaquIyallA/525785.m3u8",
         "icono": "https://i.ibb.co/5K6GD6W/Conmebol-Sudamericana.jpg"
       },
  {
