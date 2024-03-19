@@ -3,15 +3,16 @@
     "name": "⚽️PARTIDOS CLASICOS - FÚTBOL",
     "samples": [
        {
-        "name": "1986 ⚽️ Argentina vs Uruguay ⚽️⭐",
-        "uri": "https://web.telegram.org/k/stream/%7B%22dcId%22%3A4%2C%22location%22%3A%7B%22_%22%3A%22inputDocumentFileLocation%22%2C%22id%22%3A%225884156151012001983%22%2C%22access_hash%22%3A%223876432898651651046%22%2C%22file_reference%22%3A%5B2%2C82%2C216%2C134%2C38%2C0%2C0%2C0%2C85%2C101%2C250%2C9%2C125%2C201%2C130%2C69%2C105%2C228%2C55%2C201%2C137%2C199%2C27%2C227%2C94%2C186%2C78%2C33%2C126%5D%7D%2C%22size%22%3A686561351%2C%22mimeType%22%3A%22video%2Fmp4%22%7D",
+        "name": "2000 ⚽️Peñarol vs Vasco - Mercosur⚽️⭐",
+        "uri": "https://videos.footballia.net/uploads/video/source_file/30776/2000_Pe_arol_-_Vasco.mp4",
 		"icono": "https://i.ibb.co/TWHjQrH/372831417-652358273541185-1326532568872810340-n.jpg"
       },
- {
-        "name": "2010/2011 Barcelona vs Manchester united",
-        "uri": "https://web.telegram.org/k/stream/%7B%22dcId%22%3A4%2C%22location%22%3A%7B%22_%22%3A%22inputDocumentFileLocation%22%2C%22id%22%3A%225881757854158817203%22%2C%22access_hash%22%3A%225475860693297101400%22%2C%22file_reference%22%3A%5B2%2C82%2C216%2C134%2C38%2C0%2C0%2C0%2C51%2C101%2C250%2C9%2C125%2C169%2C24%2C147%2C222%2C32%2C161%2C83%2C158%2C44%2C94%2C200%2C84%2C217%2C201%2C207%2C78%5D%7D%2C%22size%22%3A883291564%2C%22mimeType%22%3A%22video%2Fmp4%22%7D",
+{
+        "name": "2001 ⚽️AC Milan vs. FC Barcelona⚽️⭐",
+        "uri": "https://videos2.footballia.net/uploads/video/source_file/806/2000-01_Milan_-_Bar_a.mp4",
 		"icono": "https://i.ibb.co/TWHjQrH/372831417-652358273541185-1326532568872810340-n.jpg"
       }
+  
 
     ]
   },
