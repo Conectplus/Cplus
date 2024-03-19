@@ -87,10 +87,54 @@
   {
     "name": "ESTRENOS 2024",
     "samples": [
+	    {
+        "name": "✨KUNG FU PANDA 4",
+        "uri": "https://multiextrem.live:8443/movie/TeleplayApp2025/24SiNoaquIyallA/781892.mp4",
+		"icono": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781524889609/kung-fu-panda-4-movie-novel-9781524889609_hr.jpg"
+      },
+ {
+        "name": "✨La sociedad de la nieve",
+        "uri": "https://multiextrem.live:8443/movie/TeleplayApp2025/24SiNoaquIyallA/703833.mp4",
+		"icono": "https://image.tmdb.org/t/p/w780/zBW3eu851EBSw9GinzRfYXeNI9e.jpg"
+      },
+ {
+        "name": "✨Ceniza",
+        "uri": "http://dnslivetv.online/movie/TVplay25/WUXrYhAsgb/1064393.mkv",
+		"icono": "https://pics.filmaffinity.com/kul-153418056-mmed.jpg"
+      },
+	     {
+        "name": "✨Amor, acoso, asesinato",
+        "uri": "http://dnslivetv.online/movie/TVplay25/WUXrYhAsgb/1048193.mkv",
+		"icono": "https://image.tmdb.org/t/p/w780/979In5AADOcbcUri0WW5PViipqp.jpg"
+      },
 
+        "name": "✨Ferrari",
+        "uri": "http://dnslivetv.online/movie/TVplay25/WUXrYhAsgb/1064396.mp4",
+		"icono": "https://image.tmdb.org/t/p/w780/hRrg9hbdNEEpPXkgly77FxDYpoD.jpg"
+      },
+	
+        "name": "✨Ascenso",
+        "uri": "http://dnslivetv.online/movie/TVplay25/WUXrYhAsgb/1048192.mkv",
+		"icono": "https://image.tmdb.org/t/p/w780/sTYDF962fkt8BIdgnUajRMvcQJI.jpg"
+      },
+	    {
+        "name": "The Marvels",
+        "uri": "https://multiextrem.live:8443/movie/TeleplayApp2025/24SiNoaquIyallA/593402.mkv",
+		"icono": "https://image.tmdb.org/t/p/w780/vpuuFM032yiX8tox4L84Wl9MGjG.jpg"
+      },
+{
+        "name": "Una vez más",
+        "uri": "https://multiextrem.live:8443/movie/TeleplayApp2025/24SiNoaquIyallA/714455.mkv",
+		"icono": "https://image.tmdb.org/t/p/w780/pJ8mTt2L9PtpEniMJ9dzpQ9avLK.jpg"
+      },
+	    {
+        "name": "Aquaman y el reino perdido",
+        "uri": "https://multiextrem.live:8443/movie/TeleplayApp2025/24SiNoaquIyallA/546328.mkv",
+		"icono": "https://multiextrem.live:8443/movie/TeleplayApp2025/24SiNoaquIyallA/698229.mp4"
+      },
      {
         "name": "DOGMAN",
-        "uri": "http://dnslivetv.online/movie/TVplay30/NYEnXqw37E/1065156.mkv",
+        "uri": "http://dnslivetv.online/movie/TVplay25/WUXrYhAsgb/1065156.mkv",
 		"icono": "https://image.tmdb.org/t/p/w780/iQqFJ7It6NlCWY16T9EuBsx3sQP.jpg"
       },
 {
@@ -116,7 +160,7 @@
       },
 {
         "name": "EL EXORCISTA DEL PAPA ",
-        "uri": "http://multiextrem.xyz/movie/TeleplayApp2025/24SiNoaquIyallA/42280.mp4",
+        "uri": "https://multiextrem.live:8443/movie/TeleplayApp2025/24SiNoaquIyallA/718686.mkv",
 		"icono": "https://image.tmdb.org/t/p/w780/4n7HJ322ARRWytwxLKEZi0mIrYE.jpg"
       },
 {
@@ -277,6 +321,26 @@
     "name": "INFANTILES",
     "samples": [
        {
+        "name": "PATOS - Migración. Un viaje patas arriba",
+        "uri": "https://multiextrem.live:8443/movie/TeleplayApp2025/24SiNoaquIyallA/696804.mkv",
+		"icono": "https://image.tmdb.org/t/p/w780/diEeiB2DmZZadHISkg24RO2n0rT.jpg"
+      },
+ {
+        "name": "Super Mario Bros: La película",
+        "uri": "https://multiextrem.live:8443/movie/TeleplayApp2025/24SiNoaquIyallA/553826.mkv",
+		"icono": "https://image.tmdb.org/t/p/w780/zNKs1T0VZuJiVuhuL5GSCNkGdxf.jpg"
+      },
+{
+        "name": "Una familia de superhéroes",
+        "uri": "https://multiextrem.live:8443/movie/TeleplayApp2025/24SiNoaquIyallA/624290.mkv",
+		"icono": "https://image.tmdb.org/t/p/w780/buCip15i0a0PlT77oC7OwQD0HAC.jpg"
+      },
+	    {
+        "name": "Animales al Ataque",
+        "uri": "https://multiextrem.live:8443/movie/TeleplayApp2025/24SiNoaquIyallA/546328.mkv",
+		"icono": "https://image.tmdb.org/t/p/w780/tqqJf2X9UxvUL2VqO3jpoEGw3jl.jpg"
+      },
+ {
         "name": "El ángel en el reloj",
         "uri": "http://dnslivetv.online/movie/TVplay25/WUXrYhAsgb/1048028.mp4",
 		"icono": "https://image.tmdb.org/t/p/w780/hsOIbxeBdoSC3BrpIqbukHMQx6A.jpg"
