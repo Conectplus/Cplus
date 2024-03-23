@@ -2,16 +2,7 @@
   {
               "name": "⚽EVENTOS TELEPLAY",
               "samples": [
-                  {
-                      "name": "INGLATERRA VS BRASIL",
-                      "uri": "http://zoomplay.online/live/Teleplay335780/805377639/663355.m3u8",
-                      "icono": "https://de1.sportal365images.com/process/smp-bet365-images/news.bet365.es-es/20032024/c96f5cfe-8f94-4b59-a2d9-f960e1feef2b.jpg"
-                  },
-{
-                      "name": "INGLATERRA VS BRASIL",
-                      "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/709619.m3u8",
-                      "icono": "https://de1.sportal365images.com/process/smp-bet365-images/news.bet365.es-es/20032024/c96f5cfe-8f94-4b59-a2d9-f960e1feef2b.jpg"
-                  },
+                 
      {
                       "name": "BOCA JRS VS CENTRAL NORTE",
                       "uri": "https://chromecast.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
