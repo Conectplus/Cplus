@@ -2298,7 +2298,7 @@
        }
     ]
   },
- {
+  {
     "name": "🇧🇷BRASIL",
     "samples": [
       {
@@ -2316,7 +2316,6 @@
         "uri": "http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/18?join.the.Billybob.fan.club",
         "icono": "http://imgfz.com/i/DhJWEVu.jpeg"
       },
-
   
       {
         "name": "CNN BRASIL",
@@ -2333,16 +2332,31 @@
         "uri": "https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8",
         "icono": "https://blogoldstone.files.wordpress.com/2009/11/seriados-logo-sbt.jpg"
       },
-      {
-        "name": "TVNOVAPLAY",
-        "uri": "https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8",
-        "icono": "https://i0.wp.com/girotvonline.com/wp-content/uploads/2022/11/tv-nova-play.png?fit=1024%2C768&ssl=1"
-      },
-      {
-        "name": "CONECTV",
-        "uri": "https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8",
-        "icono": "https://play-lh.googleusercontent.com/_z8L3qUly2i3Flg-aaI8M2VvHLifKp5Fo_qTMM4ICeDTqsnwcfEy_QYvt8OHt7kRL00"
-      },
+     {
+                      "name": "RECORD RJ FHD",
+                      "uri": "http://zoomplay.online/Teleplay335780/805377639/1108520",
+                      "icono": "https://i.ibb.co/nktXP36/Record-Rio.png"
+                  },
+                  {
+                      "name": "RECORD RJ HD",
+                      "uri": "http://zoomplay.online/Teleplay335780/805377639/1108525",
+                      "icono": "https://i.ibb.co/nktXP36/Record-Rio.png"
+                  },
+                  {
+                      "name": "RECORD SP FHD",
+                      "uri": "http://zoomplay.online/Teleplay335780/805377639/1108521",
+                      "icono": "https://i.ibb.co/TrRYjW9/post315.webp"
+                  },
+                  {
+                      "name": "RECORD SP HD",
+                      "uri": "http://zoomplay.online/Teleplay335780/805377639/1108521",
+                      "icono": "https://i.ibb.co/TrRYjW9/post315.webp"
+                  },
+                  {
+                      "name": "RECORD MG HD",
+                      "uri": "http://zoomplay.online/Teleplay335780/805377639/1108533",
+                      "icono": "https://img.r7.com/images/record-minas-24112023115417196"
+                  },
       {
         "name": "RECORD TV",
         "uri": "http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/8?join.the.Billybob.fan.club",
@@ -2350,47 +2364,23 @@
        },
 	    {
                       "name": "BAND SPORTS",
-                      "uri": "http://zoomplay.online/Teleplay2025/Cplus335780/1108588",
+                      "uri": "http://zoomplay.online/Teleplay335780/805377639/1108588",
                       "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BandSports_logo.svg/2560px-BandSports_logo.svg.png"
                   },
                   {
                       "name": "BAND SPORTS FHD",
-                      "uri": "http://zoomplay.online/Teleplay2025/Cplus335780/1108579",
+                      "uri": "http://zoomplay.online/Teleplay335780/805377639/1108579",
                       "icono": "https://logowik.com/content/uploads/images/bandsports-tv7819.logowik.com.webp"
                   },
                   {
                       "name": "CAZÉ TV",
-                      "uri": "http://zoomplay.online/Teleplay2025/Cplus335780/1114732",
+                      "uri": "http://zoomplay.online/Teleplay335780/805377639/1114732",
                       "icono": "https://i.imgur.com/mQC6j1N.jpeg"
                   },
-                  {
-                      "name": "RECORD RJ FHD",
-                      "uri": "http://zoomplay.online/Teleplay2025/Cplus335780/1108520",
-                      "icono": "https://i.ibb.co/nktXP36/Record-Rio.png"
-                  },
-                  {
-                      "name": "RECORD RJ HD",
-                      "uri": "http://zoomplay.online/Teleplay2025/Cplus335780/1108525",
-                      "icono": "https://i.ibb.co/nktXP36/Record-Rio.png"
-                  },
-                  {
-                      "name": "RECORD SP FHD",
-                      "uri": "http://zoomplay.online/Teleplay2025/Cplus335780/1108521",
-                      "icono": "https://i.ibb.co/TrRYjW9/post315.webp"
-                  },
-                  {
-                      "name": "RECORD SP HD",
-                      "uri": "http://zoomplay.online/Teleplay2025/Cplus335780/1108521",
-                      "icono": "https://i.ibb.co/TrRYjW9/post315.webp"
-                  },
-                  {
-                      "name": "RECORD MG HD",
-                      "uri": "http://zoomplay.online/Teleplay2025/Cplus335780/1108533",
-                      "icono": "https://img.r7.com/images/record-minas-24112023115417196"
-                  },
+                  
                   {
                       "name": "NATGEO FHD",
-                      "uri": "http://zoomplay.online/Teleplay2025/Cplus335780/1107731",
+                      "uri": "http://zoomplay.online/Teleplay335780/805377639/1107731",
                       "icono": "https://1000logos.net/wp-content/uploads/2017/04/National-Geographic-Logo-1997.jpg"
                   },
                   {
@@ -2405,167 +2395,167 @@
                   },
                   {
                       "name": "RECORD NEWS",
-                      "uri": "http://loadbl2.online:80/PousadaARG/Cplus335780/113208.m3u8",
+                      "uri": "http://loadbl2.online:80/PousadaARG/805377639/113208.m3u8",
                       "icono": "https://imgur.com/7gyWZD2.jpeg"
                   },
                   {
                       "name": "Record NEWS FHD",
-                      "uri": "http://zoomplay.online/Teleplay2025/Cplus335780/113208",
+                      "uri": "http://zoomplay.online/Teleplay335780/805377639/113208",
                       "icono": "https://aovivohd.net/tv/ao-vivo/record-tv-ao-vivo-online.webp"
                   },
                   {
                       "name": "GLOBO RJ HD",
-                      "uri": "http://zoomplay.online/Teleplay2025/Cplus335780/38941",
+                      "uri": "http://zoomplay.online/Teleplay335780/805377639/38941",
                       "icono": "https://i.ibb.co/yf6cJH8/Globo-logo-and-wordmark-svg.png"
                   },
                   {
                       "name": "GLOBO NEWS",
-                      "uri": "http://zoomplay.online/Teleplay2025/Cplus335780/113205",
+                      "uri": "http://zoomplay.online/Teleplay335780/805377639/113205",
                       "icono": "https://upload.wikimedia.org/wikipedia/commons/8/89/Logotipo_da_GloboNews.png"
                   },
-                  {
-                      "name": "REDE TV",
-                      "uri": "http://zoomplay.online/Teleplay2025/Cplus335780/1107716",
-                      "icono": "https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2017_12/small.5a2ac7927befd_RedeTV2017.png.abd3c80118ca98871a789df870aaab57.png"
-                  },
-                  {
-                      "name": "JOVEN PAN",
-                      "uri": "http://zoomplay.online/Teleplay2025/Cplus335780/438850",
-                      "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Logotipo_da_TV_Jovem_Pan_News.png/800px-Logotipo_da_TV_Jovem_Pan_News.png"
-                  },
-                  {
-                      "name": "SBT RJ",
-                      "uri": "http://zoomplay.online/Teleplay2025/Cplus335780/1108545",
-                      "icono": "https://static.wikia.nocookie.net/logopedia/images/e/e3/Logo_SBT_1996.png/revision/latest?cb=20190719181408"
-                  },
-                  {
-                      "name": "SBT SP",
-                      "uri": "http://zoomplay.online/Teleplay2025/Cplus335780/1108544",
-                      "icono": "https://static.wikia.nocookie.net/logopedia/images/e/e3/Logo_SBT_1996.png/revision/latest?cb=20190719181408"
-                  },
-                  {
-                      "name": "MULTISHOW FHD",
-                      "uri": "http://zoomplay.online/Teleplay2025/Cplus335780/1107717",
-                      "icono": "https://imgur.com/flSKGuB.jpeg"
-                  },
-                  {
-                      "name": "VIVA FHD",
-                      "uri": "http://zoomplay.online/Teleplay2025/Cplus335780/18025",
-                      "icono": "https://imgur.com/1h7qB78.jpeg"
-                  },
-                  {
-                      "name": "DOGTV FHD",
-                      "uri": "http://zoomplay.online/Teleplay2025/Cplus335780/446618",
-                      "icono": "https://image.roku.com/developer_channels/prod/cd8f91959045147c475857c84a825d34bed139e6f33a70809ce2a1c95c378e1a.png"
-                  },
-                  {
-                      "name": "MODO VIAGEM FHD",
-                      "uri": "http://zoomplay.online/Teleplay2025/Cplus335780/1113539",
-                      "icono": "https://lh3.googleusercontent.com/-156xqW-BlXM/YB2LVcPyC2I/AAAAAAAAJ8g/A3bYkrKjqi09DknAXLGchXNkyH-SmMmSACLcBGAsYHQ/Mais%2BGlobosat.png"
-                  },
-                  {
-                      "name": "DISCOVERY H&H",
-                      "uri": "http://zoomplay.online/Teleplay2025/Cplus335780/113223",
-                      "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1200px-Discovery_Home_%26_Health_logo.svg.png"
-                  },
-                  {
-                      "name": "ANIMAL PLANET",
-                      "uri": "http://zoomplay.online/Teleplay2025/Cplus335780/17580",
-                      "icono": "https://i.ibb.co/whMfdkB/831-8310067-bindi-the-otters-new-animal-planet-logo.jpg"
-                  },
-                  {
-                      "name": "NATIONAL GEOGRAPHICS",
-                      "uri": "http://zoomplay.online/Teleplay2025/Cplus335780/113178",
-                      "icono": "https://www.nicepng.com/png/detail/82-828723_logo-national-geographic-adventure.png"
-                  },
-                  {
-                      "name": "CNN 4K",
-                      "uri": "http://zoomplay.online/Teleplay2025/Cplus335780/113207",
-                      "icono": "https://imgur.com/mQpuTGf.jpeg"
-                  },
-                  {
-                      "name": "NAT GEO WILD",
-                      "uri": "http://zoomplay.online/Teleplay2025/Cplus335780/113178",
-                      "icono": "https://imgur.com/354OaL2.jpeg"
-                  },
-                  {
-                      "name": "GLOOBINHO HD",
-                      "uri": "http://zoomplay.online/Teleplay2025/Cplus335780/113210",
-                      "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Gloobinho_logo.svg/1200px-Gloobinho_logo.svg.png"
-                  },
-                  {
-                      "name": "DISCOVERY KIDS",
-                      "uri": "http://zoomplay.online/Teleplay2025/Cplus335780/113215",
-                      "icono": "https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png"
-                  },
-                  {
-                      "name": "CARTOONITO FHD",
-                      "uri": "http://zoomplay.online/Teleplay2025/Cplus335780/18252",
-                      "icono": "https://s2.glbimg.com/9BNgLXbdgDtR2_tBYTnkJoibfjo=/e.glbimg.com/og/ed/f/original/2021/11/30/cartoonito.jpg"
-                  },
-                  {
-                      "name": "REDE SUPER",
-                      "uri": "http://zoomplay.online/Teleplay2025/Cplus335780/454346",
-                      "icono": "https://cdn.mitvstatic.com/channels/br_rede-super-hd_m.png"
-                  },
-                  {
-                      "name": "REDE GOSPEL",
-                      "uri": "http://zoomplay.online/Teleplay2025/Cplus335780/113236",
-                      "icono": "https://upload.wikimedia.org/wikipedia/pt/b/ba/LGT_Rede_Gospel.png"
-                  },
-                  {
+ {
                       "name": "BAND TV NEWS",
-                      "uri": "http://zoomplay.online/Teleplay2025/Cplus335780/1108589",
+                      "uri": "http://zoomplay.online/Teleplay335780/805377639/1108589",
                       "icono": "https://upload.wikimedia.org/wikipedia/commons/6/61/Band_News_TV_2021.png"
                   },
                   {
                       "name": "BAND TV RJ",
-                      "uri": "http://zoomplay.online/Teleplay2025/Cplus335780/1108582",
+                      "uri": "http://zoomplay.online/Teleplay335780/805377639/1108582",
                       "icono": "https://seeklogo.com/images/B/band-tv-logo-3F56FE323A-seeklogo.com.png"
                   },
                   {
                       "name": "BAND TV SP",
-                      "uri": "http://zoomplay.online/Teleplay2025/Cplus335780/1108580",
+                      "uri": "http://zoomplay.online/Teleplay335780/805377639/1108580",
                       "icono": "https://seeklogo.com/images/B/band-tv-logo-3F56FE323A-seeklogo.com.png"
                   },
                   {
+                      "name": "REDE TV",
+                      "uri": "http://zoomplay.online/Teleplay335780/805377639/1107716",
+                      "icono": "https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2017_12/small.5a2ac7927befd_RedeTV2017.png.abd3c80118ca98871a789df870aaab57.png"
+                  },
+                  {
+                      "name": "JOVEN PAN",
+                      "uri": "http://zoomplay.online/Teleplay335780/805377639/438850",
+                      "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Logotipo_da_TV_Jovem_Pan_News.png/800px-Logotipo_da_TV_Jovem_Pan_News.png"
+                  },
+                  {
+                      "name": "SBT RJ",
+                      "uri": "http://zoomplay.online/Teleplay335780/805377639/1108545",
+                      "icono": "https://static.wikia.nocookie.net/logopedia/images/e/e3/Logo_SBT_1996.png/revision/latest?cb=20190719181408"
+                  },
+                  {
+                      "name": "SBT SP",
+                      "uri": "http://zoomplay.online/Teleplay335780/805377639/1108544",
+                      "icono": "https://static.wikia.nocookie.net/logopedia/images/e/e3/Logo_SBT_1996.png/revision/latest?cb=20190719181408"
+                  },
+                  {
+                      "name": "MULTISHOW FHD",
+                      "uri": "http://zoomplay.online/Teleplay335780/805377639/1107717",
+                      "icono": "https://imgur.com/flSKGuB.jpeg"
+                  },
+                  {
+                      "name": "VIVA FHD",
+                      "uri": "http://zoomplay.online/Teleplay335780/805377639/18025",
+                      "icono": "https://imgur.com/1h7qB78.jpeg"
+                  },
+                  {
+                      "name": "DOGTV FHD",
+                      "uri": "http://zoomplay.online/Teleplay335780/805377639/446618",
+                      "icono": "https://image.roku.com/developer_channels/prod/cd8f91959045147c475857c84a825d34bed139e6f33a70809ce2a1c95c378e1a.png"
+                  },
+                  {
+                      "name": "MODO VIAGEM FHD",
+                      "uri": "http://zoomplay.online/Teleplay335780/805377639/1113539",
+                      "icono": "https://lh3.googleusercontent.com/-156xqW-BlXM/YB2LVcPyC2I/AAAAAAAAJ8g/A3bYkrKjqi09DknAXLGchXNkyH-SmMmSACLcBGAsYHQ/Mais%2BGlobosat.png"
+                  },
+                  {
+                      "name": "DISCOVERY H&H",
+                      "uri": "http://zoomplay.online/Teleplay335780/805377639/113223",
+                      "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1200px-Discovery_Home_%26_Health_logo.svg.png"
+                  },
+                  {
+                      "name": "ANIMAL PLANET",
+                      "uri": "http://zoomplay.online/Teleplay335780/805377639/17580",
+                      "icono": "https://i.ibb.co/whMfdkB/831-8310067-bindi-the-otters-new-animal-planet-logo.jpg"
+                  },
+                  {
+                      "name": "NATIONAL GEOGRAPHICS",
+                      "uri": "http://zoomplay.online/Teleplay335780/805377639/113178",
+                      "icono": "https://www.nicepng.com/png/detail/82-828723_logo-national-geographic-adventure.png"
+                  },
+                  {
+                      "name": "CNN 4K",
+                      "uri": "http://zoomplay.online/Teleplay335780/805377639/113207",
+                      "icono": "https://imgur.com/mQpuTGf.jpeg"
+                  },
+                  {
+                      "name": "NAT GEO WILD",
+                      "uri": "http://zoomplay.online/Teleplay335780/805377639/113178",
+                      "icono": "https://imgur.com/354OaL2.jpeg"
+                  },
+                  {
+                      "name": "GLOOBINHO HD",
+                      "uri": "http://zoomplay.online/Teleplay335780/805377639/113210",
+                      "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Gloobinho_logo.svg/1200px-Gloobinho_logo.svg.png"
+                  },
+                  {
+                      "name": "DISCOVERY KIDS",
+                      "uri": "http://zoomplay.online/Teleplay335780/805377639/113215",
+                      "icono": "https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png"
+                  },
+                  {
+                      "name": "CARTOONITO FHD",
+                      "uri": "http://zoomplay.online/Teleplay335780/805377639/18252",
+                      "icono": "https://s2.glbimg.com/9BNgLXbdgDtR2_tBYTnkJoibfjo=/e.glbimg.com/og/ed/f/original/2021/11/30/cartoonito.jpg"
+                  },
+                  {
+                      "name": "REDE SUPER",
+                      "uri": "http://zoomplay.online/Teleplay335780/805377639/454346",
+                      "icono": "https://cdn.mitvstatic.com/channels/br_rede-super-hd_m.png"
+                  },
+                  {
+                      "name": "REDE GOSPEL",
+                      "uri": "http://zoomplay.online/Teleplay335780/805377639/113236",
+                      "icono": "https://upload.wikimedia.org/wikipedia/pt/b/ba/LGT_Rede_Gospel.png"
+                  },
+                   {
                       "name": "FUTURA FHD",
-                      "uri": "http://zoomplay.online/Teleplay2025/Cplus335780/1783968",
+                      "uri": "http://zoomplay.online/Teleplay335780/805377639/1783968",
                       "icono": "https://d3un0zjblgkxzb.cloudfront.net/drupal/public/styles/imagem_paragraph_foto/public/media/image/2022-07/Futura%20logo%20nova.jpg.jpeg?VersionId=8Mgo6315Gr_OKG6rgM9zsEZFQxpX_MfW&itok=p8tcAFep"
                   },
                   {
                       "name": "TV CULTURA FHD",
-                      "uri": "http://zoomplay.online/Teleplay2025/Cplus335780/1783961",
+                      "uri": "http://zoomplay.online/Teleplay335780/805377639/1783961",
                       "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/200px-Cultura_logo_2013.svg.png"
                   },
                   {
                       "name": "DESENHOS BÍBLICOS",
-                      "uri": "http://zoomplay.online/Teleplay2025/Cplus335780/1784102",
+                      "uri": "http://zoomplay.online/Teleplay335780/805377639/1784102",
                       "icono": "https://png.pngtree.com/png-vector/20231017/ourlarge/pngtree-cartoon-bible-character-andrew-png-image_10201475.png"
                   },
                   {
                       "name": "GALINHA PINTADINHA",
-                      "uri": "http://zoomplay.online/Teleplay2025/Cplus335780/1786437",
+                      "uri": "http://zoomplay.online/Teleplay335780/805377639/1786437",
                       "icono": "https://upload.wikimedia.org/wikipedia/pt/e/e7/Galinha_Pintadinha.png"
                   },
                   {
                       "name": "PICA-PAU",
-                      "uri": "http://zoomplay.online/Teleplay2025/Cplus335780/1786476",
+                      "uri": "http://zoomplay.online/Teleplay335780/805377639/1786476",
                       "icono": "https://www.pinclipart.com/picdir/big/450-4501796_pica-pau-render-by-mastria-desenho-pica-pau.png"
                   },
                   {
                       "name": "MTV FHD",
-                      "uri": "http://zoomplay.online/Teleplay2025/Cplus335780/17801",
+                      "uri": "http://zoomplay.online/Teleplay335780/805377639/17801",
                       "icono": "https://seeklogo.com/images/M/mtv-hd-logo-0CFFA28044-seeklogo.com.png"
                   },
                   {
                       "name": "RECORD TV",
-                      "uri": "http://zoomplay.online/Teleplay2025/Cplus335780/1108526",
+                      "uri": "http://zoomplay.online/Teleplay335780/805377639/1108526",
                       "icono": "https://brazil.mom-gmr.org/typo3temp/_processed_/a/4/csm_7013-1071_import_63c9374854.png"
                   },
                   {
                       "name": "RECORD NEWS",
-                      "uri": "http://zoomplay.online/Teleplay2025/Cplus335780/1108534",
+                      "uri": "http://zoomplay.online/Teleplay335780/805377639/1108534",
                       "icono": "https://brazil.mom-gmr.org/typo3temp/_processed_/a/4/csm_7013-1071_import_63c9374854.png"
                   },
                   {
