@@ -108,7 +108,7 @@
                       "uri": "https://multiextrem.live:8443/live/TeleplayApp2025/24SiNoaquIyallA/786957.m3u8",
                       "icono": "https://i.ibb.co/YhLFdC5/562158.webp"
                   },
-		      		      {
+		   {
                       "name": "STAR+ 3",
                       "uri": "http://zoomplay.online/live/Teleplay335780/805377639/922616.m3u8",
                       "icono": "https://i.ibb.co/YhLFdC5/562158.webp"
@@ -121,7 +121,6 @@
                    
               ]
           },
-
 {
               "name": "⚽DIRECTV SPORTS",
               "samples": [
@@ -150,7 +149,6 @@
                       "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/525790.m3u8",
                       "icono": "https://i.ibb.co/3rCx43n/512x512bb.jpg"
                   }
-
 
               ]
           },
