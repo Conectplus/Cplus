@@ -1,6 +1,6 @@
 [
   {
-              "name": "EVENTOS TELEPLAY",
+              "name": "⚽EVENTOS TELEPLAY",
               "samples": [
                   {
                       "name": "INGLATERRA VS BRASIL",
@@ -23,7 +23,49 @@
                       "name": "AMISTOSOS DE URUGUAY",
                       "uri": "https://livelive.thedonato.live/live/33_amg1.m3u8",
                       "icono": "https://seeklogo.com/images/A/asociacion-uruguaya-de-futbol-logo-8AE2DF5DB7-seeklogo.com.png"
+                  },
+{
+                      "name": "🇺🇸MLS",
+                      "uri": "http://restreamus.com:8080/chi2022f/pa7f2qnDfvpr/234840",
+                      "icono": "https://i.ibb.co/VML9cBZ/MLS-crest-logo-RGB-Inter-Miami-CF-svg.png"
+                  },
+
+                  {
+                      "name": "🇵🇾FÚTBOL PARAGUAY",
+                      "uri": "https://pablipintos.top/m3u8/top1.m3u8",
+                      "icono": "https://i.ibb.co/ChDHzh5/Copa-de-Primera.png"
+                  },
+{
+                      "name": "🇵🇾FÚTBOL PARAGUAY 2",
+                      "uri": "https://media-gateway-cache.nuum.ru/live/142833/index.m3u8",
+                      "icono": "https://i.ibb.co/ChDHzh5/Copa-de-Primera.png"
+                  },
+		      {
+                      "name": "🇦🇪LIGA ARABE - RSL",
+                      "uri": "http://conectplus.com.ar:25461/Locky2025/5vXumE3bkmbU/52252",
+                      "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Saudi_Pro_League_Logo.svg/640px-Saudi_Pro_League_Logo.svg.png"
+                  },
+{
+                      "name": "🏎️FORMULA 1",
+                      "uri": "https://multiextrem.live:8443/live/TeleplayApp2025/24SiNoaquIyallA/437300.m3u8",
+                      "icono": "https://logos-world.net/wp-content/uploads/2023/12/F1-Logo.png"
+                  },
+{
+                      "name": "EVENTOS LIGA PERÚ",
+                      "uri": "https://multiextrem.live:8443/live/TeleplayApp2025/24SiNoaquIyallA/786957.m3u8",
+                      "icono": "https://cuarteldelmetal.com/wp-content/uploads/2023/05/Imagen-de-un-partido-de-futbol-de-la-Liga-1-MAX.jpeg"
+                  },
+ {
+                      "name": "STAR+ 1",
+                      "uri": "http://zoomplay.online/live/Teleplay335780/805377639/922614.m3u8",
+                      "icono": "https://i.ibb.co/YhLFdC5/562158.webp"
+                  },
+{
+                      "name": "STAR+ 2",
+                      "uri": "https://multiextrem.live:8443/live/TeleplayApp2025/24SiNoaquIyallA/786957.m3u8",
+                      "icono": "https://i.ibb.co/YhLFdC5/562158.webp"
                   }
+
               ]
           },
 	 {
