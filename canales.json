@@ -12,7 +12,14 @@
 	{
               "name": "⚽EVENTOS TELEPLAY",
               "samples": [
-                  {
+                 {
+        "name": "BOCA JRS VS CENTRAL NORTE",
+        "uri": "https://chromecast.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2b21c8fa9a329cce311a4c4a4aa996a1&key=cc23ea1fb32629f9e1f48c8deeae3e5b",
+        "icono": "https://i.ibb.co/frWtx5b/65t73z1563098226.png"
+      },
+ {
                       "name": "⚽AMISTOSOS DE ARGENTINA",
                       "uri": "https://chromecast.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
                       "drm_scheme": "clearkey",
@@ -24,27 +31,33 @@
                       "uri": "https://multiextrem.live:8443/live/TeleplayApp2025/24SiNoaquIyallA/556685.m3u8",
                       "icono": "https://i.ibb.co/hfF9ppX/football-international-friendly-2024.webp"
                   },
+
  {
-        "name": "TV PUBLICA",
+        "name": "SELECCIÓN ARGENTINA",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc/Canal7.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cc8c82ac2ec7e9799527c29db7354e81&key=cc4aae173dd2ef17ae26be3f7ae87662",
         "icono": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fid%2F37133279"
       },
       {
-        "name": "TYC SPORT",
+        "name": "SELECCIÓN ARGENTINA",
         "uri": "https://chromecast.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2b21c8fa9a329cce311a4c4a4aa996a1&key=cc23ea1fb32629f9e1f48c8deeae3e5b",
         "icono": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fid%2F37133279"
       },
 {
-                      "name": "RIVER VS IND. RIVADAVIA",
+                      "name": "INGLATERRA VS BRASIL",
                       "uri": "http://zoomplay.online/live/Teleplay2025/Cplus335780/922614.m3u8",
-                      "icono": "https://seeklogo.com/images/R/River_Plate_escudo-logo-EE400D17CA-seeklogo.com.png"
+                      "icono": "https://de1.sportal365images.com/process/smp-bet365-images/news.bet365.es-es/20032024/c96f5cfe-8f94-4b59-a2d9-f960e1feef2b.jpg"
                   },
 {
-                      "name": "RIVER VS IND. RIVADAVIA",
+                      "name": "INGLATERRA VS BRASIL",
+                      "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/709619.m3u8",
+                      "icono": "https://de1.sportal365images.com/process/smp-bet365-images/news.bet365.es-es/20032024/c96f5cfe-8f94-4b59-a2d9-f960e1feef2b.jpg"
+                  },
+{
+                      "name": "BOCA JRS VS CENTRAL NORTE",
                       "uri": "http://zoomplay.online/live/Teleplay2025/Cplus335780/922614.m3u8",
                       "icono": "https://seeklogo.com/images/R/River_Plate_escudo-logo-EE400D17CA-seeklogo.com.png"
                   },
@@ -80,31 +93,56 @@
                       "uri": "https://multiextrem.live:8443/live/TeleplayApp2025/24SiNoaquIyallA/786957.m3u8",
                       "icono": "https://cuarteldelmetal.com/wp-content/uploads/2023/05/Imagen-de-un-partido-de-futbol-de-la-Liga-1-MAX.jpeg"
                   }
+		      {
+                      "name": "STAR+ 1",
+                      "uri": "http://zoomplay.online/live/Teleplay335780/805377639/922614.m3u8",
+                      "icono": "https://i.ibb.co/YhLFdC5/562158.webp"
+                  },
+{
+                      "name": "STAR+ 2",
+                      "uri": "https://multiextrem.live:8443/live/TeleplayApp2025/24SiNoaquIyallA/786957.m3u8",
+                      "icono": "https://i.ibb.co/YhLFdC5/562158.webp"
+                  },
+		      		      {
+                      "name": "STAR+ 3",
+                      "uri": "http://zoomplay.online/live/Teleplay335780/805377639/922616.m3u8",
+                      "icono": "https://i.ibb.co/YhLFdC5/562158.webp"
+                  },
+{
+                      "name": "STAR+ 4",
+                      "uri": "http://zoomplay.online/live/Teleplay335780/805377639/922617.m3u8",
+                      "icono": "https://i.ibb.co/YhLFdC5/562158.webp"
+                  }
                    
-
               ]
           },
+
 {
               "name": "⚽DIRECTV SPORTS",
               "samples": [
                   {
                       "name": "DSPORTS 1",
-                      "uri": "https://multiextrem.live:8443/live/TeleplayApp2025/24SiNoaquIyallA/525790.m3u8",
+                      "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/525777.m3u8",
                       "icono": "https://i.ibb.co/3rCx43n/512x512bb.jpg"
                   },
 {
                       "name": "DSPORTS 2",
-                      "uri": "https://multiextrem.live:8443/live/TeleplayApp2025/24SiNoaquIyallA/525784.m3u8",
+                      "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/556674.m3u8",
                       "icono": "https://i.ibb.co/3rCx43n/512x512bb.jpg"
                   },
 {
                       "name": "DSPORTS 3",
-                      "uri": "https://multiextrem.live:8443/live/TeleplayApp2025/24SiNoaquIyallA/525783.m3u8",
+                      "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/525787.m3u8",
+                      "icono": "https://i.ibb.co/3rCx43n/512x512bb.jpg"
+                  },
+{
+                      "name": "DSPORTS UY",
+                      "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/525783.m3u8",
                       "icono": "https://i.ibb.co/3rCx43n/512x512bb.jpg"
                   },
 {
                       "name": "DSPORTS PLUS",
-                      "uri": "https://multiextrem.live:8443/live/TeleplayApp2025/24SiNoaquIyallA/525782.m3u8",
+                      "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/525790.m3u8",
                       "icono": "https://i.ibb.co/3rCx43n/512x512bb.jpg"
                   }
 
