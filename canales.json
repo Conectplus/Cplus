@@ -12,10 +12,12 @@
                       "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/709619.m3u8",
                       "icono": "https://de1.sportal365images.com/process/smp-bet365-images/news.bet365.es-es/20032024/c96f5cfe-8f94-4b59-a2d9-f960e1feef2b.jpg"
                   },
-{
+     {
                       "name": "BOCA JRS VS CENTRAL NORTE",
-                      "uri": "http://zoomplay.online/live/Teleplay2025/Cplus335780/922614.m3u8",
-                      "icono": "https://seeklogo.com/images/R/River_Plate_escudo-logo-EE400D17CA-seeklogo.com.png"
+                      "uri": "https://chromecast.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
+                      "drm_scheme": "clearkey",
+                      "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2b21c8fa9a329cce311a4c4a4aa996a1&key=cc23ea1fb32629f9e1f48c8deeae3e5b",
+                      "icono": "https://i.ibb.co/frWtx5b/65t73z1563098226.png"
                   },
 		      {
                       "name": "AMISTOSOS DE URUGUAY",
