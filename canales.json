@@ -2735,54 +2735,54 @@
         "icono": "https://www.sport890.com.uy/wp-content/uploads/2021/12/logo-sport-header-e1640625190298.png"
       },
 {
-        "name": "GOL TV",
-        "uri": "https://zonamovie.live/live/TeleplayApp2025/24SiNoaquIyallA/786996.m3u8",
-        "icono": "https://i.ibb.co/7Nrs3zh/Gol-TVLatam-HD-2014.webp"
-      },
-{
-        "name": "GOL TV 2",
-        "uri": "https://zonamovie.live/live/TeleplayApp2025/24SiNoaquIyallA/786996.m3u8",
-        "icono": "https://i.ibb.co/7Nrs3zh/Gol-TVLatam-HD-2014.webp"
-      },
-{
                       "name": "DSPORTS URUGUAY",
                       "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/525783.m3u8",
                       "icono": "https://i.ibb.co/3rCx43n/512x512bb.jpg"
                   },
- {
+{
                 "name": "01 | VTV PLUS",
-                "uri": "https://multiextrem.live:8443/live/TeleplayApp2025/24SiNoaquIyallA/529493.m3u8",
+                "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/529492.m3u8",
                 "icono": "https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png"
             },
 {
                       "name": "02 |VTV PLUS",
-                      "uri": "https://multiextrem.live:8443/live/TeleplayApp2025/24SiNoaquIyallA/529492.m3u8",
+                      "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/529493.m3u8",
                       "icono": "https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png"
                   },
 {
                       "name": "03|VTV PLUS",
-                      "uri": "https://zonamovie.live:443/play/viSlkg8uRdtJEPIWS_668QgBXr6_saFBTCwqYEIMGOSrldUs3GenG-dSqq7qJu11/ts",
+                      "uri": "http://38.68.134.177:8080/3848Yevkerkkk/Menrhrh73646aeatT/52836",
                       "icono": "https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png"
                   },
                  
 		 {
                 "name": "04|VTV PLUS",
-                "uri": "https://zonamovie.live:443/play/viSlkg8uRdtJEPIWS_668QgBXr6_saFBTCwqYEIMGOReKR2fU90PzRykfRw7WSb0/ts",
+                "uri": "http://38.68.134.177:8080/3848Yevkerkkk/Menrhrh73646aeatT/52835",
                 "icono": "https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png"
             },
 			{
                 "name": "05| VTV PLUS",
-                "uri": "http://dnslivetv.online:80/TVplay25/WUXrYhAsgb/591496",
+                "uri": "hhttp://zoomplay.online/live/Teleplay335780/805377639/1583856.m3u8",
                 "icono": "https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png"
               },
 		{
                 "name": "06| VTV PLUS",
-                "uri": "http://dnslivetv.online/live/TVplay25/WUXrYhAsgb/591496.M3U8",
+                "uri": "http://zoomplay.online/live/Teleplay335780/805377639/1583856.m3u8",
                 "icono": "https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png"
               } ,
 {
         "name": "07| VTV PLUS",
         "uri": "http://restreamus.com:8080/chi2022f/pa7f2qnDfvpr/27871",
+        "icono": "https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png"
+      },
+{
+        "name": "08| VTV PLUS",
+        "uri": "http://dnslivetv.online/TVplay25898/WUXrYhAsgb/591497",
+        "icono": "https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png"
+      },
+{
+        "name": "09| VTV PLUS",
+        "uri": "http://dnslivetv.online/TVplay980/NYEnXqw37E/591496",
         "icono": "https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png"
       }
             ]
