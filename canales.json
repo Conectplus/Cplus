@@ -496,7 +496,7 @@
     ]
   },
 	  {
-              "name": "🇦🇷CANALES DE ARGENTINA ",
+              "name": "🇦🇷ARGENTINA ",
               "samples": [
                  {
         "name": "TELEFE",
@@ -835,7 +835,7 @@
           },
 
  {
-  "name": "🇦🇷CANALES DE PROVINCIAS",
+  "name": "🇦🇷PROVINCIAS",
   "samples": [
             {
         "name": "TELEFE ROSARIO",
@@ -1172,7 +1172,7 @@
     ]
   },
  {
-    "name": "👠CANALES DE NOVELAS",
+    "name": "👠NOVELAS",
     "samples": [
       {
         "name": "TLN",
@@ -1239,7 +1239,7 @@
   },
     
    {
-    "name": "🎥CANALES DE PELICULAS Y SERIES",
+    "name": "🎞️PELICULAS Y SERIES",
     "samples": [      
       {
         "name": "GOLDEN",
@@ -1771,7 +1771,7 @@
   },
 	
  {
-    "name": "🎥PACK-HBO",
+    "name": "PACK-HBO",
     "samples": [
  {
         "name": "HBO FLOW",
@@ -1839,7 +1839,7 @@
     ]
   },
 {
-        "name": "🎥PACK UNIVERSAL Y MOVISTAR",
+        "name": "PACK UNIVERSAL Y MOVISTAR",
         "samples": [
 
  {
@@ -2042,7 +2042,7 @@
   },
 
  {
-    "name": "🎵CANALES DE MUSICAS Y RADIOS",
+    "name": "🎵MUSICAS Y RADIOS",
     "samples": [
       {
         "name": "MTV HITS",
@@ -2104,7 +2104,7 @@
     ]
   },
  {
-    "name": "🇵🇾CANALES DE PARAGUAY",
+    "name": "🇵🇾PARAGUAY",
     "samples": [
      
                   {
@@ -2666,7 +2666,7 @@
   },
   {
 
-  "name": "🇺🇾 CANALES DE URUGUAY",
+  "name": "🇺🇾URUGUAY",
   "samples": [
       {
         "name": "CANAL 4",
@@ -2889,7 +2889,7 @@
     ]
   },
 	 {
-    "name": "🇸🇦CANALES DE ARABIA SAUDITA",
+    "name": "🇸🇦ARABIA SAUDITA",
    "samples": [
       {
         "name": "BBC NEWS ARABIC",
@@ -2996,7 +2996,7 @@
   },
 
 	 {
-    "name": "🇮🇳CANALES INDU",
+    "name": "🇮🇳INDU",
     "samples": [
       {
         "name": "ZEE NEWS",
@@ -3089,7 +3089,7 @@
   },
 
 	 {
-    "name": "🇨🇳CANALES DE CHINA",
+    "name": "🇨🇳CHINA",
     "samples": [
       {
         "name": "CHINESE HOPE",
