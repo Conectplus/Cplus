@@ -645,36 +645,7 @@
       }
               ]
           },
-{
-              "name": "⚽DIRECTV SPORTS",
-              "samples": [
-                  {
-                      "name": "DSPORTS 1",
-                      "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/525777.m3u8",
-                      "icono": "https://i.ibb.co/3rCx43n/512x512bb.jpg"
-                  },
-{
-                      "name": "DSPORTS 2",
-                      "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/556674.m3u8",
-                      "icono": "https://i.ibb.co/3rCx43n/512x512bb.jpg"
-                  },
-{
-                      "name": "DSPORTS 3",
-                      "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/525787.m3u8",
-                      "icono": "https://i.ibb.co/3rCx43n/512x512bb.jpg"
-                  },
-{
-                      "name": "DSPORTS URUGUAY",
-                      "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/525783.m3u8",
-                      "icono": "https://i.ibb.co/3rCx43n/512x512bb.jpg"
-                  },
-{
-                      "name": "DSPORTS PLUS",
-                      "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/525790.m3u8",
-                      "icono": "https://i.ibb.co/3rCx43n/512x512bb.jpg"
-                  }
-              ]
-          },
+
            {
               "name": "🇦🇷GRAN HERMANO",
               "samples": [
