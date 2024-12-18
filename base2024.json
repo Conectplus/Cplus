@@ -198,9 +198,9 @@
     "samples": [
       {
         "name": "TELEFE",
-        "uri": "http://edge-live16-sl.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_2A/TelefeHD.mpd",
+        "uri": "https://cdn.sensa.com.ar/live/eds/Telefe/live_dash_cld/Telefe.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3cec1b1ea9799dda5596e64f37e5ed20&key=c69f3afde2085dcaaaddbf55246a0323",
+        "drm_license_uri": "https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2",
         "icono": "https://www.vhv.rs/dpng/d/605-6050402_telefe-canal-11-de-salta-hd-png-download.png"
       },
       {
