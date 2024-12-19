@@ -16,9 +16,9 @@
               "samples": [
  {
                       "name": "COPA PRUEBA SEMSA",
-                      "uri": "https://cdn.sensa.com.ar/live/eds/TVPublica/live_dash_cld/TVPublica.mpd",
+                      "uri": "https://cdn.sensa.com.ar/output/ARR3/sensaeventosD/output.mpd",
                       "drm_scheme": "clearkey",
-                      "drm_license_uri": "https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2",
+                      "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0ae7b0708be4edf3453c1ab9d6976974&key=8b31a9788f6dc12640ba69560fcb4b39",
                       "icono": "https://i.ibb.co/xs8BH59/Copa-Argentina-actual.png"
                   },
 
