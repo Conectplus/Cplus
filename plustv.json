@@ -15,10 +15,10 @@
               "name": "✅EVENTOS TELEPLAY📅",
               "samples": [
  {
-                      "name": "COPA ARGENTINA",
-                      "uri": "https://chromecast.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
+                      "name": "COPA PRUEBA SEMSA",
+                      "uri": "https://cdn.sensa.com.ar/live/eds/TVPublica/live_dash_cld/TVPublica.mpd",
                       "drm_scheme": "clearkey",
-                      "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2b21c8fa9a329cce311a4c4a4aa996a1&key=cc23ea1fb32629f9e1f48c8deeae3e5b",
+                      "drm_license_uri": "https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2",
                       "icono": "https://i.ibb.co/xs8BH59/Copa-Argentina-actual.png"
                   },
 
