@@ -2,7 +2,7 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/3/38/CN_%28Blue_Shadow%29.png/revision/latest?cb=20110501081721" group-title="👩‍👦‍👦 INFANTILES", 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/3/38/CN_%28Blue_Shadow%29.png/revision/latest?cb=20110501081721" group-title="👩‍👦‍👦 INFANTILES", Carton Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d7df56efaa36a71141d238854cc46d1d:8abb2ee9150d8b2af8ebec0de0f833c8
 #KODIPROP: tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/3/38/CN_%28Blue_Shadow%29.png/revision/latest?cb=20110501081721"
@@ -22,27 +22,3 @@ https://cdn.sensa.com.ar/live/eds/America/live_dash_cld/America.mpd
 https://cdn.sensa.com.ar/live/eds/America/live_dash_cld/America.mpd
 
 
-#EXTINF: -1 tvg-id="OLY1" tvg-name="Olympic 1" tvg-logo="https://i.postimg.cc/brMKxJBY/images.png" group-title="Olympic Game", Olympic 1
-https://m3u-editor.com/serve/lahsiapa/347944849
-#EXTINF: -1 tvg-name="Olympic 2" tvg-logo="https://i.postimg.cc/brMKxJBY/images.png" group-title="Olympic Game", Olympic 2
-https://m3u-editor.com/serve/lahsiapa/347944850
-#EXTINF: -1 tvg-name="Olympic 3" tvg-logo="https://i.postimg.cc/brMKxJBY/images.png" group-title="Olympic Game", Olympic 3
-https://m3u-editor.com/serve/lahsiapa/347944851
-#EXTINF: -1 tvg-id="OLY4" tvg-name="Olympic 4" tvg-logo="https://i.postimg.cc/brMKxJBY/images.png" group-title="Olympic Game", Olympic 4
-https://m3u-editor.com/serve/lahsiapa/347944852
-#EXTINF: -1 tvg-id="OLY5" tvg-name="Olympic 5" tvg-logo="https://i.postimg.cc/brMKxJBY/images.png" group-title="Olympic Game", Olympic 5
-https://m3u-editor.com/serve/lahsiapa/347944853
-#EXTINF: -1 tvg-id="OLY6" tvg-name="Olympic 6" tvg-logo="https://i.postimg.cc/brMKxJBY/images.png" group-title="Olympic Game", Olympic 6
-https://m3u-editor.com/serve/lahsiapa/347944854
-#EXTINF: -1 tvg-id="OLY7" tvg-name="Olympic 7" tvg-logo="https://i.postimg.cc/brMKxJBY/images.png" group-title="Olympic Game", Olympic 7
-https://m3u-editor.com/serve/lahsiapa/347944855
-#EXTINF: -1 tvg-id="OLY9" tvg-name="Olympic 8" tvg-logo="https://i.postimg.cc/brMKxJBY/images.png" group-title="Olympic Game", Olympic 8
-https://m3u-editor.com/serve/lahsiapa/347944856
-#EXTINF: -1 tvg-id="OLY9" tvg-name="Olympic 9" tvg-logo="https://i.postimg.cc/brMKxJBY/images.png" group-title="Olympic Game", Olympic 9
-https://m3u-editor.com/serve/lahsiapa/347944857
-#EXTINF: -1 tvg-id="OLY10" tvg-name="Olympic 10" tvg-logo="https://i.postimg.cc/brMKxJBY/images.png" group-title="Olympic Game", Olympic 10
-https://m3u-editor.com/serve/lahsiapa/347944858
-#EXTINF: -1 tvg-id="OLY11" tvg-name="Olympic 11" tvg-logo="https://i.postimg.cc/brMKxJBY/images.png" group-title="Olympic Game", Olympic 11
-https://m3u-editor.com/serve/lahsiapa/347944859
-#EXTINF: -1 tvg-id="OLY12" tvg-name="Olympic 12" tvg-logo="https://i.postimg.cc/brMKxJBY/images.png" group-title="Olympic Game", Olympic 12
-https://m3u-editor.com/serve/lahsiapa/347944860
