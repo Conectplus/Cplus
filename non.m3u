@@ -14,7 +14,7 @@ https://cdn.sensa.com.ar/live/eds/Canal13/live_dash_cld/Canal13.mpd
 #EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/58/CH_LOGO/160/160/0/0/47205269072808.png" 
 https://cdn.sensa.com.ar/live/eds/Canal9/live_dash_cld/Canal9.mpd
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/3/38/CN_%28Blue_Shadow%29.png/revision/latest?cb=20110501081721" group-title="👩‍👦‍👦 INFANTILES", CartoonNetwork
+#EXTINF:-1 group-title="👩‍👦‍👦 INFANTILES" tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/3/38/CN_%28Blue_Shadow%29.png/revision/latest?cb=20110501081721" group-title="👩‍👦‍👦 INFANTILES", CartoonNetwork
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d7df56efaa36a71141d238854cc46d1d:8abb2ee9150d8b2af8ebec0de0f833c8
 https://cdn.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_Live_dash_enc_wl/CartoonNetwork.mpd
@@ -33,107 +33,3 @@ https://cdn.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_Live_dash_enc/PAKA_PAKA.mpd
 #EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/54/CH_LOGO/160/160/0/0/47462716073248.png" group-title="...SENSA", tvg-logo="https://geo.edge.pontiscloud.com:9002/images/54/CH_LOGO/160/160/0/0/47462716073248.png", #️⃣  AMERICA 
 https://cdn.sensa.com.ar/live/eds/America/live_dash_cld/America.mpd
 
-
-
-[
-  {
-              "name": "⚠️¡ESTAMOS TRABAJANDO PARA MEJOR SERVIRLES!⚠️",
-              "samples": [
- 
-   {
-                      "name": "Dᴇᴘᴏʀᴛᴇs | CALENDARIO DE PARTIDOS: Fᴜ́ᴛʙᴏʟ ᴴᴰ",
-                      "uri": "http://zoomplay.online/live/user335780/Pass499316337/1643917.m3u8",
-                      "icono": "https://imagens.ne10.uol.com.br/legado/blogsne10/torcedor/uploads/2019/09/JC-ESP0911_JOGOSDODIA.jpg"
-                  }
- 
-              ]
-          },
- {
-              "name": "✅EVENTOS TELEPLAY📅",
-              "samples": [
- {
-                      "name": "COPA PRUEBA SEMSA",
-                      "uri": "http://cdn.sensa.com.ar/live/sta01/CineHispano/live_dash_cld/CineHispano.mpd",
-                      "drm_scheme": "clearkey",
-                      "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c3cb7320815d01cb41fdb0e9d5bd2915&key=7c89266b0cc60fa3419474fc96c18927",
-                      "icono": "https://i.ibb.co/xs8BH59/Copa-Argentina-actual.png"
-                  },
-
- {
-        "name": "COPA ARGENTINA",
-        "uri": "https://chromecast.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2b21c8fa9a329cce311a4c4a4aa996a1&key=cc23ea1fb32629f9e1f48c8deeae3e5b",
-        "icono": "https://i.ibb.co/xs8BH59/Copa-Argentina-actual.png"
-      },
-     {
-        "name": "COPA ARGENTINA",
-        "uri": "https://chromecast.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2b21c8fa9a329cce311a4c4a4aa996a1&key=cc23ea1fb32629f9e1f48c8deeae3e5b",
-		"icono": "https://i.ibb.co/xs8BH59/Copa-Argentina-actual.png"
-      },
- {
-                      "name": "COPA ARGENTINA",
-                      "uri": "https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8",
-                      "icono": "https://i.ibb.co/xs8BH59/Copa-Argentina-actual.png"
-                  },
-		{
-                      "name": "🇺🇸MLS",
-                      "uri": "https://multiextrem.live:8443/Usuario85338099/Pass8d9989345/544815",
-                      "icono": "https://i.ibb.co/VML9cBZ/MLS-crest-logo-RGB-Inter-Miami-CF-svg.png"
-                  },
- 
-                  {
-                      "name": "🇵🇾FÚTBOL PARAGUAY",
-                      "uri": "https://live-ak2.vimeocdn.com/e6a966b4-18e9-458e-9337-c99535510291/hdntl=exp=1713045336~acl=%2f*~data=hdntl~hmac=fe21b1c7f1096f2fb7bf28175bd29546c7945bd2e7dfb6ee8e6a7074af65196e/chunklist_b6256000.m3u8",
-                      "icono": "https://i.ibb.co/ChDHzh5/Copa-de-Primera.png"
-                  },
-{
-                      "name": "🇵🇾FÚTBOL PARAGUAY 3",
-                      "uri": "http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/3753",
-                      "icono": "https://i.ibb.co/ChDHzh5/Copa-de-Primera.png"
-                  },
-		      {
-                      "name": "🇦🇪LIGA ARABE - RSL",
-                      "uri": "http://1line.ttvrilieos.xyz:8080/JoseWeib-TV/5wjQDud0Ta/4349",
-                      "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Saudi_Pro_League_Logo.svg/640px-Saudi_Pro_League_Logo.svg.png"
-                  },
-    {
-                      "name": "🇦🇪LIGA ARABE - RSL",
-                      "uri": "http://1line.ttvrilieos.xyz:8080/JoseWeib-TV/5wjQDud0Ta/4356",
-                      "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Saudi_Pro_League_Logo.svg/640px-Saudi_Pro_League_Logo.svg.png"
-                  },
-{
-                      "name": "🏎️FORMULA 1",
-                      "uri": "https://multiextrem.live:8443/Usuario85338099/Pass8d9989345/437299",
-                      "icono": "https://logos-world.net/wp-content/uploads/2023/12/F1-Logo.png"
-                  },
-{
-                      "name": "EVENTOS LIGA PERÚ",
-                      "uri": "https://multiextrem.live:8443/Usuario85338099/Pass8d9989345/531758",
-                      "icono": "https://cuarteldelmetal.com/wp-content/uploads/2023/05/Imagen-de-un-partido-de-futbol-de-la-Liga-1-MAX.jpeg"
-                  },
-		      {
-                      "name": "HBO MAX BRASIL",
-                      "uri": "http://zoomplay.online/live/Teleplay335780/805377639/922583.m3u8",
-                      "icono": "https://hbomax-images.warnermediacdn.com/2020-05/square%20social%20logo%20400%20x%20400_0.png"
-                  },
-      {
-                      "name": "HBO MAX BRASIL 2",
-                      "uri": "http://zoomplay.online/live/Teleplay335780/805377639/922584.m3u8",
-                      "icono": "https://hbomax-images.warnermediacdn.com/2020-05/square%20social%20logo%20400%20x%20400_0.png"
-                  },
- 
- {
-                      "name": "UFC FIGHT",
-                      "uri": "http://zoomplay.online/live/user335780/Pass499316337/1583702.m3u8",
-                      "icono": "https://larepublica.cronosmedia.glr.pe/taxonomy/tag/image/2023/02/17/8bj2187j28-ufc.jpg"
-                  },
- {
-                      "name": "LIGA URUGUAY",
-                      "uri": "http://budtvlight.com:25461/live/jaime/3DbdkaKhwZEd/1830.m3u8",
-                      "icono": "https://i.ibb.co/T43ZBhL/Logo-Campeonato-Uruguayo-Tercera-Divisi-n-cropped.png"
-                  }
- 
-              ]
