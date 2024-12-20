@@ -1,5 +1,7 @@
 
-#KODIPROP: tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/3/38/CN_%28Blue_Shadow%29.png/revision/latest?cb=20110501081721" group-title="👩‍👦‍👦 INFANTILES", CARTON NETWORK
+#KODIPROP: tvg-logo="<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="100" height="100" viewBox="0 0 48 48">
+<polygon fill="#e53935" points="20.029,33 20.486,29 40.486,29 41.514,20 9.514,20 7,42 39,42 40.029,33"></polygon><polygon fill="#e53935" points="43,7 11,7 9.971,16 41.971,16"></polygon>
+</svg>" group-title="👩‍👦‍👦 INFANTILES", CARTON NETWORK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d7df56efaa36a71141d238854cc46d1d:8abb2ee9150d8b2af8ebec0de0f833c8
 https://cdn.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_Live_dash_enc_wl/CartoonNetwork.mpd
