@@ -20,7 +20,7 @@ https://cdn.sensa.com.ar/live/eds/America/live_dash_cld/America.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-0  #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/54/CH_LOGO/160/160/0/0/47462716073248.png" 
 #KODIPROP:inputstream.adaptive.license_key=f362097815892a4b83950f1d106ff0b2:4349e42e81c31a8389f4a42fcd298928
-#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/270/CH_LOGO/60/40/0/0/81432910072195.png" group-title="... FLOW"  ,⚽ DeporTV
+#EXTINF:-1 group-title="... FLOW"  tvg-logo="https://static.flow.com.ar/images/270/CH_LOGO/60/40/0/0/81432910072195.png",⚽ DeporTV
 https://chromecast.cvattv.com.ar/live/c3eds/DeporTVHD/SA_Live_dash_enc/DeporTVHD.mpd, #EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/54/CH_LOGO/160/160/0/0/47462716073248.png"
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
