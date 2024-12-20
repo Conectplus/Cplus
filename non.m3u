@@ -1,34 +1,116 @@
+ {
+              "name": "⚽SUPERLIGA Y COPA ARGENTINA 🇦🇷",
+              "samples": [
+                  {
+                      "name": "ESPN PREMIUM RESPALDO",
+                      "uri": "https://multiextrem.live:8443/Usuario0909884/Pass8d99835/556678",
+                      "icono": "https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png"
+                  },
+    {
+                      "name": "ESPN PREMIUM RESPALDO 2",
+                      "uri": "http://budtvlight.com:25461/live/jaime/3DbdkaKhwZEd/158832.m3u8",
+                      "icono": "https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png"
+                  },
+ {
+                      "name": "ESPN PREMIUM RESPALDO 3",
+                      "uri": "http://budtvlight.com:25461/live/jaime/3DbdkaKhwZEd/1652.m3u8",
+                      "icono": "https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png"
+                  },
+      {
+        "name": "ESPN PREMIUM FHD",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257",
+        "icono": "https://i.ibb.co/LrNsJsP/espnpremium.png"
+      },
+  {
+        "name": "ESPN PREMIUM",
+        "uri": "https://edge-live11-sl.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257",
+		"icono": "https://i.postimg.cc/02BdYRZz/ver-espn-premium-en-vivo.jpg"
+      },
+      {
+        "name": "ESPN PREMIUM",
+        "uri": "https://multiextrem.live:8443/Usuario0909884/Pass8d99835/556678",
+		"icono": "https://i.postimg.cc/02BdYRZz/ver-espn-premium-en-vivo.jpg"
+      },
+   {
+        "name": "ESPN PREMIUM 2",
+        "uri": "https://multiextrem.live:8443/Usuario0909884/Pass8d99835/525848",
+		"icono": "https://i.postimg.cc/02BdYRZz/ver-espn-premium-en-vivo.jpg"
+      },
+  {
+        "name": "ESPN PREMIUM 3",
+        "uri": "https://multiextrem.live:8443/Usuario0909884/Pass8d99835/525849",
+		"icono": "https://i.postimg.cc/02BdYRZz/ver-espn-premium-en-vivo.jpg"
+      },
+{
+        "name": "Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ |ESPN PREMIUM",
+        "uri": "https://edge-mix02-mus.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/Fox_Sports_Premiun_HD.mpd",
+	"drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257",
+	"icono": "https://i.ibb.co/7XdCF4X/512x512bb-1.jpg"
+                  },
+     {
+        "name": "Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ |ESPN PREMIUM",
+        "uri": "https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257",
+        "icono": "https://i.ibb.co/7XdCF4X/512x512bb-1.jpg"
+      },
+     {
+        "name": "Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ |ESPN PREMIUM",
+        "uri": "https://edge-mix02-mus.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/Fox_Sports_Premiun_HD.mpd",
+	"drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257",
+	"icono": "https://i.ibb.co/7XdCF4X/512x512bb-1.jpg"
+      },
+             
+ {
+        "name": "Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ |ESPN PREMIUM",
+        "uri": "https://edge-live11-sl.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257",
+		"icono": "https://i.ibb.co/7XdCF4X/512x512bb-1.jpg"
+      },
+                      {
+                      "name": "Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ |TNT SPORT HD",
+                      "uri": "https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd",
+                      "drm_scheme": "clearkey",
+                      "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a",
+                      "icono": "https://i.ibb.co/7XdCF4X/512x512bb-1.jpg"
+                  },
+                  {
+                      "name": "Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ |TNT SPORT HD",
+                      "uri": "https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd",
+                      "drm_scheme": "clearkey",
+                      "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a",
+                      "icono": "https://i.ibb.co/7XdCF4X/512x512bb-1.jpg"
+                  },
+{
+                      "name": "Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ | TYC SPORTS",
+                      "uri": "http://190.57.234.164/V5/5/1.m3u8",
+                      "icono": "https://i.ibb.co/7XdCF4X/512x512bb-1.jpg"
+                  },
+                  {
+                      "name": "Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ | TYC SPORTS",
+                      "uri": "https://chromecast.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
+                      "drm_scheme": "clearkey",
+                      "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2b21c8fa9a329cce311a4c4a4aa996a1&key=cc23ea1fb32629f9e1f48c8deeae3e5b",
+                      "icono": "https://i.ibb.co/7XdCF4X/512x512bb-1.jpg"
+                  },
+                  {
+                      "name": "Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ | TYC SPORTS",
+                      "uri": "https://chromecast.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
+                      "drm_scheme": "clearkey",
+                      "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2b21c8fa9a329cce311a4c4a4aa996a1&key=cc23ea1fb32629f9e1f48c8deeae3e5b",
+                      "icono": "https://i.ibb.co/7XdCF4X/512x512bb-1.jpg"
+                  },
+ {
+                      "name": "Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ | TYC-SPORTS",
+                      "uri": "https://multiextrem.live:8443/play/ksXDz0cuJJptXhu-stiaKBGPX_CvIOj8RVW7DtvQv_bKWZJfKbgiyaCxXJs6a9ue/ts",
+                      "icono": "https://i.ibb.co/7XdCF4X/512x512bb-1.jpg"
+                  }
 
-#KODIPROP: tvg-logo="https://img.icons8.com/?size=100&id=jlWmrRO117sm&format=png&color=000000" points="20.029,33 20.486,29 40.486,29 41.514,20 9.514,20 7,42 39,42 40.029,33"></polygon><polygon fill="#e53935" points="43,7 11,7 9.971,16 41.971,16"></polygon>
-</svg>" group-title="👩‍👦‍👦 INFANTILES", CARTON NETWORK
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d7df56efaa36a71141d238854cc46d1d:8abb2ee9150d8b2af8ebec0de0f833c8
-https://cdn.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_Live_dash_enc_wl/CartoonNetwork.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
-#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/54/CH_LOGO/160/160/0/0/47462716073248.png" group-title="ARGENTINA", #️⃣  AMERICA 
-https://cdn.sensa.com.ar/live/eds/America/live_dash_cld/America.mpd
-#EXTINF:-1  tvg-logo= https://geo.edge.pontiscloud.com:9002/images/54/CH_LOGO/160/160/0/0/47462716073248.png
-
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2, tvg-logo= "https://geo.edge.pontiscloud.com:9002/images/54/CH_LOGO/160/160/0/0/47462716073248.png"
-#EXTINF:-1  tvg-logo= https://geo.edge.pontiscloud.com:9002/images/54/CH_LOGO/160/160/0/0/47462716073248.png
-#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/54/CH_LOGO/160/160/0/0/47462716073248.png" group-title="...SENSA", #️⃣  AMERICA 
-#KODIPROP: tvg-logo= "https://geo.edge.pontiscloud.com:9002/images/54/CH_LOGO/160/160/0/0/47462716073248.png"
-https://cdn.sensa.com.ar/live/eds/America/live_dash_cld/America.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-0  #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/54/CH_LOGO/160/160/0/0/47462716073248.png" 
-#KODIPROP:inputstream.adaptive.license_key=f362097815892a4b83950f1d106ff0b2:4349e42e81c31a8389f4a42fcd298928
-#EXTINF:-1 group-title="... FLOW"  tvg-logo="https://static.flow.com.ar/images/270/CH_LOGO/60/40/0/0/81432910072195.png",⚽ DeporTV
-https://chromecast.cvattv.com.ar/live/c3eds/DeporTVHD/SA_Live_dash_enc/DeporTVHD.mpd, #EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/54/CH_LOGO/160/160/0/0/47462716073248.png"
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/TyCSp.png" tvg-name="AMC"
-#KODIPROP:inputstream.adaptive.license_key=2b21c8fa9a329cce311a4c4a4aa996a1:cc23ea1fb32629f9e1f48c8deeae3e5b
-#EXTINF:-1 "https://static.flow.com.ar/images/74/CH_LOGO/60/40/0/0/78711436072355.png" group-title="... FLOW"  , https://upload.wikimedia.org/wikipedia/commons/5/5e/TyCSp.png
-https://chromecast.cvattv.com.ar/live/c5eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd
-
-
-
+              ]
