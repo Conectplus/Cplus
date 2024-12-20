@@ -21,6 +21,7 @@ https://cdn.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_Live_dash_enc/PAKA_PAKA.mpd
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/54/CH_LOGO/160/160/0/0/47462716073248.png" group-title="...SENSA", #️⃣  AMERICA 
+#KODIPROP: tvg-logo= https://geo.edge.pontiscloud.com:9002/images/54/CH_LOGO/160/160/0/0/47462716073248.png
 https://cdn.sensa.com.ar/live/eds/America/live_dash_cld/America.mpd
 
 
