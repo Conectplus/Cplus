@@ -29,7 +29,7 @@ https://chromecast.cvattv.com.ar/live/c3eds/DeporTVHD/SA_Live_dash_enc/DeporTVHD
 #EXTINF:-1 "https://static.flow.com.ar/images/74/CH_LOGO/60/40/0/0/78711436072355.png" group-title="... FLOW"  ,🇦🇷 ⚽  TyC Sports
 https://chromecast.cvattv.com.ar/live/c5eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd
 
-#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1200px-DAZN_Logo_Master.svg.png" group-title="DEPORTES DASH MPD", DAZN 1  (🇪🇸) mpd
+#EXTVLCOPT:  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/1200px-DAZN_Logo_Master.svg.png" group-title="DEPORTES DASH MPD", DAZN 1  (🇪🇸) mpd
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
